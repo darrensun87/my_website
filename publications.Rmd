@@ -1,0 +1,51 @@
+<style type='text/css'>
+body{ /* Normal  */
+      font-size: 14px;
+  }
+</style>
+  
+### **2020**
+1.	Ran JJ, **Sun SZ**, Han LF, Zhao S, Chen DY, Guo F, Li JH, Qiu H, Lei YJ, Tian LW. [Fine particulate matter and cause-specific mortality in the Hong Kong elderly patients with chronic kidney disease](lib/Ran-2020.pdf). *Chemosphere* 2020; 247: 125913.
+2.	**Sun SZ**, Cao WN, Chan KP, Ran JJ, Lee RSY, Wong CM, Tian L. [Cigarette smoking increases deaths associated with air pollution in Hong Kong](lib/1-s2.0-S135223102030008X-main.pdf). *Atmospheric Environment* 2020; 223: 117266.
+3.	Cao W, **Sun SZ**, Peng L, Gu J, Hao C, Li J, Wei D, Li J. [Low willingness to self-pay for pre-exposure prophylaxis (PrEP) among men who have sex with men (MSM) in China](lib/Cao-2020.pdf). *BMC Public Health* 2020; 20: 337.
+4.	Ran JJ, Yang AM, **Sun SZ**, Han LF, Qiu H, Mason TG, Li JH, Yang Y, Chan KP, Tian L. [Long-term exposure to ambient fine particulate matter and mortality of renal failure: A retrospective cohort study in Hong Kong](https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwz282/5696904?redirectedFrom=fulltext). *American Journal of Epidemiology* 2020; In press.
+5.	**Sun SZ**, Sarkar C, Kumari S, James P, Cao WN, Lee RSY, Tian LW, Webster C. [Air pollution associated respiratory mortality risk alleviated by residential greenness in the Chinese Elderly Health Service Cohort](lib/Sun-Air pollution associated respiratory morta.pdf). *Environmental Research* 2020; 183: 109139.
+6.	Chen D, Mayvaneh F, Baaghideh M, Entezari A, Ho HC, Xiang Q, Jiao A, Zhang F, Hu K, Chen G, Zhao Q, **Sun SZ**, Ma L, Zhang Y. [Utilizing daily excess concentration hours to estimate cardiovascular mortality and years of life lost attributable to fine particulate matter in Tehran, Iran](lib/Chen-2019.pdf). *Science of the Total Environment* 2020; 703: 134909.
+
+### **2019**
+7.	Zhang YQ, Xiang QQ, Yu CH, Bao JZ, Ho HC, **Sun SZ**, Ding Z, Hu KJ, Zhang L. [Mortality risk and burden associated with temperature variability in China, United Kingdom and United States: Comparative analysis of daily and hourly exposure metrics](lib/zhang2019.pdf). *Environmental Research* 2019; 179: 108771.
+8.	**Sun SZ**, Cao WN, Qiu H, Ran JJ, Lin HL, Shen C, Lee RSY, Tian L. [Benefits of physical activity not affected by air pollution: a prospective cohort study](lib/oup-accepted-manuscript-2019.pdf). *International Journal of Epidemiology* 2019; doi: 10.1093/ije/dyz184.
+9.	**Sun SZ**, Cao W, Pun VC, Qiu H, Ge Y, Tian L. [Respirable particulate constituents and risks of cause-specific mortality in the Hong Kong population](lib/Sun-Respirable Particulate Constituents and Ri.pdf). *Environmental Science & Technology* 2019; 53(16): 9810-9817.
+10.	**Sun SZ**, Stewart JD, Eliot MN, Yanosky JD, Liao DP, Tinker LF, Eaton CB, Whitsel EA, Wellenius GA (2019). [Short-term exposure to air pollution and incidence of stroke in the Women’s Health Initiative](lib/Sun-Short-term exposure to air pollution and i.pdf). *Environment International* 2019; 132: 105065.
+11.	**Sun SZ**, Spangler KR, Weinberger KR, Yanosky JD, Braun JM, Wellenius GA. [Ambient temperature and markers of fetal growth: A retrospective observational study of 29 million singleton births](lib/EHP4648.pdf). *Environmental Health Perspectives* 2019; 127(6): 067005. (Featured in EHP)
+12.	Cao WN, Wong HG, Mo PKH, **Sun SZ**, Hu YHJ. [Mental health problems of female spouses of men living with HIV in Sichuan, China: A qualitative study](lib/Cao-2019.pdf) *Journal of the Association of Nurses in AIDS Care* 2019; 
+13.	**Sun SZ**, Weinberger KR, Spangler KR, Eliot MN, Braun JM, Wellenius GA. [Ambient temperature and preterm birth: A retrospective study of 32 million US singleton births](lib/1-s2.0-S0160412018324486-main.pdf). *Environment International* 2019; 126: 7-13.
+14.	**Sun SZ**, Tian L, Cao WN, Lai PC, PY Wong, Lee RSY, Mason TG, Tang, R, Kra ̈mer A, Wong CM. [Urban climate modified short-term association of air pollution with pneumonia mortality in Hong Kong](lib/Sun-Urban climate modified short-term associat.pdf). *Science of The Total Environment* 2019; 646: 618-624.
+15.	**Sun SZ**, Cao WN, Mason TG, Ran JJ, Qiu H, Li JH, Yang Y, Lin HL, Tian L. [Increased susceptibility to heat for respiratory hospitalizations in Hong Kong](lib/Sun-Increased susceptibility to heat for respi.pdf). *Science of The Total Environment* 2019; 666: 197-204.
+16.	Lin HL, Guo YF, Ruan ZL, Yang Y, Chen YB, Zheng Y, Cummings-Vaughn LA, Rigdon SE, Vaughn MG, **Sun SZ**, Zhang LL, Wang XJ, Qian ZM, Wu F. [Ambient PM2.5 and O3 and their combined effects on prevalence of presbyopia among the elderly: A cross-sectional study in six low- and middle-income countries](lib/Lin-Ambient PM2. 5 and O3 and their combined e.pdf). *Science of The Total Environment* 2019; 655: 168-173.
+17.	Tonya GM, Chan KP, Schooling MC, **Sun SZ**, Yang AM, Yang Y, Benjamin B, Tian L. [Air quality changes after Hong Kong shipping emission policy: An accountability study](lib/Mason-Air quality changes after Hong Kong ship.pdf), *Chemosphere* 2019; 226: 616-624.
+
+### **2018**
+18.	**Sun SZ**, Francine L, Jaime H, Qiu H, Wang Y, Wong CM, Lee RSY, Tian L. [Seasonal temperature variability and emergency hospital admissions for respiratory diseases: a population-based cohort study](lib/951.full.pdf). *Thorax* 2018; 73: 951-958.
+19.	Ran JJ, **Sun SZ**, Yang AM, Yang L, Han LF, Mason TG, Chan KP, Li JH, Tian LW. [Effects of ambient benzene and toluene on emergency COPD hospitalizations: a time series study in Hong Kong](lib/Ran-Effects of ambient benzene and toluene on.pdf). *Science of The Total Environment* 2018; 657: 28-35.
+20.	Dai YR, Qiu H, **Sun SZ**, Yang Y, Lin HL, Tian L. [Age-dependent effect of ambient ozone on emergency asthma hospitalizations in Hong Kong](lib/Dai-Age-dependent effect of ambient ozone on e.pdf). *The Journal of Allergy and Clinical Immunology* 2018; 141(4): 1532-1534. 
+21.	Qiu H, Schooling CM, **Sun SZ**, Tsang H, Tang R, Yang Y, Wong CM, Lee RSY, Tian L. [Long-term exposure to fine particulate matter air pollution and Type 2 diabetes mellitus in elderly: a cohort study in Hong Kong](lib/Qiu-Long-term exposure to fine particulate mat.pdf). *Environment International* 2018; 113: 350-356. 
+22.	Yang Y, Pun V, **Sun SZ**, Lin HL, Mason TG, Qiu H. [Particulate matter components and Health: a literature review on exposure assessment](lib/Yang-Particulate matter components and health_.pdf). *Journal of Public Health and Emergency* 2018: 2:14. 
+23.	Ran JJ, Qiu H, **Sun SZ**, Tian L. [Short-term effects of ambient TEX (toluene, ethylbenzene, and xylene combined) on cardiorespiratory mortality in Hong Kong](lib/Ran-Short-term effects of ambient benzene and.pdf). *Environment International* 2018; 117: 91-98. 
+24.	Ran JJ, Qiu H, **Sun SZ**, Yang AM, Tian L. [Are ambient volatile organic compounds environmental stressors for heart failure?](lib/1-s2.0-S0269749118311564-main.pdf) *Environmental Pollution* 2018; 242: 1810-1816.
+
+### **Before 2018**
+25. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature as a modifier of the effects o.pdf). *Environmental Pollution* 2015; 205: 357-364. 
+26.	**Sun SZ**, Qiu H, Ho KF, Tian L. [Chemical components of respirable particulate matter associated with emergency hospital admissions for Type 2 diabetes in Hong Kong](lib/Sun-Chemical components of respirable particul.pdf). *Environment International* 2016; 97: 93-99. 
+27. **Sun SZ**, Tian L, Qiu H, Chan KP, Tsang H, Tang R, Lee RSY, Thach TQ, Wong CM. [The influence of pre-existing health conditions on short-term mortality risks of temperature: Evidence from a prospective Chinese elderly cohort in Hong Kong](lib/Sun-The influence of pre-existing health condi.pdf). *Environmental Research* 2016; 148: 7-14. 
+28. Qiu H, **Sun SZ**, Tang R, Chan KP, Tian L. [Pneumonia hospitalization risk in the Elderly attributable to cold and hot temperature in Hong Kong](lib/Qiu-Pneumonia hospitalization risk in the elde.pdf). *American Journal of Epidemiology* 2016; 184 (8): 570-578.
+29. Li J, **Sun SZ**, Tang R, Qiu H, Huang Q, Mason GM, Tian L. [Major air pollutants and COPD: A Systematic review and Meta-analysis](lib/Li-Major air pollutants and risk of COPD exace.pdf). *International Journal of Chronic Obstructive Pulmonary Disease* 2016; 11(1): 3079-3091. 
+30. Tian L, Qiu H, **Sun SZ**, Lin H. [Emergency cardiovascular hospitalizations risk attributable to cold temperatures in Hong Kong](lib/Tian-Emergency Cardiovascular Hospitalizations.pdf). *Circulation: Cardiovascular Quality and Outcomes* 2016; 9(2): 135-142. 
+31. Tian L, Qiu H, **Sun SZ**, Tsang H, Chan KP, Leung WK. [Association between Emergency admission for peptic ulcer bleeding and air pollution: A case-crossover analysis in Hong Kong Elderly population](lib/Tian-Association between emergency admission f.pdf). *The Lancet Planetary Health* 2017; 1: e74-81. 
+32. Qiu H, **Sun SZ**, Tsang, H, Wong CM, Lee RSY, Schooling CM, Tian L. [Fine particulate matter exposure and incidence of stroke: A cohort study in Hong Kong](lib/Qiu-Fine particulate matter exposure and incid.pdf). *Neurology* 2017; 88: 1-9. 
+33. Tian L, **Sun SZ**. [Comparison of health impact of air pollution between China and other countries](lib/Tian-Comparison of Health Impact of Air Pollut.pdf). *Advances in Experimental Medicine and Biology* 2017; 1017:215-232. 
+
+
+
+*For citation records, please refer to [my Google Scholar page](https://scholar.google.com.hk/citations?hl=en&user=R0S2h00AAAAJ&view_op=list_works&sortby=pubdate).
+
