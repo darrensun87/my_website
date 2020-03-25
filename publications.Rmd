@@ -35,7 +35,7 @@ body{ /* Normal  */
 24.	Ran JJ, Qiu H, **Sun SZ**, Yang AM, Tian L. [Are ambient volatile organic compounds environmental stressors for heart failure?](lib/1-s2.0-S0269749118311564-main.pdf) *Environmental Pollution* 2018; 242: 1810-1816.
 
 ### **Before 2018**
-25. Qiu H, **Sun SZ**, Tsang, H, Wong CM, Lee RSY, Schooling CM, Tian L. [Fine particulate matter exposure and incidence of stroke: A cohort study in Hong Kong](lib/Qiu-Fine particulate matter exposure and incid.pdf). *Neurology* 2017; 88: 1-9. 
+25. Qiu H, **Sun SZ**, Tsang, H, Wong CM, Lee RSY, Schooling CM, Tian L. [Fine particulate matter exposure and incidence of stroke: A cohort study in Hong Kong](lib/00006114-201705020-00007.pdf). *Neurology* 2017; 88: 1-9. 
 26. Tian L, Qiu H, **Sun SZ**, Tsang H, Chan KP, Leung WK. [Association between Emergency admission for peptic ulcer bleeding and air pollution: A case-crossover analysis in Hong Kong Elderly population](lib/Tian-Association between emergency admission f.pdf). *The Lancet Planetary Health* 2017; 1: e74-81. 
 27. Tian L, **Sun SZ**. [Comparison of health impact of air pollution between China and other countries](lib/Tian-Comparison of Health Impact of Air Pollut.pdf). *Advances in Experimental Medicine and Biology* 2017; 1017:215-232.
 28.	**Sun SZ**, Qiu H, Ho KF, Tian L. [Chemical components of respirable particulate matter associated with emergency hospital admissions for Type 2 diabetes in Hong Kong](lib/Sun-Chemical components of respirable particul.pdf). *Environment International* 2016; 97: 93-99. 
