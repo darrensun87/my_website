@@ -1,5 +1,7 @@
 ---
+pagetitle: Shengzhi Sun, PhD
 ---
+
 <style type='text/css'>
 body{ /* Normal  */
       font-size: 14px;
@@ -7,6 +9,8 @@ body{ /* Normal  */
 </style>
 
 <link rel="stylesheet" href="styles.css" type="text/css">
+
+
 
 <img src="headshot.jpg" style="width:28%; border:2px solid; margin-right: 20px" align="left">
 

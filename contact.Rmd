@@ -1,4 +1,5 @@
 ---
+pagetitle: Contact - Shengzhi Sun
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
@@ -8,7 +9,6 @@ body{ /* Normal  */
   }
 </style>
 
-## Contact
 **Shengzhi Sun**, PhD<br>
 Department of Environmental Health<br> 
 Boston University School of Public Health<br>
