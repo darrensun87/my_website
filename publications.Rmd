@@ -18,10 +18,10 @@ body{ /* Normal  */
 4.	Ran JJ, Yang AM, **Sun SZ**, Han LF, Qiu H, Mason TG, Li JH, Yang Y, Chan KP, Tian L. [Long-term exposure to ambient fine particulate matter and mortality of renal failure: A retrospective cohort study in Hong Kong](https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwz282/5696904?redirectedFrom=fulltext). *American Journal of Epidemiology* 2020; In press.
 5.	**Sun SZ**, Sarkar C, Kumari S, James P, Cao WN, Lee RSY, Tian LW, Webster C. [Air pollution associated respiratory mortality risk alleviated by residential greenness in the Chinese Elderly Health Service Cohort](lib/Sun-Air pollution associated respiratory morta.pdf). *Environmental Research* 2020; 183: 109139.
 6.	Chen D, Mayvaneh F, Baaghideh M, Entezari A, Ho HC, Xiang Q, Jiao A, Zhang F, Hu K, Chen G, Zhao Q, **Sun SZ**, Ma L, Zhang Y. [Utilizing daily excess concentration hours to estimate cardiovascular mortality and years of life lost attributable to fine particulate matter in Tehran, Iran](lib/Chen-2019.pdf). *Science of the Total Environment* 2020; 703: 134909.
+7.	**Sun SZ**, Cao WN, Qiu H, Ran JJ, Lin HL, Shen C, Lee RSY, Tian L. [Benefits of physical activity not affected by air pollution: a prospective cohort study](lib/dyz184.pdf). *International Journal of Epidemiology* 2020; 142-152.
 
 ### **2019**
-7.	Zhang YQ, Xiang QQ, Yu CH, Bao JZ, Ho HC, **Sun SZ**, Ding Z, Hu KJ, Zhang L. [Mortality risk and burden associated with temperature variability in China, United Kingdom and United States: Comparative analysis of daily and hourly exposure metrics](lib/zhang2019.pdf). *Environmental Research* 2019; 179: 108771.
-8.	**Sun SZ**, Cao WN, Qiu H, Ran JJ, Lin HL, Shen C, Lee RSY, Tian L. [Benefits of physical activity not affected by air pollution: a prospective cohort study](lib/oup-accepted-manuscript-2019.pdf). *International Journal of Epidemiology* 2019; In press.
+8.	Zhang YQ, Xiang QQ, Yu CH, Bao JZ, Ho HC, **Sun SZ**, Ding Z, Hu KJ, Zhang L. [Mortality risk and burden associated with temperature variability in China, United Kingdom and United States: Comparative analysis of daily and hourly exposure metrics](lib/zhang2019.pdf). *Environmental Research* 2019; 179: 108771.
 9.	**Sun SZ**, Cao W, Pun VC, Qiu H, Ge Y, Tian L. [Respirable particulate constituents and risks of cause-specific mortality in the Hong Kong population](lib/acs.est.9b01635.pdf). *Environmental Science & Technology* 2019; 53(16): 9810-9817.
 10.	**Sun SZ**, Stewart JD, Eliot MN, Yanosky JD, Liao DP, Tinker LF, Eaton CB, Whitsel EA, Wellenius GA (2019). [Short-term exposure to air pollution and incidence of stroke in the Women’s Health Initiative](lib/Sun-Short-term exposure to air pollution and i.pdf). *Environment International* 2019; 132: 105065.
 11.	**Sun SZ**, Spangler KR, Weinberger KR, Yanosky JD, Braun JM, Wellenius GA. [Ambient temperature and markers of fetal growth: A retrospective observational study of 29 million singleton births](lib/EHP4648.pdf). *Environmental Health Perspectives* 2019; 127(6): 067005. (Featured in EHP)
@@ -53,6 +53,5 @@ body{ /* Normal  */
 33. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature as a modifier of the effects o.pdf). *Environmental Pollution* 2015; 205: 357-364. 
 
 
-
-*For citation records, please refer to [my Google Scholar page](https://scholar.google.com.hk/citations?hl=en&user=R0S2h00AAAAJ&view_op=list_works&sortby=pubdate).
+For citation records, please refer to [my Google Scholar page](https://scholar.google.com.hk/citations?hl=en&user=R0S2h00AAAAJ&view_op=list_works&sortby=pubdate).
 
