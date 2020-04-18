@@ -1,5 +1,5 @@
 ---
-pagetitle: Professional activity - Shengzhi Sun
+pagetitle: Professional activities - Shengzhi Sun
 ---
 <style type='text/css'>
 body{ /* Normal  */
