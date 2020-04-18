@@ -8,6 +8,8 @@ navbar:
       href: about.html
     - text: "Publications"
       href: publications.html
+    - text: "Professional Services"
+      href: activity.html
     - text: "Contact"
       href: contact.html
     - text: "Others"

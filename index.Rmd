@@ -17,7 +17,6 @@ body{ /* Normal  */
 I am a research scientist at Boston University School of Public Health. My primary research focuses on estimating the impacts of extreme weather events and built environment risk factors, such as air pollution, light pollution, and greenness space, on human health across the life course, especially for susceptible subgroups of the fetus, children, and elderly. Prior to Boston University, I was a postdoctoral research associate at Brown University School of Public Health. I received a PhD in epidemiology and biostatistics from the University of Hong Kong (2017) and earned a MPhil in Environmental Health from Peking University (2013).
 
 
-<img src="image/pdf.png" width="20">&nbsp; Curriculum Vitae     
 <img src="image/google_scholar.png" width="20">&nbsp; [Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=R0S2h00AAAAJ&view_op=list_works&sortby=pubdate)    
 &nbsp;<img src="image/rg.png" width="15">&nbsp;  [Researchgate](https://www.researchgate.net/profile/Shengzhi_Sun)     
 &nbsp;<img src="image/publons.png" width="15">  &nbsp;[Publons](https://publons.com/researcher/1639866/shengzhi-sun/)         

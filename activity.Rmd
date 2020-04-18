@@ -1,0 +1,50 @@
+---
+pagetitle: Professional activity - Shengzhi Sun
+---
+<style type='text/css'>
+body{ /* Normal  */
+      margin-top: 20px;
+      font-size: 14px;
+  }
+#content .post-title {
+ display: none;
+}
+</style>
+
+### Editorial Responsibilities
+
+2019 - Present &nbsp;&nbsp;&nbsp; Associate Editor, *BMC Public Health*    
+2019 - Present &nbsp;&nbsp;&nbsp; Reviewer Board Member, *International Journal of Environmental Research and Public Health*
+\
+
+
+### Reviewer for:
+- American Journal of Respiratory and Critical Care Medicine   
+- Atmospheric Environment
+- Atmosphere
+- BMJ
+- BMJ Open
+- BMC Public Health
+- Biomedicine & Pharmacotherapy
+- Chemosphere
+- Clinical Infectious Diseases
+- Environmental Health Perspectives
+- Environmental Science & Technology
+- Environment International
+- European Journal of Epidemiology
+- Environmental Pollution
+- Environmental Research
+- International Journal of Environmental Health Research
+- International Journal of Environmental Research and Public Health
+- International Journal of Biometeorology
+- Journal of Clinical Medicine
+- Journal of Cleaner Production
+- JAMA Network Open
+- Neurology
+- PLOS Medicine
+- Paediatric and Perinatal Epidemiology
+- Science of the Total Environment
+- The Lancet Planetary Health
+- The Journal of Infectious Diseases
+- Tropical Medicine and Infectious Disease
+
