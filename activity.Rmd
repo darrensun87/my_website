@@ -20,6 +20,7 @@ body{ /* Normal  */
 
 ### Reviewer for:
 - American Journal of Respiratory and Critical Care Medicine   
+- Annals of Internal Medicine  
 - Atmospheric Environment
 - Atmosphere
 - BMJ
