@@ -13,7 +13,7 @@ body{ /* Normal  */
 
 ### **2020**
 1.	**Sun SZ**, Weinberger KR, Yan ML, Anderson BG, Wellenius GA. Tropical Cyclone and Risk of Preterm Birth: A Retrospective Analysis of 20 Million Births across 378 US Counties. *Environment International* 2020; Under Revision.
-2. Yang G, **Sun SZ**. [Estimation of coronavirus disease case-fatality risk in real time](https://wwwnc.cdc.gov/eid/article/26/8/20-1093_article). *Emerging Infectious Diseases* 2020; 26 (8).
+2. Yang G, **Sun SZ**. [Estimation of coronavirus disease case-fatality risk in real time](https://wwwnc.cdc.gov/eid/article/26/8/20-1096_article). *Emerging Infectious Diseases* 2020; 26 (8).
 3.	Ran JJ, **Sun SZ**, Han LF, Zhao S, Chen DY, Guo F, Li JH, Qiu H, Lei YJ, Tian LW. [Fine particulate matter and cause-specific mortality in the Hong Kong elderly patients with chronic kidney disease](lib/Ran-2020.pdf). *Chemosphere* 2020; 247: 125913.
 4.	**Sun SZ**, Cao WN, Chan KP, Ran JJ, Lee RSY, Wong CM, Tian L. [Cigarette smoking increases deaths associated with air pollution in Hong Kong](lib/1-s2.0-S135223102030008X-main.pdf). *Atmospheric Environment* 2020; 223: 117266.
 5.	Cao W, **Sun SZ**, Peng L, Gu J, Hao C, Li J, Wei D, Li J. [Low willingness to self-pay for pre-exposure prophylaxis (PrEP) among men who have sex with men (MSM) in China](lib/Cao-2020.pdf). *BMC Public Health* 2020; 20: 337.
