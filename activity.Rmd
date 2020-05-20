@@ -50,6 +50,6 @@ body{ /* Normal  */
 - The Journal of Infectious Diseases
 - Tropical Medicine and Infectious Disease
 
-For journal review records, please refer to [my Publons page](https://publons.com/researcher/1639866/shengzhi-sun/).
+For journal review records, please refer to [my Publons page](https://publons.com/researcher/1639866/shengzhi-sun/peer-review/).
 
 
