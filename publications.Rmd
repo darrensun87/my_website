@@ -12,7 +12,7 @@ body{ /* Normal  */
 </style>    
 
 ### **2020**
-1.	**Sun SZ**, Weinberger KR, Yan ML, Anderson BG, Wellenius GA. [Tropical Cyclones and Risk of Preterm Birth: A Retrospective Analysis of 20 Million Births across 378 US Counties](lib/1-s2.0-S0160412020317803-main.pdf). *Environment International* 2020; In press.
+1.	**Sun SZ**, Weinberger KR, Yan ML, Anderson BG, Wellenius GA. [Tropical Cyclones and Risk of Preterm Birth: A Retrospective Analysis of 20 Million Births across 378 US Counties](lib/1-s2.0-S0160412020317803-main.pdf). *Environment International* 2020; 140: 105825.
 2. Yang G, **Sun SZ**. [Estimation of coronavirus disease case-fatality risk in real time](https://wwwnc.cdc.gov/eid/article/26/8/20-1096_article). *Emerging Infectious Diseases* 2020; 26 (8).
 3. Yang G, McKay BK, **Sun SZ**, Zhang F, Handel A. Assessing the impact of symptom-based mass screening and testing intervention during a novel infectious disease outbreak: The case of COVID-19. *medRxiv* 2020; doi: https://doi.org/10.1101/2020.02.20.20025973.
 4.	Ran JJ, **Sun SZ**, Han LF, Zhao S, Chen DY, Guo F, Li JH, Qiu H, Lei YJ, Tian LW. [Fine particulate matter and cause-specific mortality in the Hong Kong elderly patients with chronic kidney disease](lib/Ran-2020.pdf). *Chemosphere* 2020; 247: 125913.
