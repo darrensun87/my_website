@@ -44,6 +44,7 @@ body{ /* Normal  */
 - Journal of Exposure Science And Environmental Epidemiology
 - JAMA Network Open
 - Neurology
+- PLOS One
 - PLOS Medicine
 - Paediatric and Perinatal Epidemiology
 - Science of the Total Environment
