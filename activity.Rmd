@@ -27,6 +27,7 @@ body{ /* Normal  */
 - BMJ
 - BMJ Open
 - BMC Public Health
+- BMC Infectious Diseases
 - Biomedicine & Pharmacotherapy
 - Chemosphere
 - Clinical Infectious Diseases
