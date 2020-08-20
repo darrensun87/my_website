@@ -51,6 +51,7 @@ body{ /* Normal  */
 - Paediatric and Perinatal Epidemiology
 - Science of the Total Environment
 - The Lancet Planetary Health
+- The Lancet Public Health
 - The Journal of Infectious Diseases
 - Tropical Medicine and Infectious Disease
 
