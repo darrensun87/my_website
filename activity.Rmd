@@ -32,6 +32,7 @@ body{ /* Normal  */
 - Biomedicine & Pharmacotherapy
 - Chemosphere
 - Clinical Infectious Diseases
+- Data in brief   
 - Environmental Health Perspectives
 - Environmental Science & Technology
 - Environment International
