@@ -39,6 +39,7 @@ body{ /* Normal  */
 - European Journal of Epidemiology
 - Environmental Pollution
 - Environmental Research
+- Environmental Research Letters
 - Ecotoxicology and Environmental Safety
 - International Journal of Environmental Health Research
 - International Journal of Environmental Research and Public Health
