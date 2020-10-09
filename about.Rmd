@@ -5,14 +5,13 @@ pagetitle: About - Shengzhi Sun
 body{ /* Normal  */
       margin-top: 22px;
       font-size: 16px;
-      color: black
+      color: black;
   }
 
 #content .post-title {
  display: none;
 }
 </style> 
-
 
 
 <link rel="stylesheet" href="styles.css" type="text/css" title='about'>
