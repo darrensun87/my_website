@@ -3,15 +3,16 @@ pagetitle: Professional activities - Shengzhi Sun
 ---
 <style type='text/css'>
 body{ /* Normal  */
-      margin-top: 20px;
-      font-size: 14px;
+      margin-top: 22px;
+      font-size: 16px;
+      color: black
   }
 #content .post-title {
  display: none;
 }
-</style>
+</style> 
 
-### Editorial Responsibilities
+### **Editorial Responsibilities**
 
 2019 - Present &nbsp;&nbsp;&nbsp; Associate Editor, *BMC Public Health*    
 2019 - Present &nbsp;&nbsp;&nbsp; Reviewer Board Member, *International Journal of Environmental Research and Public Health*    
@@ -19,7 +20,7 @@ body{ /* Normal  */
 \
 
 
-### Reviewer for:
+### **Reviewer for**
 - Aerosol and Air Quality Research
 - American Journal of Respiratory and Critical Care Medicine   
 - Annals of Internal Medicine  
