@@ -12,6 +12,7 @@ body{ /* Normal  */
 }
 </style>   
 
+*Corresponding author
 
 1. Yang P, Lin BG, Zhou B, Cao WC, Chen PP, Deng YL, Hou J, **Sun SZ**, Zheng TZ, Lu WQ, Cheng LM, Zeng WJ, Zeng Q. Sex-specific associations of prenatal exposure to bisphenol A and its alternatives with fetal growth parameters and gestational age. Environment International 2021; *In Press*.
 1. Zhang M, Liu C, Cui FP, Chen PP, Deng YL, Luo Q, Miao Y, **Sun SZ**, Li YF, Lu WQ, Zeng Q. [The role of oxidative stress in association between disinfection by-products exposure and semen quality: A mediation analysis among men from an infertility clinic](lib/1-s2.0-S004565352033054X-main.pdf). Chemosphere 2021;  *In Press*. https://doi.org/10.1016/j.chemosphere.2020.128856
@@ -56,8 +57,6 @@ body{ /* Normal  */
 39. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature as a modifier of the effects o.pdf). Environmental Pollution 2015; 205: 357-364. https://doi.org/10.1016/j.envpol.2015.06.007
 \n
 
-
-*Corresponding author
 
 For citation records, please refer to [my Google Scholar page](https://scholar.google.com.hk/citations?hl=en&user=R0S2h00AAAAJ&view_op=list_works&sortby=pubdate).
 
