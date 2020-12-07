@@ -14,13 +14,13 @@ body{ /* Normal  */
 
 *Corresponding author
 
-### In Press
+### **In Press**   
 1. Yang P, Lin BG, Zhou B, Cao WC, Chen PP, Deng YL, Hou J, **Sun SZ**, Zheng TZ, Lu WQ, Cheng LM, Zeng WJ, Zeng Q. Sex-specific associations of prenatal exposure to bisphenol A and its alternatives with fetal growth parameters and gestational age. Environment International 2021.
 2. **Sun SZ**, Cao WN, Ge Y, Ran JJ, Sun F, Zeng Q, Guo MD, Huang JX, Lee RSY, Tian LW, Wellenius GA. [Outdoor light at night and risk of coronary heart disease among older adults: A prospective cohort study](lib/ehaa846.pdf). European Heart Journal 2020. https://doi.org/10.1093/eurheartj/ehaa846
 3. Zhang M, Liu C, Cui FP, Chen PP, Deng YL, Luo Q, Miao Y, **Sun SZ**, Li YF, Lu WQ, Zeng Q. [The role of oxidative stress in association between disinfection by-products exposure and semen quality: A mediation analysis among men from an infertility clinic](lib/1-s2.0-S004565352033054X-main.pdf). Chemosphere 2021. https://doi.org/10.1016/j.chemosphere.2020.128856
 
 
-### Peer-reviewed Articles  
+### **Peer-reviewed Articles**  
 4. Wang LN, Wu XM, Du JQ, Cao WN, **Sun SZ**\*. [Global burden of ischemic heart disease attributable to ambient particulate matter pollution from 1990 to 2017](lib/1-s2.0-S0045653520323298-main.pdf). Chemosphere  2021; 263: 128134. https://doi.org/10.1016/j.chemosphere.2020.128134
 2. Ran JJ, Kioumourtzoglou M, **Sun SZ**, Han LF, Zhao S, Zhu W, Li JH, Tian LW. [Source-specific Volatile Organic Compounds and Emergency Hospital Admissions for Cardiorespiratory Diseases](lib/ijerph-17-06210.pdf). International Journal of Environmental Research and Public Health. 2020; 17: 6210. https://doi.org/10.3390/ijerph17176210
 3. **Sun SZ**, Zhao JZ, Cao WN, Zheng TZ, Lu WQ, Zeng Q. [Identifying critical exposure windows for ambient air pollution and semen quality in Chinese men](lib/1-s2.0-S0013935120307891-main.pdf). Environmental research 2020; 189: 109894. https://doi.org/10.1016/j.envres.2020.109894
