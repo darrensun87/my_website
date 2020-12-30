@@ -20,7 +20,7 @@ body{ /* Normal  */
 
 ### **In Press**   
 3. Du JQ, Wang LN, Wu XM, Cao WN, **Sun SZ**\*. A comparative study of the disease burden attributable to PM2.5 in China, Japan and South Korea between 1990 and 2017. Ecotoxicology and Environmental Safety 2021. https://doi.org/10.1016/j.ecoenv.2020.111856
-4. Wang LN, Du JQ, Cao WN, **Sun SZ**\*. Trends of stroke attributable to high sodium intake at the global, regional, and national levels from 1990 to 2019: a population-based study. Neurological Research 2021. https://doi.org/10.1080/01616412.2020.1867950
+4. Wang LN, Du JQ, Cao WN, **Sun SZ**\*. [Trends of stroke attributable to high sodium intake at the global, regional, and national levels from 1990 to 2019: a population-based study](lib/NR.pdf). Neurological Research 2021. https://doi.org/10.1080/01616412.2020.1867950
 1. **Sun SZ**, Cao WN, Ge Y, Ran JJ, Sun F, Zeng Q, Guo MD, Huang JX, Lee RSY, Tian LW, Wellenius GA. [Outdoor light at night and risk of coronary heart disease among older adults: A prospective cohort study](lib/ehaa846.pdf). European Heart Journal 2020. https://doi.org/10.1093/eurheartj/ehaa846. 
 2. Zhang M, Liu C, Cui FP, Chen PP, Deng YL, Luo Q, Miao Y, **Sun SZ**, Li YF, Lu WQ, Zeng Q. [The role of oxidative stress in association between disinfection by-products exposure and semen quality: A mediation analysis among men from an infertility clinic](lib/1-s2.0-S004565352033054X-main.pdf). Chemosphere 2021. https://doi.org/10.1016/j.chemosphere.2020.128856
 
