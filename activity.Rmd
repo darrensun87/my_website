@@ -24,7 +24,8 @@ body{ /* Normal  */
 
 ### **Reviewer for**
 - Aerosol and Air Quality Research
-- American Journal of Respiratory and Critical Care Medicine   
+- American Journal of Respiratory and Critical Care Medicine 
+- American Journal of Epidemiology
 - Annals of Internal Medicine  
 - Atmospheric Environment
 - Atmosphere
