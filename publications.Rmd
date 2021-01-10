@@ -15,22 +15,23 @@ body{ /* Normal  */
 *Corresponding author
 
 ### **In Review** 
-1. Bernstein AS, **Sun SZ**, Weinberger KR, Spangler KR, Sheffield PE, Wellenius GA. Summer Heat and Emergency Department Visits to US Children's Hospitals.
-2. Association between Hurricane Sandy and emergency department visits in New York City by age and cause.
-3. Habitual physical activity, fine particulate matter exposure, and the incidence risk of dementia.
+1. Bernstein AS, **Sun SZ**, Weinberger KR, Spangler KR, Sheffield PE, Wellenius GA. Summer Heat and Emergency Department Visits to US Children's Hospitals
+2. Association between Hurricane Sandy and emergency department visits in New York City by age and cause
+3. Habitual physical activity, fine particulate matter exposure, and the incidence risk of dementia
 4. Early life exposure to air pollution and cell-mediated immune responses in preschoolers.
 5. Long-term exposure to fine particulate matter and non-alcoholic fatty liver disease: Prospective cohort study
+6. HIV serostatus disclosure among men who have sex with men in China in the era of U=U and PrEP
 
 
 ### **In Press**  
-6. Ge Y, **Sun SZ** (**equal contributors**), Shen Y. Estimation of case-fatality rate in COVID-19 patients with hypertension and diabetes melltius in the New York State: a preliminary report. Epidemiology & Infection 2021. https://doi.org/10.1017/S0950268821000066
+7. Ge Y, **Sun SZ** (**equal contributors**), Shen Y. Estimation of case-fatality rate in COVID-19 patients with hypertension and diabetes melltius in the New York State: a preliminary report. Epidemiology & Infection 2021. https://doi.org/10.1017/S0950268821000066
 3. Wang LN, Du JQ, Cao WN, **Sun SZ**\*. [Trends of stroke attributable to high sodium intake at the global, regional, and national levels from 1990 to 2019: a population-based study](lib/NR.pdf). Neurological Research 2021. https://doi.org/10.1080/01616412.2020.1867950
 1. **Sun SZ**, Cao WN, Ge Y, Ran JJ, Sun F, Zeng Q, Guo MD, Huang JX, Lee RSY, Tian LW, Wellenius GA. [Outdoor light at night and risk of coronary heart disease among older adults: A prospective cohort study](lib/ehaa846.pdf). European Heart Journal 2020. https://doi.org/10.1093/eurheartj/ehaa846. 
 2. Zhang M, Liu C, Cui FP, Chen PP, Deng YL, Luo Q, Miao Y, **Sun SZ**, Li YF, Lu WQ, Zeng Q. [The role of oxidative stress in association between disinfection by-products exposure and semen quality: A mediation analysis among men from an infertility clinic](lib/1-s2.0-S004565352033054X-main.pdf). Chemosphere 2021. https://doi.org/10.1016/j.chemosphere.2020.128856
 
 
 ### **Peer-reviewed Articles**  
-10. Du JQ, Wang LN, Wu XM, Cao WN, **Sun SZ**\*. [A comparative study of the disease burden attributable to PM~2.5~ in China, Japan and South Korea between 1990 and 2017](lib/1-s2.0-S0147651320316924-main.pdf). Ecotoxicology and Environmental Safety 2021; 209: 11856. https://doi.org/10.1016/j.ecoenv.2020.111856
+11. Du JQ, Wang LN, Wu XM, Cao WN, **Sun SZ**\*. [A comparative study of the disease burden attributable to PM~2.5~ in China, Japan and South Korea between 1990 and 2017](lib/1-s2.0-S0147651320316924-main.pdf). Ecotoxicology and Environmental Safety 2021; 209: 11856. https://doi.org/10.1016/j.ecoenv.2020.111856
 7. Ran JJ, Schooling CM, Han LF, **Sun SZ**, Zhao S, Zhang XH, Chan KP, Guo F, Lee RSY, Qiu YL, Tian LW. [Long-term exposure to fine particulate matter and dementia incidence: A cohort study in Hong Kong](lib/1-s2.0-S026974912036992X-main.pdf). Environmental Pollution 2021; 271(2021):116303. https://doi.org/10.1016/j.envpol.2020.116303
 8. Yang P, Lin BG, Zhou B, Cao WC, Chen PP, Deng YL, Hou J, **Sun SZ**, Zheng TZ, Lu WQ, Cheng LM, Zeng WJ, Zeng Q. [Sex-specific associations of prenatal exposure to bisphenol A and its alternatives with fetal growth parameters and gestational age](lib/1-s2.0-S0160412020322601-main.pdf). Environment International 2021; 146(2021): 106305. https://doi.org/10.1016/j.envint.2020.106305.
 4. Wang LN, Wu XM, Du JQ, Cao WN, **Sun SZ**\*. [Global burden of ischemic heart disease attributable to ambient particulate matter pollution from 1990 to 2017](lib/1-s2.0-S0045653520323298-main.pdf). Chemosphere  2021; 263: 128134. https://doi.org/10.1016/j.chemosphere.2020.128134
