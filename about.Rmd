@@ -18,7 +18,7 @@ body{ /* Normal  */
 
 <img src="headshot.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="left">
 
-I am a research scientist at Boston University School of Public Health. My primary research interests focus on estimating the impacts of climate hazards, air pollution, and built environment on human health across the life course under a changing climate, especially for susceptible subgroups of the fetus, children, pregnant women, and elderly. Prior to Boston University, I was a postdoctoral research associate at Brown University School of Public Health. I received a PhD in epidemiology and biostatistics from the University of Hong Kong (2017) and earned a MSc in Environmental Health from Peking University (2013).
+I am a research scientist currently working at [Dr. Wellenius's research group](https://profiles.bu.edu/Gregory.Wellenius) at Boston University. My primary research interests focus on estimating the impacts of climate hazards, air pollution, and built environment on human health across the life course under a changing climate, especially for susceptible subgroups of the fetus, children, pregnant women, and elderly. Prior to Boston University, I was a postdoctoral research associate at Brown University School of Public Health. I received a PhD in epidemiology and biostatistics from the University of Hong Kong (2017) and earned a MSc in Environmental Health from Peking University (2013).
 
 
 <img src="image/google_scholar.png" width="20">&nbsp; [Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=R0S2h00AAAAJ&view_op=list_works&sortby=pubdate)    
