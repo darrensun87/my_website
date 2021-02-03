@@ -15,5 +15,9 @@ knitr::opts_chunk$set(echo = TRUE)
 4. Early life exposure to air pollution and cell-mediated immune responses in preschoolers.
 5. Long-term exposure to fine particulate matter and non-alcoholic fatty liver disease: Prospective cohort study
 6. HIV serostatus disclosure among men who have sex with men in China in the era of U=U and PrEP
-7. Deaths from diabetes during the COVID-19 pandemic in the United States
+7. Increase in diabetes deaths associated with COVID-19 pandemic in the United States
 8. Covid-19 transmission dynamics among close contacts of Covid-19 index cases: a population-based cohort study in Zhejiang province, China
+
+
+
+
