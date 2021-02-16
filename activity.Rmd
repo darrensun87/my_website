@@ -39,6 +39,7 @@ body{ /* Normal  */
 - Data in brief   
 - Environmental Health Perspectives
 - Environmental Science & Technology
+- Environmental Science & Technology Letters
 - Environment International
 - European Journal of Epidemiology
 - Environmental Pollution
