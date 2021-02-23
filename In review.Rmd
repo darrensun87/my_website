@@ -9,15 +9,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ### **In Review** 
-1. Bernstein AS, **Sun SZ**, Weinberger KR, Spangler KR, Sheffield PE, Wellenius GA. Summer Heat and Emergency Department Visits to US Children's Hospitals
-2. Association between Hurricane Sandy and emergency department visits in New York City by age and cause
-3. Habitual physical activity, fine particulate matter exposure, and the incidence risk of dementia
-4. Early life exposure to air pollution and cell-mediated immune responses in preschoolers.
-5. Long-term exposure to fine particulate matter and non-alcoholic fatty liver disease: Prospective cohort study
-6. HIV serostatus disclosure among men who have sex with men in China in the era of U=U and PrEP
-7. Increase in diabetes deaths associated with COVID-19 pandemic in the United States
-8. Covid-19 transmission dynamics among close contacts of Covid-19 index cases: a population-based cohort study in Zhejiang province, China
-
+1. Heat alerts, mortality, and hospital admissions among older adults in the United States
+2. The increased prevalence of psoriasis from 1990 to 2019 due to population aging and growth: A global decomposition analysis from the Global Burden of Disease Study 2019
 
 
 
