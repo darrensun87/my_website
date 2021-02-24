@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### **In Review** 
 1. Heat alerts, mortality, and hospital admissions among older adults in the United States
-2. The increased prevalence of psoriasis from 1990 to 2019 due to population aging and growth: A global decomposition analysis from the Global Burden of Disease Study 2019
+2. Adverse pregnancy outcomes during the COVID-19 pandemic in the United States
 
 
 
