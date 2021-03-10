@@ -6,6 +6,12 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+### **In Revision**
+1. Summer Heat and Emergency Department Visits to US Children's Hospitals
+2. Association between Hurricane Sandy and emergency department visits in New York City by age and cause
+3. Habitual physical activity, fine particulate matter exposure, and the incidence risk of dementia
+4. Long-term exposure to fine particulate matter and non-alcoholic fatty liver disease: A prospective cohort study
+5. Global burden attributable to high sodium intake from 1990 to 2019
 
 
 ### **In Review** 
