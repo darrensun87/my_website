@@ -16,7 +16,7 @@ body{ /* Normal  */
 
 
 ### **In Press**  
-1. Ran JJ, Zhang YM, Han LF, **Sun SZ**, Zhao S, Shen C, Zhang XH, Chan KP, Lee RSY, Qiu YL, Tian LW. The joint association of physical activity and fine particulate matter exposure with incident dementia in Hong Kong older adults. Environment International 2021.
+1. Ran JJ, Zhang YM, Han LF, **Sun SZ**, Zhao S, Shen C, Zhang XH, Chan KP, Lee RSY, Qiu YL, Tian LW. The joint association of physical activity and fine particulate matter exposure with incident dementia in Hong Kong older adults. Environment International 2021. 
 2. Wang LN, Du JQ, Cao WN, **Sun SZ**\*. [Trends of stroke attributable to high sodium intake at the global, regional, and national levels from 1990 to 2019: a population-based study](lib/NR.pdf). Neurological Research 2021. https://doi.org/10.1080/01616412.2020.1867950
 
 ### **Peer-reviewed Articles** 
