@@ -16,8 +16,9 @@ body{ /* Normal  */
 
 
 ### **In Press**  
-1. Ran JJ, Zhang YM, Han LF, **Sun SZ**, Zhao S, Shen C, Zhang XH, Chan KP, Lee RSY, Qiu YL, Tian LW. The joint association of physical activity and fine particulate matter exposure with incident dementia in Hong Kong older adults. Environment International 2021. 
-2. Wang LN, Du JQ, Cao WN, **Sun SZ**\*. [Trends of stroke attributable to high sodium intake at the global, regional, and national levels from 1990 to 2019: a population-based study](lib/NR.pdf). Neurological Research 2021. https://doi.org/10.1080/01616412.2020.1867950
+
+1. Wang LN, Du JQ, Cao WN, **Sun SZ**\*. [Trends of stroke attributable to high sodium intake at the global, regional, and national levels from 1990 to 2019: a population-based study](lib/NR.pdf). Neurological Research 2021. https://doi.org/10.1080/01616412.2020.1867950
+2. Ran JJ, Zhang YM, Han LF, **Sun SZ**, Zhao S, Shen C, Zhang XH, Chan KP, Lee RSY, Qiu YL, Tian LW. The joint association of physical activity and fine particulate matter exposure with incident dementia in Hong Kong older adults. Environment International 2021. 
 
 ### **Peer-reviewed Articles** 
 3. Ge Y, **Sun SZ** (**equal contributors**), Shen Y. [Estimation of case-fatality rate in COVID-19 patients with hypertension and diabetes melltius in the New York State: a preliminary report](lib/estimation-of-case-fatality-rate-in-covid-19-patients-with-hypertension-and-diabetes-mellitus-in-the-new-york-state-a-preliminary-report.pdf). Epidemiology & Infection 2021; 149: e14. https://doi.org/10.1017/S0950268821000066
