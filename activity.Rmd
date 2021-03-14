@@ -38,6 +38,7 @@ body{ /* Normal  */
 - Clinical Infectious Diseases
 - Data in brief   
 - Environmental Health Perspectives
+- European Respiratory Journal 
 - Environmental Science & Technology
 - Environmental Science & Technology Letters
 - Environment International
