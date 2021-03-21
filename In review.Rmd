@@ -10,12 +10,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ### In revision
 1. Summer Heat and Emergency Department Visits to US Children's Hospitals
 2. Association between Hurricane Sandy and emergency department visits in New York City by age and cause
-4. Long-term exposure to fine particulate matter and non-alcoholic fatty liver disease: A prospective cohort study
-6. Increase in diabetes deaths associated with COVID-19 pandemic in the United States
 10. Global burden attributable to high sodium intake from 1990 to 2019
 
 ### In review
-6. Early life exposure to air pollution and cell-mediated immune responses in preschoolers.
+4. Early life exposure to air pollution and cell-mediated immune responses in preschoolers.
 5. HIV serostatus disclosure among men who have sex with men in China in the era of U=U and PrEP
 7. Covid-19 transmission dynamics among close contacts of Covid-19 index cases: a population-based cohort study in Zhejiang province, China
 8. The Impact of Non-Acute Electronic Cigarette Use on Cardiovascular System: A Systematic Review and Meta-Analysis
