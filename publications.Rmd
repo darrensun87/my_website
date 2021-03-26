@@ -18,7 +18,7 @@ body{ /* Normal  */
 ### **In Press**  
 1. Weinberger KR, Kulik ER, Boehme AK, **Sun SZ**, Dominici F, Wellenius GA. Association between Hurricane Sandy and emergency department visits in New York City by age and cause. American Journal of Epidemiology 2021.
 1. Ran JJ, Zhao S, Han LF, Ge Y, Chong MKC, Cao WN, **Sun SZ**\*. Increase in Diabetes Mortality Associated with COVID-19 Pandemic in the United States. Diabetes Care 2021.
-1. **Sun SZ**, Yang QQ, Zhou QX, Cao WN, Yu SW, Zhan SY, Sun F. Long-term exposure to fine particulate matter and non-alcoholic fatty liver disease: A prospective cohort study. Gut 2021.
+1. **Sun SZ**, Yang QQ, Zhou QX, Cao WN, Yu SW, Zhan SY, Sun F. Long-term exposure to fine particulate matter and non-alcoholic fatty liver disease: A prospective cohort study. Gut 2021. https://doi.org/10.1136/gutjnl-2021-324364
 1. Ran JJ, Zhang YM, Han LF, **Sun SZ**, Zhao S, Shen C, Zhang XH, Chan KP, Lee RSY, Qiu YL, Tian LW. The joint association of physical activity and fine particulate matter exposure with incident dementia in Hong Kong older adults. Environment International 2021. 
 1. Wang LN, Du JQ, Cao WN, **Sun SZ**\*. [Trends of stroke attributable to high sodium intake at the global, regional, and national levels from 1990 to 2019: a population-based study](lib/NR.pdf). Neurological Research 2021. https://doi.org/10.1080/01616412.2020.1867950
 

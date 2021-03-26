@@ -9,7 +9,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### In revision
 1. Summer Heat and Emergency Department Visits to US Children's Hospitals
-2. Association between Hurricane Sandy and emergency department visits in New York City by age and cause
 10. Global burden attributable to high sodium intake from 1990 to 2019
 
 ### In review
@@ -22,4 +21,3 @@ knitr::opts_chunk$set(echo = TRUE)
 12. Heat alerts, mortality, and hospital admissions among older adults in the United States
 13. Adverse pregnancy outcomes during the COVID-19 pandemic in the United States
 14. Ambient Heat and Risks of Emergency Department Visits among Adults in the United States
-
