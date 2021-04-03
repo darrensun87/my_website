@@ -37,6 +37,7 @@ body{ /* Normal  */
 - Chemosphere
 - Clinical Infectious Diseases
 - Data in brief   
+- Ecotoxicology and Environmental Safety
 - Environmental Health Perspectives
 - European Respiratory Journal 
 - Environmental Science & Technology
@@ -46,7 +47,7 @@ body{ /* Normal  */
 - Environmental Pollution
 - Environmental Research
 - Environmental Research Letters
-- Ecotoxicology and Environmental Safety
+- Epidemiology and Infecction   
 - Hypertension   
 - Indoor Air
 - International Journal of Environmental Health Research
