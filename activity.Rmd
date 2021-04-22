@@ -27,6 +27,7 @@ body{ /* Normal  */
 - American Journal of Respiratory and Critical Care Medicine 
 - American Journal of Epidemiology
 - Annals of Internal Medicine  
+- Annual conference of the International Society for Environmental Epidemiology Abstract reviewer
 - Atmospheric Environment
 - Atmosphere
 - BMJ
