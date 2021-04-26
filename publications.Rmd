@@ -14,6 +14,14 @@ body{ /* Normal  */
 
 *Corresponding author
 
+### Selected Publications
+- **Sun SZ**, Cao WN, Ge Y, Ran JJ, Sun F, Zeng Q, Guo MD, Huang JX, Lee RSY, Tian LW, Wellenius GA. [Outdoor light at night and risk of coronary heart disease among older adults: A prospective cohort study](lib/ehaa846.pdf). European Heart Journal 2021; 42 (8): 822-830. https://doi.org/10.1093/eurheartj/ehaa846. <ins>[2019 IF=22.673]</ins> (ranked 2 out of 138 under the category of “Cardiac & Cardiovascular systems”) (First author)
+- **Sun SZ**, Yang QQ, Zhou QX, Cao WN, Yu SW, Zhan SY, Sun F. [Long-term exposure to fine particulate matter and non-alcoholic fatty liver disease: A prospective cohort study](lib/gutjnl-2021-324364.full.pdf). Gut 2021. https://doi.org/10.1136/gutjnl-2021-324364. <ins>[2019 IF=19.819]</ins> (ranked 3 out of 88 under the category of “Gastroenterology & Hepatology”) (First author)
+- Ran JJ, Zhao S, Han LF, Ge Y, Chong MKC, Cao WN, **Sun SZ**\*. Increase in Diabetes Mortality Associated with COVID-19 Pandemic in the United States. Diabetes Care 2021. <ins>[2019 IF=16.019]</ins> (ranked 4 out of 143 under the category of “Endocrinology & metabolism”) (Corresponding author)
+- **Sun SZ**, Francine L, Jaime H, Qiu H, Wang Y, Wong CM, Lee RSY, Tian L. [Seasonal temperature variability and emergency hospital admissions for respiratory diseases: a population-based cohort study](lib/951.full.pdf). Thorax 2018; 73: 951-958. http://dx.doi.org/10.1136/thoraxjnl-2017-211333. <ins>[2019 IF=10.844]</ins> (ranked 5 out of 64 under the category of “Respiratory System”) (First author)
+- Bernstein AS, **Sun SZ**\*, Weinberger KR, Spangler KR, Sheffield PE, Wellenius GA. Summer Heat and Emergency Department Visits to US Children's Hospitals. Environmental Health Perspectives 2021. <ins>[2019 IF=8.38]</ins> (ranked 11 out of 265 under the category of “Environmental Sciences”) (corresponding author)
+- **Sun SZ**\*, Spangler KR, Weinberger KR, Yanosky JD, Braun JM, Wellenius GA. [Ambient temperature and markers of fetal growth: A retrospective observational study of 29 million singleton births](lib/EHP4648.pdf). Environmental Health Perspectives 2019; 127(6): 067005.  https://doi.org/10.1289/EHP4648. <ins>[2019 IF=8.38]</ins> (ranked 11 out of 265 under the category of “Environmental Sciences”) (first author)
+
 
 ### **In Press** 
 1. Bernstein AS, **Sun SZ**\*, Weinberger KR, Spangler KR, Sheffield PE, Wellenius GA. Summer Heat and Emergency Department Visits to US Children's Hospitals. Environmental Health Perspectives 2021.
