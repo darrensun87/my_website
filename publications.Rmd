@@ -58,6 +58,7 @@ body{ /* Normal  */
 
 
 ### **Co-author** 
+27. Ge Y, Martinez L, **Sun SZ**, Chen ZP, Zhang F, Li F, Sun WW, Chen EF, Pan JR, Li CW, Sun JM, Handel A, Ling F, Shen Y. Covid-19 transmission dynamics among close contacts of Covid-19 index cases: a population-based cohort study in Zhejiang Province, China. 2021. Under consideration in JAMA Internal Medicine.
 27. Weinberger KR, Kulik ER, Boehme AK, **Sun SZ**, Dominici F, Wellenius GA. Association between Hurricane Sandy and emergency department visits in New York City by age and cause. American Journal of Epidemiology 2021. https://doi.org/10.1093/aje/kwab127
 1. Ran JJ, Zhang YM, Han LF, **Sun SZ**, Zhao S, Shen C, Zhang XH, Chan KP, Lee RSY, Qiu YL, Tian LW. [The joint association of physical activity and fine particulate matter exposure with incident dementia in Hong Kong older adults](lib/1-s2.0-S0160412021002701-main.pdf). Environment International 2021; 156(2021): 106645. https://doi.org/10.1016/j.envint.2021.106645
 15. Zhang M, Liu C, Cui FP, Chen PP, Deng YL, Luo Q, Miao Y, **Sun SZ**, Li YF, Lu WQ, Zeng Q. [The role of oxidative stress in association between disinfection by-products exposure and semen quality: A mediation analysis among men from an infertility clinic](lib/1-s2.0-S004565352033054X-main.pdf). Chemosphere 268 (2021): 128856. https://doi.org/10.1016/j.chemosphere.2020.128856
