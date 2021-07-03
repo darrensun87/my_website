@@ -11,7 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 1. Early life exposure to air pollution and cell-mediated immune responses in preschoolers.
 2. Global burden attributable to high sodium intake from 1990 to 2019
 3. HIV serostatus disclosure among men who have sex with men in China in the era of U=U and PrEP
-4. Covid-19 transmission dynamics among close contacts of Covid-19 index cases: a population-based cohort study in Zhejiang province, China
 5. The Impact of Non-Acute Electronic Cigarette Use on Cardiovascular System: A Systematic Review and Meta-Analysis
 6. Demographic and Epidemiologic Drivers of Global Burden of Type 2 Diabetic Kidney Disease
 7. Demographics and epidemiology of global psoriasis prevalence: update from the GBD 2019 study
@@ -21,4 +20,4 @@ knitr::opts_chunk$set(echo = TRUE)
 11. Excess gun violence associated with COVID-19 pandemic in the United States
 12. Changes in renal failure mortality during the COVID-19 pandemic in the United States.
 13. Ambient heat and risk of emergency department visits for mental health among adults in the United States.
-14. Ambient heat is assoiated with higher risk of emergency department visits among US children with health insurance.
+14. Ambient heat is associated with higher risk of emergency department visits among US children with health insurance.
