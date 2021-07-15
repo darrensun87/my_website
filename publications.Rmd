@@ -28,6 +28,7 @@ body{ /* Normal  */
 - **Sun SZ**\*, Spangler KR, Weinberger KR, Yanosky JD, Braun JM, Wellenius GA. [Ambient temperature and markers of fetal growth: A retrospective observational study of 29 million singleton births](lib/EHP4648.pdf). Environmental Health Perspectives 2019; 127(6): 067005.  https://doi.org/10.1289/EHP4648. <ins>[2019 IF=8.38]</ins> (ranked 11 out of 265 under the category of “Environmental Sciences”) (First author)
 
 ### **First or Corresponding Author** 
+1. Chen XB, Du JQ, Wu XM, Cao WN, **Sun SZ**\*. Global burden attributable to high sodium intake from 1990 to 2019. Nutrition, Metabolism, and Cardiovascular Diseases. 2021. In press.
 1. Ran JJ, Zhao S, Han LF, Ge Y, Chong MKC, Cao WN, **Sun SZ**\*. [Increase in Diabetes Mortality Associated with COVID-19 Pandemic in the United States](lib/dc21-0213.full.pdf). Diabetes Care 2021; 44(7): e1-e2. https://doi.org/10.2337/dc21-0213.
 1. Bernstein AS, **Sun SZ**\*, Weinberger KR, Spangler KR, Sheffield PE, Wellenius GA. Summer Heat and Emergency Department Visits to US Children's Hospitals. Environmental Health Perspectives 2021.
 1. **Sun SZ**, Yang QQ, Zhou QX, Cao WN, Yu SW, Zhan SY, Sun F. [Long-term exposure to fine particulate matter and non-alcoholic fatty liver disease: A prospective cohort study](lib/gutjnl-2021-324364.full.pdf). Gut 2021. https://doi.org/10.1136/gutjnl-2021-324364
@@ -58,7 +59,7 @@ body{ /* Normal  */
 
 
 ### **Co-author** 
-27. Ge Y, Martinez L, **Sun SZ**, Chen ZP, Zhang F, Li F, Sun WW, Chen EF, Pan JR, Li CW, Sun JM, Handel A, Ling F, Shen Y. Covid-19 transmission dynamics among close contacts of Covid-19 index cases: a population-based cohort study in Zhejiang Province, China. 2021. JAMA Internal Medicine. In press.
+28. Ge Y, Martinez L, **Sun SZ**, Chen ZP, Zhang F, Li F, Sun WW, Chen EF, Pan JR, Li CW, Sun JM, Handel A, Ling F, Shen Y. Covid-19 transmission dynamics among close contacts of Covid-19 index cases: a population-based cohort study in Zhejiang Province, China. 2021. JAMA Internal Medicine. In press.
 27. Weinberger KR, Wu X, **Sun SZ**, Spangler KR, Nori-Sarma A, Schwartz J, Requia W, Sabath BM, Braun D, Zanobetti A, Dominici F, Wellenius GA. Heat alerts, mortality, and hospital admissions among older adults in the United States. 2021. Under revision in Environment International.
 27. Deng YL, Liao JQ, Zhou B, Zhang WX, Liu C, Yuan XQ, Chen PP, Miao Y, Luo Q, Cui FP, Zhang M, **Sun SZ**, Zheng TZ, Xia W, Li YY, Xu SQ, Zeng Q. Early life exposure to air pollution and cell-mediated immune responses in preschoolers. 2021. Under revision in Chemosphere.
 27. Cao W, Li J, **Sun SZ**, Sturm C, Peng L, Gu J, Hao C, Hou F, Wei D, You X, Deng Y, Ekstrom AM. HIV serostatus disclosure among men who have sex with men in China in the era of U=U and PrEP. 2021. Under revision in AIDS and Behavior.
