@@ -60,7 +60,7 @@ body{ /* Normal  */
 
 
 ### **Co-author** 
-29. Ge Y, Martinez L, **Sun SZ**, Chen ZP, Zhang F, Li F, Sun WW, Chen EF, Pan JR, Li CW, Sun JM, Handel A, Ling F, Shen Y. Covid-19 transmission dynamics among close contacts of Covid-19 index cases: a population-based cohort study in Zhejiang Province, China. 2021. JAMA Internal Medicine. In press.
+29. Ge Y, Martinez L, **Sun SZ**, Chen ZP, Zhang F, Li F, Sun WW, Chen EF, Pan JR, Li CW, Sun JM, Handel A, Ling F, Shen Y. [Covid-19 transmission dynamics among close contacts of Covid-19 index cases: a population-based cohort study in Zhejiang Province, China](lib/IOI210046_flannotatedproof.pdf). 2021. JAMA Internal Medicine. https://doi.org/10.1001/jamainternmed.2021.4686
 27. Weinberger KR, Wu X, **Sun SZ**, Spangler KR, Nori-Sarma A, Schwartz J, Requia W, Sabath BM, Braun D, Zanobetti A, Dominici F, Wellenius GA. Heat alerts, mortality, and hospital admissions among older adults in the United States. 2021. Under revision in Environment International.
 27. Deng YL, Liao JQ, Zhou B, Zhang WX, Liu C, Yuan XQ, Chen PP, Miao Y, Luo Q, Cui FP, Zhang M, **Sun SZ**, Zheng TZ, Xia W, Li YY, Xu SQ, Zeng Q. Early life exposure to air pollution and cell-mediated immune responses in preschoolers. 2021. Under revision in Chemosphere.
 27. Cao W, Li J, **Sun SZ**, Sturm C, Peng L, Gu J, Hao C, Hou F, Wei D, You X, Deng Y, Ekstrom AM. HIV serostatus disclosure among men who have sex with men in China in the era of U=U and PrEP. 2021. Under revision in AIDS and Behavior.
