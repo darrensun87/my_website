@@ -41,6 +41,7 @@ body{ /* Normal  */
 - Chemosphere
 - Clinical Infectious Diseases
 - Data in brief   
+- Diabetes Care  
 - Ecotoxicology and Environmental Safety
 - Environmental Health Perspectives
 - European Respiratory Journal 
