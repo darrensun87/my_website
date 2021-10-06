@@ -29,10 +29,10 @@ body{ /* Normal  */
 
 ### **First or Corresponding Author**
 1. **Sun SZ**\*, Weinberger KR, Nori-Sarma A, Spangler KR, Sun YT, Dominici F, Wellenius GA. Ambient heat and risks of emergency department visits among adults in the United States: time-stratified case-crossover study
-2. Wu XM, Du JQ, Li LC, Cao WN, **Sun SZ**\*. Bayesian age-period-cohort prediction of mortality of type 2 diabetic kidney disease in China: A modeling study. Frontiers in Endocrinology 2021.
+2. Wu XM, Du JQ, Li LC, Cao WN, **Sun SZ**\*. Bayesian age-period-cohort prediction of mortality of type 2 diabetic kidney disease in China: A modeling study. Frontiers in Endocrinology 2021. https://doi.org/10.3389/fendo.2021.767263
 3. **Sun SZ**\*, Cao WN, Ge Y, Siegel M, Wellenius GA. Analysis of firearm violence during the COVID-19 pandemic in the United States
 4. Nori-Sarma A, **Sun SZ**\*, Sun YT, Spangler KR, Oblath R, Galea S, Gradus JL, Wellenius GA. Ambient heat and risk of emergency department visits for mental health among adults in the United States, 2010-2019
-1. **Sun SZ**\*, Savitz DA, Wellenius GA. Changes in adverse pregnancy outcomes associated with the COVID-19 pandemic in the United States. JAMA Network Open 2021. In press.
+1. **Sun SZ**\*, Savitz DA, Wellenius GA. Changes in adverse pregnancy outcomes associated with the COVID-19 pandemic in the United States. JAMA Network Open 2021. https://doi.org/10.1001/jamanetworkopen.2021.29560
 1. Han LF, Zhao S, Cao WN, Javanbakht M, Ran JJ, **Sun SZ**\*. [Changes in renal failure mortality during the COVID-19 pandemic in the United States](lib/Han2021_Article_ChangesInRenalFailureMortality.pdf). Journal of Nephrology 2021. https://doi.org/10.1007/s40620-021-01145-4
 1. Chen XB, Du JQ, Wu XM, Cao WN, **Sun SZ**\*. Global burden attributable to high sodium intake from 1990 to 2019. Nutrition, Metabolism, and Cardiovascular Diseases 2021. In press. https://doi.org/10.1016/j.numecd.2021.08.033
 1. Xu QQ, Du JQ, Cao WN, **Sun SZ**\*. [Demographic and epidemiologic drivers of global burden of psoriasis](lib/17191335.pdf). Australasian Journal of Dermatology 2021. https://doi.org/10.1111/ajd.13710
