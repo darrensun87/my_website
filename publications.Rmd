@@ -28,6 +28,7 @@ body{ /* Normal  */
 - **Sun SZ**\*, Spangler KR, Weinberger KR, Yanosky JD, Braun JM, Wellenius GA. [Ambient temperature and markers of fetal growth: A retrospective observational study of 29 million singleton births](lib/EHP4648.pdf). Environmental Health Perspectives 2019; 127(6): 067005.  https://doi.org/10.1289/EHP4648. <ins>[2020 IF=9.031]</ins> (ranked 11 out of 265 under the category of “Environmental Sciences”) (First author)
 
 ### **First or Corresponding Author**
+1. Du JQ, Sun HF, Sun YY, Du JF, Cao WN, **Sun SZ**\*. Assessment of age, period, and cohort effects of lung cancer incidence in Hong Kong and projection up to 2030 based on changing demographics. American Journal of Cancer Research 2021. In Revision.
 1. **Sun SZ**\*, Weinberger KR, Nori-Sarma A, Spangler KR, Sun YT, Dominici F, Wellenius GA. Ambient heat and risks of emergency department visits among adults in the United States: time-stratified case-crossover study
 2. Wu XM, Du JQ, Li LC, Cao WN, **Sun SZ**\*. Bayesian age-period-cohort prediction of mortality of type 2 diabetic kidney disease in China: A modeling study. Frontiers in Endocrinology 2021. https://doi.org/10.3389/fendo.2021.767263
 3. **Sun SZ**\*, Cao WN, Ge Y, Siegel M, Wellenius GA. Analysis of firearm violence during the COVID-19 pandemic in the United States
@@ -66,7 +67,7 @@ body{ /* Normal  */
 
 
 ### **Co-author** 
-35. Ge Y, Martinez L, **Sun SZ**, Chen ZP, Zhang F, Li F, Sun WW, Chen EF, Pan JR, Li CW, Sun JM, Handel A, Ling F, Shen Y. [Covid-19 transmission dynamics among close contacts of Covid-19 index cases: a population-based cohort study in Zhejiang Province, China](lib/jamainternal_ge_2021_oi_210046_1628543955.60954.pdf). JAMA Internal Medicine 2021. https://doi.org/10.1001/jamainternmed.2021.4686.
+36. Ge Y, Martinez L, **Sun SZ**, Chen ZP, Zhang F, Li F, Sun WW, Chen EF, Pan JR, Li CW, Sun JM, Handel A, Ling F, Shen Y. [Covid-19 transmission dynamics among close contacts of Covid-19 index cases: a population-based cohort study in Zhejiang Province, China](lib/jamainternal_ge_2021_oi_210046_1628543955.60954.pdf). JAMA Internal Medicine 2021. https://doi.org/10.1001/jamainternmed.2021.4686.
 30. Weinberger KR, Wu X, **Sun SZ**, Spangler KR, Nori-Sarma A, Schwartz J, Requia W, Sabath BM, Braun D, Zanobetti A, Dominici F, Wellenius GA. [Heat warnings, mortality, and hospital admissions among older adults in the United States](lib/1-s2.0-S0160412021004591-main.pdf). Environment International 2021;157(2021): 106834. https://doi.org/10.1016/j.envint.2021.106834  
 27. Deng YL, Liao JQ, Zhou B, Zhang WX, Liu C, Yuan XQ, Chen PP, Miao Y, Luo Q, Cui FP, Zhang M, **Sun SZ**, Zheng TZ, Xia W, Li YY, Xu SQ, Zeng Q. [Early life exposure to air pollution and cell-mediated immune responses in preschoolers](lib/1-s2.0-S0045653521024358-main.pdf). Chemosphere 2022; 186(2022):131963. https://doi.org/10.1016/j.chemosphere.2021.131963
 27. Cao W, Li J, **Sun SZ**, Sturm C, Peng L, Gu J, Hao C, Hou F, Wei D, You X, Deng Y, Ekstrom AM. HIV serostatus disclosure among men who have sex with men in China in the era of U=U and PrEP. AIDS and Behavior 2021. In press.
