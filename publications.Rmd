@@ -15,13 +15,17 @@ body{ /* Normal  */
 *Corresponding author
 
 ### **Selected Publications**
+- **Sun SZ**\*, Weinberger KR, Nori-Sarma A, Spangler KR, Sun YT, Dominici F, Wellenius GA. Ambient heat and risks of emergency department visits among adults in the United States: time-stratified case-crossover study. The BMJ 2021.<ins>[2020 IF=39.890]</ins> (ranked 5 out of 167 under the category of “Medicine, General & Internal”) (First and corresponding author)
+
 - **Sun SZ**, Cao WN, Ge Y, Ran JJ, Sun F, Zeng Q, Guo MD, Huang JX, Lee RSY, Tian LW, Wellenius GA. [Outdoor light at night and risk of coronary heart disease among older adults: A prospective cohort study](lib/ehaa846.pdf). European Heart Journal 2021; 42 (8): 822-830. https://doi.org/10.1093/eurheartj/ehaa846. <ins>[2020 IF=29.983]</ins> (ranked 2 out of 138 under the category of “Cardiac & Cardiovascular systems”) (First author)
+
 
 - **Sun SZ**, Yang QQ, Zhou QX, Cao WN, Yu SW, Zhan SY, Sun F. [Long-term exposure to fine particulate matter and non-alcoholic fatty liver disease: A prospective cohort study](lib/gutjnl-2021-324364.full.pdf). Gut 2021. https://doi.org/10.1136/gutjnl-2021-324364. <ins>[2020 IF=23.059]</ins> (ranked 3 out of 92 under the category of “Gastroenterology & Hepatology”) (First author)
 
+- Nori-Sarma A, **Sun SZ**\*, Sun YT, Spangler KR, Oblath R, Galea S, Gradus JL, Wellenius GA. Ambient heat and risk of emergency department visits for mental health among adults in the United States, 2010-2019. JAMA Psychiatry 2021. <ins>[2020 IF=21.596]</ins> (ranked 3 out of 156 under the category of “Psychiatry”) (Corresponding author)
+
 - Ran JJ, Zhao S, Han LF, Ge Y, Chong MKC, Cao WN, **Sun SZ**\*. [Increase in Diabetes Mortality Associated with COVID-19 Pandemic in the United States](lib/dc21-0213.full.pdf). Diabetes Care 2021; 44(7): e146-e147. https://doi.org/10.2337/dc21-0213. <ins>[2020 IF=19.11]</ins> (ranked 4 out of 179 under the category of “Endocrinology & metabolism”) (Corresponding author)
 
-- **Sun SZ**, Francine L, Jaime H, Qiu H, Wang Y, Wong CM, Lee RSY, Tian L. [Seasonal temperature variability and emergency hospital admissions for respiratory diseases: a population-based cohort study](lib/951.full.pdf). Thorax 2018; 73: 951-958. http://dx.doi.org/10.1136/thoraxjnl-2017-211333. <ins>[2020 IF=9.139]</ins> (ranked 6 out of 96 under the category of “Respiratory System”) (First author)
 
 - Bernstein AS, **Sun SZ**\*, Weinberger KR, Spangler KR, Sheffield PE, Wellenius GA. Summer Heat and Emergency Department Visits to US Children's Hospitals. Environmental Health Perspectives 2021. <ins>[2020 IF=9.031]</ins> (ranked 11 out of 265 under the category of “Environmental Sciences”) (Corresponding author)
 
@@ -29,10 +33,10 @@ body{ /* Normal  */
 
 ### **First or Corresponding Author**
 1. Du JQ, Sun HF, Sun YY, Du JF, Cao WN, **Sun SZ**\*. Assessment of age, period, and cohort effects of lung cancer incidence in Hong Kong and projection up to 2030 based on changing demographics. American Journal of Cancer Research 2021.
-1. **Sun SZ**\*, Weinberger KR, Nori-Sarma A, Spangler KR, Sun YT, Dominici F, Wellenius GA. Ambient heat and risks of emergency department visits among adults in the United States: time-stratified case-crossover study
-2. Wu XM, Du JQ, Li LC, Cao WN, **Sun SZ**\*. Bayesian age-period-cohort prediction of mortality of type 2 diabetic kidney disease in China: A modeling study. Frontiers in Endocrinology 2021. https://doi.org/10.3389/fendo.2021.767263
-3. **Sun SZ**\*, Cao WN, Ge Y, Siegel M, Wellenius GA. Analysis of firearm violence during the COVID-19 pandemic in the United States
-4. Nori-Sarma A, **Sun SZ**\*, Sun YT, Spangler KR, Oblath R, Galea S, Gradus JL, Wellenius GA. Ambient heat and risk of emergency department visits for mental health among adults in the United States, 2010-2019
+1. **Sun SZ**\*, Weinberger KR, Nori-Sarma A, Spangler KR, Sun YT, Dominici F, Wellenius GA. Ambient heat and risks of emergency department visits among adults in the United States: time-stratified case-crossover study. The BMJ 2021.
+2. Wu XM, Du JQ, Li LC, Cao WN, **Sun SZ**\*. [Bayesian age-period-cohort prediction of mortality of type 2 diabetic kidney disease in China: A modeling study](lib/fendo-12-767263.pdf). Frontiers in Endocrinology 2021; 12: 767263. https://doi.org/10.3389/fendo.2021.767263
+3. **Sun SZ**\*, Cao WN, Ge Y, Siegel M, Wellenius GA. Analysis of firearm violence during the COVID-19 pandemic in the United States. JAMA Network Open 2021.
+4. Nori-Sarma A, **Sun SZ**\*, Sun YT, Spangler KR, Oblath R, Galea S, Gradus JL, Wellenius GA. Ambient heat and risk of emergency department visits for mental health among adults in the United States, 2010-2019. JAMA Psychiatry 2021.
 1. **Sun SZ**\*, Savitz DA, Wellenius GA. [Changes in adverse pregnancy outcomes associated with the COVID-19 pandemic in the United States](lib/sun_2021_ld_210217_1633537630.05761.pdf). JAMA Network Open 2021; 4(10): e2129560. https://doi.org/10.1001/jamanetworkopen.2021.29560
 1. Han LF, Zhao S, Cao WN, Javanbakht M, Ran JJ, **Sun SZ**\*. [Changes in renal failure mortality during the COVID-19 pandemic in the United States](lib/Han2021_Article_ChangesInRenalFailureMortality.pdf). Journal of Nephrology 2021. https://doi.org/10.1007/s40620-021-01145-4
 1. Chen XB, Du JQ, Wu XM, Cao WN, **Sun SZ**\*. [Global burden attributable to high sodium intake from 1990 to 2019](lib/1-s2.0-S093947532100404X-main.pdf). Nutrition, Metabolism, and Cardiovascular Diseases 2021. In press. https://doi.org/10.1016/j.numecd.2021.08.033
