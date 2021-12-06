@@ -56,7 +56,8 @@ body{ /* Normal  */
 - Environmental Pollution
 - Environmental Research
 - Environmental Research Letters
-- Epidemiology and Infecction   
+- European Heart Journal
+- Epidemiology and Infection   
 - Hypertension   
 - Indoor Air
 - International Journal of Environmental Health Research
