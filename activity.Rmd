@@ -75,6 +75,7 @@ body{ /* Normal  */
 - PLOS Medicine
 - Paediatric and Perinatal Epidemiology
 - Science of the Total Environment
+- Science Advances   
 - The Fifth International Conference on Energy Engineering and Environmental Protection (EEEP2020)
 - The Innovation   
 - The Lancet Planetary Health
