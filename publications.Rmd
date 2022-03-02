@@ -19,7 +19,7 @@ body{ /* Normal  */
 
 - **Sun SZ**, Cao WN, Ge Y, Ran JJ, Sun F, Zeng Q, Guo MD, Huang JX, Lee RSY, Tian LW, Wellenius GA. [Outdoor light at night and risk of coronary heart disease among older adults: A prospective cohort study](lib/ehaa846.pdf). European Heart Journal 2021; 42 (8): 822-830. https://doi.org/10.1093/eurheartj/ehaa846. <ins>[2020 IF=29.983]</ins> (ranked 2 out of 138 under the category of “Cardiac & Cardiovascular systems”) (First author)
 
-- Nori-Sarma A, **Sun SZ**\*, Sun YT, Spangler KR, Oblath R, Galea S, Gradus JL, Wellenius GA. [Ambient heat and risk of emergency department visits for mental health among adults in the United States, 2010-2019](lib/jamapsychiatry_norisarma_2022.pdf). JAMA Psychiatry 2022. https://doi.org/10.1001/jamapsychiatry.2021.4369 <ins>[2020 IF=21.596]</ins> (ranked 3 out of 156 under the category of “Psychiatry”) (Corresponding author)
+- Nori-Sarma A, **Sun SZ**\*, Sun YT, Spangler KR, Oblath R, Galea S, Gradus JL, Wellenius GA. [Association between ambient heat and risk of emergency department visits for mental health among US, 2010-2019](lib/jamapsychiatry_norisarma_2022.pdf). JAMA Psychiatry 2022. https://doi.org/10.1001/jamapsychiatry.2021.4369 <ins>[2020 IF=21.596]</ins> (ranked 3 out of 156 under the category of “Psychiatry”) (Corresponding author)
 
 
 - **Sun SZ**, Yang QQ, Zhou QX, Cao WN, Yu SW, Zhan SY, Sun F. [Long-term exposure to fine particulate matter and non-alcoholic fatty liver disease: A prospective cohort study](lib/gutjnl-2021-324364.full.pdf). Gut 2021. https://doi.org/10.1136/gutjnl-2021-324364. <ins>[2020 IF=23.059]</ins> (ranked 3 out of 92 under the category of “Gastroenterology & Hepatology”) (First author)
@@ -29,9 +29,9 @@ body{ /* Normal  */
 
 ### **First or Corresponding Author**
 
-1.  **Sun SZ**, Yang QQ, Zhou QX, Cao WN, Yu SW, Zhan SY Sun F. Long-term exposure to air pollution, habitual physical activity and risk of non-alcoholic fatty liver disease: A prospective cohort study. Ecotoxicology and Environmental Safety 2022. In Revision.
-3. **Sun SZ**\*, Cao WN, Ge Y, Siegel M, Wellenius GA. Analysis of firearm violence during the COVID-19 pandemic in the United States. JAMA Network Open 2022. In Revision
-4. Nori-Sarma A, **Sun SZ**\*, Sun YT, Spangler KR, Oblath R, Galea S, Gradus JL, Wellenius GA. [Ambient heat and risk of emergency department visits for mental health among adults in the United States, 2010-2019](lib/jamapsychiatry_norisarma_2022.pdf). JAMA Psychiatry 2022. https://doi.org/10.1001/jamapsychiatry.2021.4369. 
+1. **Sun SZ**\*, Cao WN, Ge Y, Siegel M, Wellenius GA. Analysis of firearm violence during the COVID-19 pandemic in the United States. JAMA Network Open 2022. In Revision
+1.  **Sun SZ**, Yang QQ, Zhou QX, Cao WN, Yu SW, Zhan SY Sun F. Long-term exposure to air pollution, habitual physical activity and risk of non-alcoholic fatty liver disease: A prospective cohort study. Ecotoxicology and Environmental Safety 2022. In Press.
+4. Nori-Sarma A, **Sun SZ**\*, Sun YT, Spangler KR, Oblath R, Galea S, Gradus JL, Wellenius GA. [Association between ambient heat and risk of emergency department visits for mental health among US, 2010-2019](lib/jamapsychiatry_norisarma_2022.pdf). JAMA Psychiatry 2022. https://doi.org/10.1001/jamapsychiatry.2021.4369
 2. Du JQ, Sun HF, Sun YY, Du JF, Cao WN, **Sun SZ**\*. [Assessment of age, period, and cohort effects of lung cancer incidence in Hong Kong and projection up to 2030 based on changing demographics](lib/ajcr0138826.pdf). American Journal of Cancer Research 2021; 11(12):5902-5916. https://doi.org/10.1136/ajcr0138826
 1. **Sun SZ**\*, Weinberger KR, Nori-Sarma A, Spangler KR, Sun YT, Dominici F, Wellenius GA.  [Ambient heat and risks of emergency department visits among adults in the United States: time-stratified case-crossover study](lib/bmj-2021-065653.full.pdf). The BMJ 2021; 375: e065653. https://doi.org/10.1136/BMJ-2021-065653
 2. Wu XM, Du JQ, Li LC, Cao WN, **Sun SZ**\*. [Bayesian age-period-cohort prediction of mortality of type 2 diabetic kidney disease in China: A modeling study](lib/fendo-12-767263.pdf). Frontiers in Endocrinology 2021; 12: 767263. https://doi.org/10.3389/fendo.2021.767263
