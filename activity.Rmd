@@ -68,6 +68,7 @@ body{ /* Normal  */
 - Journal of Clinical Medicine
 - Journal of Cleaner Production
 - Journal of Exposure Science And Environmental Epidemiology
+- Journal of the American College of Cardiology   
 - JAMA Network Open
 - Molecular Psychiatry 
 - Neurology
