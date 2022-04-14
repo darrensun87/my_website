@@ -13,6 +13,7 @@ body{ /* Normal  */
 </style> 
 
 ### **Editorial Responsibilities**
+- 2022 - Present &nbsp;&nbsp;&nbsp; Guest Editor of special issue [Climate impacts on health](https://www.biomedcentral.com/collections/CIH), [BMC Public Health](https://bmcpublichealth.biomedcentral.com/)
 - 2021 - Present &nbsp;&nbsp;&nbsp; Associate Editor, [BMC Medicine](https://bmcmedicine.biomedcentral.com/about/editorial-board/ebms#shengzhi+sun)
 - 2021 - Present &nbsp;&nbsp;&nbsp; Guest Editor of special issue [Urban Air Pollution Exposure and Related Diseases](https://www.mdpi.com/journal/atmosphere/special_issues/urban_air_pollution_exposure), [Atmosphere](https://www.mdpi.com/journal/atmosphere)   
 - 2021 - Present &nbsp;&nbsp;&nbsp; Guest Editor of special issue [Climate Epidemiology](https://www.frontiersin.org/research-topics/29191/climate-epidemiology), [Frontiers in Epidemiology](https://www.frontiersin.org/journals/epidemiology)   
