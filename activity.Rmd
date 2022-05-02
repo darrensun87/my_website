@@ -1,6 +1,8 @@
 ---
 pagetitle: Professional activities - Shengzhi Sun
 ---
+
+```{=html}
 <style type='text/css'>
 body{ /* Normal  */
       margin-top: 22px;
@@ -10,81 +12,81 @@ body{ /* Normal  */
 #content .post-title {
  display: none;
 }
-</style> 
-
+</style>
+```
 ### **Editorial Responsibilities**
-- 2022 - Present &nbsp;&nbsp;&nbsp; Guest Editor of special issue [Climate impacts on health](https://www.biomedcentral.com/collections/CIH), [BMC Public Health](https://bmcpublichealth.biomedcentral.com/)
-- 2021 - Present &nbsp;&nbsp;&nbsp; Associate Editor, [BMC Medicine](https://bmcmedicine.biomedcentral.com/about/editorial-board/ebms#shengzhi+sun)
-- 2021 - Present &nbsp;&nbsp;&nbsp; Guest Editor of special issue [Urban Air Pollution Exposure and Related Diseases](https://www.mdpi.com/journal/atmosphere/special_issues/urban_air_pollution_exposure), [Atmosphere](https://www.mdpi.com/journal/atmosphere)   
-- 2021 - Present &nbsp;&nbsp;&nbsp; Guest Editor of special issue [Climate Epidemiology](https://www.frontiersin.org/research-topics/29191/climate-epidemiology), [Frontiers in Epidemiology](https://www.frontiersin.org/journals/epidemiology)   
-- 2021 - Present &nbsp;&nbsp;&nbsp; Guest Editor of the Research Topic: [Air Quality, Climate and Public Health](https://www.frontiersin.org/research-topics/24401/air-quality-climate-and-public-health), [Frontiers in Public Health](https://www.frontiersin.org/journals/public-health)
-- 2021 - Present &nbsp;&nbsp;&nbsp; Editorial Board, [Environment International](https://www.journals.elsevier.com/environment-international/editorial-board)
-- 2020 -  Present &nbsp;&nbsp;&nbsp; Early Career Advisory Board, [Environmental Research](https://www.journals.elsevier.com/environmental-research/editorial-board)
-- 2019 - Present &nbsp;&nbsp;&nbsp; Associate Editor, [BMC Public Health](https://bmcpublichealth.biomedcentral.com/) 
-- 2019 - Present &nbsp;&nbsp;&nbsp; Reviewer Board Member, [International Journal of Environmental Research and Public Health](https://www.mdpi.com/journal/ijerph)  
-- 2020 -  Present &nbsp;&nbsp;&nbsp; Topics Board, [Atmosphere](https://www.mdpi.com/journal/atmosphere) 
-- 2020 -  Present &nbsp;&nbsp;&nbsp; Early Career Advisory Board, [Environmental Advances](https://www.journals.elsevier.com/environmental-advances/)
+
+-   2022 - Present     Guest Editor of special issue [Climate impacts on health](https://www.biomedcentral.com/collections/CIH), [BMC Public Health](https://bmcpublichealth.biomedcentral.com/)
+-   2021 - Present     Associate Editor, [BMC Medicine](https://bmcmedicine.biomedcentral.com/about/editorial-board/ebms#shengzhi+sun)
+-   2021 - Present     Guest Editor of special issue [Urban Air Pollution Exposure and Related Diseases](https://www.mdpi.com/journal/atmosphere/special_issues/urban_air_pollution_exposure), [Atmosphere](https://www.mdpi.com/journal/atmosphere)\
+-   2021 - Present     Guest Editor of special issue [Climate Epidemiology](https://www.frontiersin.org/research-topics/29191/climate-epidemiology), [Frontiers in Epidemiology](https://www.frontiersin.org/journals/epidemiology)\
+-   2021 - Present     Guest Editor of the Research Topic: [Air Quality, Climate and Public Health](https://www.frontiersin.org/research-topics/24401/air-quality-climate-and-public-health), [Frontiers in Public Health](https://www.frontiersin.org/journals/public-health)
+-   2021 - Present     Editorial Board, [Environment International](https://www.journals.elsevier.com/environment-international/editorial-board)
+-   2020 - Present     Early Career Advisory Board, [Environmental Research](https://www.journals.elsevier.com/environmental-research/editorial-board)
+-   2019 - Present     Associate Editor, [BMC Public Health](https://bmcpublichealth.biomedcentral.com/)
+-   2019 - Present     Reviewer Board Member, [International Journal of Environmental Research and Public Health](https://www.mdpi.com/journal/ijerph)\
+-   2020 - Present     Topics Board, [Atmosphere](https://www.mdpi.com/journal/atmosphere)
+-   2020 - Present     Early Career Advisory Board, [Environmental Advances](https://www.journals.elsevier.com/environmental-advances/)
 
 \
 
-
 ### **Reviewer for**
-- Aerosol and Air Quality Research
-- Archives of Public Health   
-- American Heart Journal   
-- American Journal of Respiratory and Critical Care Medicine 
-- American Journal of Epidemiology
-- Annals of Internal Medicine  
-- Annual conference of the International Society for Environmental Epidemiology Abstract reviewer
-- Atmospheric Environment
-- Atmosphere
-- BMC Medicine
-- BMJ
-- BMJ Open
-- BMC Public Health
-- BMC Infectious Diseases
-- Biomedicine & Pharmacotherapy
-- Chemosphere
-- Clinical Infectious Diseases
-- Data in brief   
-- Diabetes Care  
-- Ecotoxicology and Environmental Safety
-- Environmental Health
-- Environmental Health Perspectives
-- European Respiratory Journal 
-- Environmental Science & Technology
-- Environmental Science & Technology Letters
-- Environment International
-- European Journal of Epidemiology
-- Environmental Pollution
-- Environmental Research
-- Environmental Research Letters
-- European Heart Journal
-- Epidemiology and Infection   
-- Hypertension   
-- Indoor Air
-- International Journal of Environmental Health Research
-- International Journal of Environmental Research and Public Health
-- International Journal of Biometeorology
-- Journal of Clinical Medicine
-- Journal of Cleaner Production
-- Journal of Exposure Science And Environmental Epidemiology
-- Journal of the American College of Cardiology   
-- JAMA Network Open
-- Molecular Psychiatry 
-- Neurology
-- PLOS One
-- PLOS Medicine
-- Paediatric and Perinatal Epidemiology
-- Science of the Total Environment
-- Science Advances   
-- The Fifth International Conference on Energy Engineering and Environmental Protection (EEEP2020)
-- The Innovation   
-- The Lancet Planetary Health
-- The Lancet Public Health
-- The Journal of Infectious Diseases
-- Tropical Medicine and Infectious Disease
+
+-   Aerosol and Air Quality Research
+-   Archives of Public Health\
+-   American Heart Journal\
+-   American Journal of Respiratory and Critical Care Medicine
+-   American Journal of Epidemiology
+-   Annals of Internal Medicine\
+-   Annual conference of the International Society for Environmental Epidemiology Abstract reviewer
+-   Atmospheric Environment
+-   Atmosphere
+-   BMC Medicine
+-   BMJ
+-   BMJ Open
+-   BMC Public Health
+-   BMC Infectious Diseases
+-   Biomedicine & Pharmacotherapy
+-   Chemosphere
+-   Clinical Infectious Diseases
+-   Data in brief\
+-   Diabetes Care\
+-   Ecotoxicology and Environmental Safety
+-   Environmental Health
+-   Environmental Health Perspectives
+-   European Respiratory Journal
+-   Environmental Science & Technology
+-   Environmental Science & Technology Letters
+-   Environment International
+-   European Journal of Epidemiology
+-   Environmental Pollution
+-   Environmental Research
+-   Environmental Research Letters
+-   European Heart Journal
+-   Epidemiology and Infection\
+-   Hypertension\
+-   Indoor Air
+-   International Journal of Environmental Health Research
+-   International Journal of Environmental Research and Public Health
+-   International Journal of Biometeorology
+-   Journal of Clinical Medicine
+-   Journal of Cleaner Production
+-   Journal of Exposure Science And Environmental Epidemiology
+-   Journal of the American College of Cardiology\
+-   JAMA Network Open
+-   Molecular Psychiatry
+-   Neurology
+-   PLOS One
+-   PLOS Medicine
+-   Paediatric and Perinatal Epidemiology
+-   Science of the Total Environment
+-   Science Advances\
+-   The Fifth International Conference on Energy Engineering and Environmental Protection (EEEP2020)
+-   The Innovation\
+-   The Lancet Planetary Health
+-   The Lancet Public Health
+-   The Journal of Infectious Diseases
+-   The New England Journal of Medicine
+-   Tropical Medicine and Infectious Disease
 
 For journal review records, please refer to [my Publons page](https://publons.com/researcher/1639866/shengzhi-sun/peer-review/).
-
-
