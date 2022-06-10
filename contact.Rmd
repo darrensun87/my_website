@@ -14,9 +14,7 @@ body{ /* Normal  */
 </style> 
 
 **Shengzhi Sun**, PhD<br>
-Department of Environmental Health<br> 
-Boston University School of Public Health<br>
-715 Albany St Talbot Building<br>
-Boston MA 02118<br>     
-Office: (617) 358-2620<br>
-Email: szsun@bu.edu<br>
+Department of Epidemiology and Biostatistics<br> 
+Capital Medical University School of Public Health<br>
+Beijing, China 100069        
+Email: shengzhisun@ccmu.edu.cn<br>
