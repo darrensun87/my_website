@@ -76,6 +76,7 @@ body{ /* Normal  */
 -   JAMA Network Open
 -   Molecular Psychiatry
 -   Neurology
+-   Nature Communications
 -   PLOS One
 -   PLOS Medicine
 -   Paediatric and Perinatal Epidemiology
