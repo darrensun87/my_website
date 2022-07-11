@@ -64,6 +64,7 @@ body{ /* Normal  */
 -   Environmental Research Letters
 -   European Heart Journal
 -   Epidemiology and Infection\
+-   Epidemiology\
 -   Hypertension\
 -   Indoor Air
 -   International Journal of Environmental Health Research
