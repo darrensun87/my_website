@@ -26,6 +26,7 @@ body{ /* Normal  */
 
 ### **First or Corresponding Author**
 
+1. **Sun SZ**\*, Wang JJ, Cao WN, Wu LZ, Tian Y, Sun F, Zhang ZY, Ge Y, Du JQ, Li XB, Chen R. A nationwide study of maternal exposure to ambient ozone and term birth weight in the United States. Environment International 2022. In Revision.
 1. **Sun SZ**\*, Wu J, Chen R, Levitt M. SARS-CoV-2 Omicron variant: viral spread dynamics, disease burden, and vaccine effectiveness. Current Medicine 2022. https://doi.org/10.1007/s44194-022-00014-x 
 1. Cao WN, **Sun SZ**\*, Danilack VA. Analysis of gestational weight gain during the COVID-19 pandemic in the US. JAMA Network Open 2022;5(9):e2230954. https://doi.org/10.1001/jamanetworkopen.2022.30954
 1. **Sun SZ**\*, Cao WN, Ge Y, Siegel M, Wellenius GA. [Analysis of firearm violence during the COVID-19 pandemic in the United States](lib/sun_2022_oi_220283_1650462137.23246.pdf). JAMA Network Open 2022; 5(4):e229393. <https://doi.org/10.1001/jamanetworkopen.2022.9393>
@@ -67,7 +68,7 @@ body{ /* Normal  */
 
 ### **Co-author**
 
-39. Stowell JD, Sun YT, Spangler KR, Bernstein A, Weinberger KR, **Sun SZ**, Wellenius GA. Warm-Season temperatures and emergency department visits among children with health insurance. Environmental Research: Health 2022. https://doi.org/10.1088/2752-5309/ac78fa
+40. Stowell JD, Sun YT, Spangler KR, Bernstein A, Weinberger KR, **Sun SZ**, Wellenius GA. Warm-Season temperatures and emergency department visits among children with health insurance. Environmental Research: Health 2022. https://doi.org/10.1088/2752-5309/ac78fa
 38. Adams Q, Sun YT, **Sun SZ**, Wellenius GA. [Internet searches and heat-related emergency department visits in the United States](lib/Adams_et_al-2022-Scientific_Reports.pdf).Scientific Report 2022; 12:9031. https://doi.org/10.1038/s41598-022-13168-3
 39. Ge Y, Martinez L, **Sun SZ**, Chen ZP, Zhang F, Li F, Sun WW, Chen EF, Pan JR, Li CW, Sun JM, Handel A, Ling F, Shen Y. [Covid-19 transmission dynamics among close contacts of Covid-19 index cases: a population-based cohort study in Zhejiang Province, China](lib/jamainternal_ge_2021_oi_210046_1628543955.60954.pdf). JAMA Internal Medicine 2021; 181(10): 1343-1350. <https://doi.org/10.1001/jamainternmed.2021.4686>.
 40. Weinberger KR, Wu X, **Sun SZ**, Spangler KR, Nori-Sarma A, Schwartz J, Requia W, Sabath BM, Braun D, Zanobetti A, Dominici F, Wellenius GA. [Heat warnings, mortality, and hospital admissions among older adults in the United States](lib/1-s2.0-S0160412021004591-main.pdf). Environment International 2021;157(2021): 106834. <https://doi.org/10.1016/j.envint.2021.106834>\
