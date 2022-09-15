@@ -15,7 +15,7 @@ body{ /* Normal  */
 </style>
 ```
 ### **Editorial Responsibilities**
-
+-   2022 - Present     特邀编委, Journal of Environmental Hygiene (环境卫生学)
 -   2022 - Present     Guest Editor of special issue [Climate impacts on health](https://www.biomedcentral.com/collections/CIH), [BMC Public Health](https://bmcpublichealth.biomedcentral.com/)
 -   2021 - Present     Associate Editor, [BMC Medicine](https://bmcmedicine.biomedcentral.com/about/editorial-board/ebms#shengzhi+sun)
 -   2021 - Present     Guest Editor of special issue [Urban Air Pollution Exposure and Related Diseases](https://www.mdpi.com/journal/atmosphere/special_issues/urban_air_pollution_exposure), [Atmosphere](https://www.mdpi.com/journal/atmosphere)\
