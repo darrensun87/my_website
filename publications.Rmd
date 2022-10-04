@@ -26,7 +26,7 @@ body{ /* Normal  */
 
 ### **First or Corresponding Author**
 
-1. **Sun SZ**\*, Wang JJ, Cao WN, Wu LZ, Tian Y, Sun F, Zhang ZY, Ge Y, Du JQ, Li XB, Chen R. A nationwide study of maternal exposure to ambient ozone and term birth weight in the United States. Environment International 2022. In Press.
+1. **Sun SZ**\*, Wang JJ, Cao WN, Wu LZ, Tian Y, Sun F, Zhang ZY, Ge Y, Du JQ, Li XB, Chen R. [A nationwide study of maternal exposure to ambient ozone and term birth weight in the United States](lib/1-s2.0-S0160412022004810-main.pdf). Environment International 2022;170:107554. https://doi.org/10.1016/j.envint.2022.107554
 1. **Sun SZ**\*, Wu J, Chen R, Levitt M. [SARS-CoV-2 Omicron variant: viral spread dynamics, disease burden, and vaccine effectiveness](lib/s44194-022-00014-x.pdf). Current Medicine 2022;1-14. https://doi.org/10.1007/s44194-022-00014-x 
 1. Cao WN, **Sun SZ**\*, Danilack VA. [Analysis of gestational weight gain during the COVID-19 pandemic in the US](lib/cao_2022_ld_220196_1661960683.57407.pdf). JAMA Network Open 2022;5(9):e2230954. https://doi.org/10.1001/jamanetworkopen.2022.30954
 1. **Sun SZ**\*, Cao WN, Ge Y, Siegel M, Wellenius GA. [Analysis of firearm violence during the COVID-19 pandemic in the United States](lib/sun_2022_oi_220283_1650462137.23246.pdf). JAMA Network Open 2022; 5(4):e229393. <https://doi.org/10.1001/jamanetworkopen.2022.9393>
