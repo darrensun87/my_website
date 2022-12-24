@@ -13,7 +13,7 @@
 
 <title>Publications - Shengzhi Sun</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
@@ -142,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -175,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -184,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -372,7 +369,7 @@ violence during the COVID-19 pandemic in the United States</a>. JAMA
 Network Open 2022; 5(4):e229393. <a
 href="https://doi.org/10.1001/jamanetworkopen.2022.9393"
 class="uri">https://doi.org/10.1001/jamanetworkopen.2022.9393</a></li>
-<li><strong>Sun SZ</strong>, Yang QQ, Zhou QX, Cao WN, Yu SW, Zhan SY
+<li><strong>Sun SZ</strong>, Yang QQ, Zhou QX, Cao WN, Yu SW, Zhan SY,
 Sun F. <a href="lib/1-s2.0-S0147651322002809-main.pdf">Long-term
 exposure to air pollution, habitual physical activity and risk of
 non-alcoholic fatty liver disease: A prospective cohort study</a>.
@@ -627,6 +624,18 @@ class="uri">https://doi.org/10.1016/j.envpol.2015.06.007</a></li>
 <div id="co-author" class="section level3">
 <h3><strong>Co-author</strong></h3>
 <ol start="40" style="list-style-type: decimal">
+<li>Yang LP, Sun HF, Bai Y, Sun SZ, Wu XM, Gan ZH, Du JQ, Du JF. Trends
+and projections of stomach cancer incidence in Hong Kong: A
+population-based study. Cancer Investigation 2022; <a
+href="https://doi.org/10.1080/07357907.2022.2126982"
+class="uri">https://doi.org/10.1080/07357907.2022.2126982</a></li>
+<li>Chen JJ, Jiao ZH, Liang ZS, Ma JX, Xu M, Biswal S, Ramanathan M,
+<strong>Sun SZ</strong>, Zhang ZY. <a
+href="lib/1-s2.0-S0160412022005761-main.pdf">Association between
+temperature variability and global meningitis incidence</a>. Environment
+International 2022; 107649. <a
+href="https://doi.org/10.1016/j.envint.2022.107649"
+class="uri">https://doi.org/10.1016/j.envint.2022.107649</a></li>
 <li>Guo ZH, Zhao S, <strong>Sun SZ</strong>, He DH, Chong KC, Yeoh EK.
 <a href="lib/proof.pdf">Estimation of the serial interval of monkeypox
 during the early outbreak in 2022</a>. Journal of Medical Virology 2022.
