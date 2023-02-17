@@ -25,8 +25,8 @@ body{ /* Normal  */
 -   Ran JJ, Zhao S, Han LF, Ge Y, Chong MKC, Cao WN, **Sun SZ**\*. [Increase in Diabetes Mortality Associated with COVID-19 Pandemic in the United States](lib/dc21-0213.full.pdf). Diabetes Care 2021; 44(7): e146-e147. <https://doi.org/10.2337/dc21-0213>. <ins>[2020 IF=19.11]</ins> (ranked 4 out of 179 under the category of "Endocrinology & metabolism") (Corresponding author)
 
 ### **First or Corresponding Author**
-1. Zhang YC, Wei J, Liu C, Cao WN, Zhang ZY, Li YF, Zeng Q, **Sun SZ**\*. Association between ambient PM~1~ and semen quality: A cross-sectional study of 27,854 men in China. Environment International 2023;
-1. Yuan K, Sun F, Zhang YC, Du Y, Wu LZ, Ge Y, Zhang ZY, Cao WN, **Sun SZ**\*. Maternal exposure to ozone and risk of gestational hypertension and eclampsia in the United States. Science of the Total Environment 2023;
+1. Zhang YC, Wei J, Liu C, Cao WN, Zhang ZY, Li YF, Zeng Q, **Sun SZ**\*. Association between ambient PM~1~ and semen quality: A cross-sectional study of 27,854 men in China. Environment International 2023; 
+1. Yuan K, Sun F, Zhang YC, Du Y, Wu LZ, Ge Y, Zhang ZY, Cao WN, **Sun SZ**\*. Maternal exposure to ozone and risk of gestational hypertension and eclampsia in the United States. Science of the Total Environment 2023; 872C: 162292. https://doi.org/10.1016/j.scitotenv.2023.162292
 2. Zhang YC, Sun F, Yuan K, Du Y, Wu LZ, Ge Y, Zhang ZY, Cao WN, **Sun SZ**\*. Ambient temperature and congenital anomalies: A retrospective study of over 2 million newborns. Science of the Total Environment 2023;
 3. Ran JJ, Han LF, **Sun SZ**\*, Cao WN. Analysis of excess obesity-related deaths during the COVID-19 pandemic. Obesity 2023;
 1. **Sun SZ**\*, Wang JJ, Cao WN, Wu LZ, Tian Y, Sun F, Zhang ZY, Ge Y, Du JQ, Li XB, Chen R. [A nationwide study of maternal exposure to ambient ozone and term birth weight in the United States](lib/1-s2.0-S0160412022004810-main.pdf). Environment International 2022;170:107554. https://doi.org/10.1016/j.envint.2022.107554
