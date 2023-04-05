@@ -8,13 +8,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ### In review
-1. **Sun SZ**\*, Savitz DA, Wellenius GA. Changes in adverse pregnancy outcomes associated with the COVID-19 pandemic in the United States. 2021. Under revision in JAMA Network Open.
-
-31. Ge Y, Martinez L, **Sun SZ**, Chen ZP, Zhang F, Li F, Sun WW, Chen EF, Pan JR, Li CW, Sun JM, Handel A, Ling F, Shen Y. [Covid-19 transmission dynamics among close contacts of Covid-19 index cases: a population-based cohort study in Zhejiang Province, China](lib/IOI210046_flannotatedproof.pdf). 2021. JAMA Internal Medicine. https://doi.org/10.1001/jamainternmed.2021.4686
-
-1. The Impact of Non-Acute Electronic Cigarette Use on Cardiovascular System: A Systematic Review and Meta-Analysis
-11. Excess gun violence associated with COVID-19 pandemic in the United States
-12. Changes in renal failure mortality during the COVID-19 pandemic in the United States.
-13. Ambient heat and risk of emergency department visits for mental health among adults in the United States.
-14. Ambient heat is associated with higher risk of emergency department visits among US children with health insurance.
-2. Internet Searches and heat-related emergency department visits in the US
+1. Sun YT, Milando C, Spangler KR, Wei YG, Schwartz J, Dominici F, Nori-Sarma A, **Sun SZ**\*, Wellenius GA. Short-term exposure to low levels of ambieint fine particulate matters and all-cause, cardiovascular and respiratory mobidity among US adults with health insurance. The BMJ 2023;
+1. Li X, Wu HS, Xing WW, Jia PP, Yuan K, Guo F, Ran JJ, Wang XL, Ren YX, Dong LN, **Sun SZ**\*, Xu DG, Li JH. Constituents of fine particle air pollution and oxidative stress and quality of life of patients with allergic rhinitis: A panel study. Environment International 2023;
