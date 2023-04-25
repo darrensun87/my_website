@@ -26,7 +26,7 @@ body{ /* Normal  */
 
 ### **First or Corresponding Author**
 
-1. Zhang YC, Wei J, Liu C, Cao WN, Zhang ZY, Li YF, Zeng Q, **Sun SZ**\*. Association between ambient PM~1~ and semen quality: A cross-sectional study of 27,854 men in China. Environment International 2023. https://doi.org/10.1016/j.envint.2023.107919
+1. Zhang YC, Wei J, Liu C, Cao WN, Zhang ZY, Li YF, Zeng Q, **Sun SZ**\*. [Association between ambient PM~1~ and semen quality: A cross-sectional study of 27,854 men in China](lib/1-s2.0-S0160412023001927-main.pdf). Environment International 2023. https://doi.org/10.1016/j.envint.2023.107919
 1. Yuan K, Sun F, Zhang YC, Du Y, Wu LZ, Ge Y, Zhang ZY, Cao WN, **Sun SZ**\*. [Maternal exposure to ozone and risk of gestational hypertension and eclampsia in the United States](lib/1-s2.0-S0048969723009087-main.pdf). Science of the Total Environment 2023; 872: 162292. https://doi.org/10.1016/j.scitotenv.2023.162292
 2. Zhang YC, Sun F, Yuan K, Du Y, Wu LZ, Ge Y, Zhang ZY, **Sun SZ**\*, Cao WN. Ambient temperature and major structural anomalies: A retrospective study of over 2 million newborns. Science of the Total Environment 2023. https://doi.org/10.1016/j.scitotenv.2023.163613
 1. **Sun SZ**\*, Wang JJ, Cao WN, Wu LZ, Tian Y, Sun F, Zhang ZY, Ge Y, Du JQ, Li XB, Chen R. [A nationwide study of maternal exposure to ambient ozone and term birth weight in the United States](lib/1-s2.0-S0160412022004810-main.pdf). Environment International 2022;170:107554. https://doi.org/10.1016/j.envint.2022.107554
