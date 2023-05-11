@@ -70,6 +70,7 @@ body{ /* Normal  */
 36. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature%20as%20a%20modifier%20of%20the%20effects%20o.pdf). Environmental Pollution 2015; 205: 357-364. <https://doi.org/10.1016/j.envpol.2015.06.007>
 
 ### **Co-author**
+43. Zhou SD, Chai PF, Dong XJ, Liang ZS, Yang ZM, Li JX, Teng GG, Sun SZ, Xu M, Zheng ZJ, Wang JB, Zhang ZY, Chen K. [Drinking water quality and inflammatory bowel disease: a prospective cohort study](lib/s11356-023-27460-w.pdf). Environmental Science and Pollution Research 2023. https://doi.org/10.1007/s11356-023-27460-w
 43. Li P, Yang QQ, Wang XP, **Sun SZ**, Cao WN, Yu SW, Zhan SY, Sun F. [Dose-response relationship between physical activity and nonalcoholic fatty liver disease: A prospective cohort study](lib/Dose_response_relationship_between_physical.496.pdf). Chinese Medical University 2023. https://doi.org/10.1097/CM9.0000000000002532
 43. Zhou Q, Shi HX, Wu NY, Zhu H, Liang ZS, **Sun SZ**, Zhao JF, Wang YS, Huang J, Jin YZ, Zheng ZJ, Qin CZ, Li JY, Zhang ZY. Hourly ambient particulate matter pollutants and ambulance emergency calls among 3,022,164 patients: time stratified case-crossover study. JMIR Public Health and Surveillance 2023.
 43. Sun YY, Wang ZH, **Sun SZ**, Cui L, Zhu XQ, Ho SY, Qi SG. Cognitive activities, lifestyle factors and risk of cognitive impairment, with an analysis of the apolipoprotein epsilon 4 genotype. Gerontology 2023;
