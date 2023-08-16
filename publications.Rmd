@@ -1,5 +1,5 @@
 ---
-pagetitle: Publications - Shengzhi Sun
+pagetitle: "Publications - Shengzhi Sun"
 ---
 
 ```{=html}
@@ -72,6 +72,7 @@ body{ /* Normal  */
 36. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature%20as%20a%20modifier%20of%20the%20effects%20o.pdf). Environmental Pollution 2015; 205: 357-364. <https://doi.org/10.1016/j.envpol.2015.06.007>
 
 ### **Co-author**
+45. Lu ZH, Sun B, Wang YX, Wu YR, Chen YJ, **Sun SZ**, Liang SJ, Xu S, Chang H, Chen HG, Zhang J. [Ozone exposure associates with sperm quality indicators: Sperm telomere length as a potential mediating factor](lib/1-s2.0-S0304389423015753-main.pdf). Journal of Hazardous Materials 2023;459:132292.
 45. Guo ZH, Zhao S, **Sun SZ**, Wang Kai, Ran JJ, He DH, Wei YC, Wang HW, Sun J, Chong KC, Yeoh EK. Estimating the serial interval of Marburg virus human-to-human transmission from a case cluster seeded by a cross-border traveler. Journal of Travel Medicine 2023; https://doi.org/10.1093/jtm/taad100
 45. Ku PW, Steptoe A, Hamer M, Yu Bin, Hvidtfeldt UA, Lao XQ, Lin HH, Lo WC, Raaschou-Nielsen O, **Sun SZ**, Tian LW, Zeng YQ, Zhang YQ, Xia Y, Chen LJ. Are the associations of leisure-time activity with mortality modified by ambient PM~2.5~? A systematic review and harmonized meta-analysis involving 1.48 million participants.
 43. Zhao S, Guo ZH, **Sun SZ**, Hung CT, Leung EYM, Wei YC, Wang HW, Li KH, Yam CHK, Chow TY, Gao J, Jia KM, Chong KC, Yeoh EK. [Effectiveness of BNT162b2 and Sinovac vaccines against the transmission of SARS-CoV-2 during Omicron-predominance in Hong Kong: A retrospective cohort study of COVID-19 cases](lib/1-s2.0-S1386653223001701-main.pdf). Journal of Clinical Virology 2023; 166: 105547. https://doi.org/10.1016/j.jcv.2023.105547
