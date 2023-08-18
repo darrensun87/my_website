@@ -72,6 +72,7 @@ body{ /* Normal  */
 36. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature%20as%20a%20modifier%20of%20the%20effects%20o.pdf). Environmental Pollution 2015; 205: 357-364. <https://doi.org/10.1016/j.envpol.2015.06.007>
 
 ### **Co-author**
+45. **Sun SZ**, Zhao S. Short-term change in IgG antibody elicited by Omicron BA.5 infection and inhaled Ad5-nCoV vaccine among healthcare workers. Journal of Medical Virology 2023.
 45. Zeng T, Lu YQ, Zhao YJ, Guo ZH, **Sun SZ**, Teng ZD, Tian MZ, Wang J, Li SL, Fan XC, Wang WM, Cai YL, Liao GZ, Liang X, He DH, Wang K, Zhao S. Effectiveness of the booster dose of inactivated COVID-19 vaccine against Omicron BA.5 infection: A matched cohort study of adult close contacts. Respiratory Research 2023.
 46. **Sun SZ**, Zhao S. Influenza vaccine effectiveness against influenza A during the delayed 2022/23 epidemic in Shihezi, China. Vaccine 2023.
 45. Lu ZH, Sun B, Wang YX, Wu YR, Chen YJ, **Sun SZ**, Liang SJ, Xu S, Chang H, Chen HG, Zhang J. [Ozone exposure associates with sperm quality indicators: Sperm telomere length as a potential mediating factor](lib/1-s2.0-S0304389423015753-main.pdf). Journal of Hazardous Materials 2023;459:132292.
