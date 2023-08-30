@@ -2,7 +2,7 @@ name: 'Shengzhi ("Darren") Sun'
 title: 'Shengzhi Sun, PhD'
 output_dir: "."
 navbar:
-  title: 'Shengzhi Sun, PhD'
+  title: 'Shengzhi Sun (孙生志), PhD'
   left:
     - text: "About"
       href: about.html
