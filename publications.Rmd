@@ -26,6 +26,7 @@ body{ /* Normal  */
 -   Ran JJ, Zhao S, Han LF, Ge Y, Chong MKC, Cao WN, **Sun SZ**\*. [Increase in Diabetes Mortality Associated with COVID-19 Pandemic in the United States](lib/dc21-0213.full.pdf). Diabetes Care 2021; 44(7): e146-e147. <https://doi.org/10.2337/dc21-0213>. <ins>[2020 IF=19.11]</ins> (ranked 4 out of 179 under the category of "Endocrinology & metabolism") (Corresponding author)
 
 ### **First or Corresponding Author**
+1. Zhang YC Shi WY, Zhang M, Xu LF, Wu LZ, Li CR, Zhang ZY, Cao WN, Zhang J, Zeng Q, **Sun SZ**\*. Seminal plasma metabolome mediates the association between PM~2.5~ exposure and semen quality among Chinese adult men. Journal of Hazardous Materials 2023.
 1. Sun YT, Milando CW, Spangler KR, Wei YG, Schwartz J, Dominici F, Nori-Sarma A, **Sun SZ**\*, Wellenius GA. Short-term exposure to low levels of ambient fine particulate matter and all-cause, cardiovascular and respiratory morbidity among US adults with health insurance. 2023.
 
 1. Lv X, Shi WY, Yuan K, Zhang YC, Cao WN, Li CR, Xu LF, Wu LZ, **Sun SZ**\*, Hong F. Hourly air pollution exposure and emergency hospital visits for acute stroke: a multicenter case-crossover study.
@@ -74,7 +75,7 @@ body{ /* Normal  */
 36. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature%20as%20a%20modifier%20of%20the%20effects%20o.pdf). Environmental Pollution 2015; 205: 357-364. <https://doi.org/10.1016/j.envpol.2015.06.007>
 
 ### **Co-author**
-46. Xu QS, Zhou QF, Chen JJ, Li T, Ma JX, Du RM, Su MT, Li J, Xu M, **Sun SZ**, Ma J, Ramanathan M. The incidence of asthma attributable to temperature variability: an ecological study based on 1990-2019 GBD data. Science of the Total Environment 2023;
+47. Xu QS, Zhou QF, Chen JJ, Li T, Ma JX, Du RM, Su MT, Li J, Xu M, **Sun SZ**, Ma J, Ramanathan M. The incidence of asthma attributable to temperature variability: an ecological study based on 1990-2019 GBD data. Science of the Total Environment 2023;
 
 45. Zhang YD, Gao XG, Zhu HY, **Sun SZ**, Contento IR, Koch PA, Yu HL. The lipid-focused dietary education in pregnant women: study protocol for an open-label, parallel, randomized, intervention study addressing the adverse pregnancy outcomes. BMJ Open 2023.
 45. **Sun SZ**, Zhao S. Short-term change in IgG antibody elicited by Omicron BA.5 infection and inhaled Ad5-nCoV vaccine among healthcare workers. Journal of Medical Virology 2023.
