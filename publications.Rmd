@@ -17,6 +17,7 @@ body{ /* Normal  */
 \*Corresponding author
 
 ### **Selected Publications**
+- Cao WN, Zhao S, **Sun SZ**\*. Editorial: mortality risks associated with floods: all cause, respiratory and cardiovascular deaths rise in the weeks after an event. BMJ 2023.
 - Sun YT, Milando CW, Spangler KR, Wei YG, Schwartz J, Dominici F, Nori-Sarma A, **Sun SZ**\*, Wellenius GA. Short-term exposure to low levels of ambient fine particulate matter and all-cause, cardiovascular and respiratory morbidity among US adults with health insurance. 2023.
 
 -   **Sun SZ**\*, Weinberger KR, Nori-Sarma A, Spangler KR, Sun YT, Dominici F, Wellenius GA. [Ambient heat and risks of emergency department visits among adults in the United States: time-stratified case-crossover study](lib/bmj-2021-065653.full.pdf). The BMJ 2021; 375: e065653. <https://doi.org/10.1136/BMJ-2021-065653> <ins>[2020 IF=39.890]</ins> (ranked 5 out of 167 under the category of "Medicine, General & Internal") (First and corresponding author) (Editorial: Lang AE. [Role of energy in preventing heat related illness](lib/bmj.n3117.full.pdf). BMJ 2021;375:n3117)
