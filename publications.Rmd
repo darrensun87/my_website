@@ -77,6 +77,7 @@ body{ /* Normal  */
 36. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature%20as%20a%20modifier%20of%20the%20effects%20o.pdf). Environmental Pollution 2015; 205: 357-364. <https://doi.org/10.1016/j.envpol.2015.06.007>
 
 ### **Co-author**
+48. Zhao S, Guo ZH, Sun DY, Wang K, **Sun SZ**, Peng ZH, He DH, Chong MKC, Yeoh EK. modelSSE: An R package for characterizing infectious disease superspreading from contact tracing surveillance data. 2023.
 48. Shi HX, Zhou Q, Zhang HJ, **Sun SZ**, Zhao JF, Wang YS, Huang J, Jin YZ，Zheng ZJ, Wu RY, Zhang ZY. The combined effects of hourly multi-pollutant on the risk of ambulance emergency calls: A seven-year time series study. Toxics 2023.
 47. Xu QS, Zhou QF, Chen JJ, Li T, Ma JX, Du RM, Su MT, Li J, Xu M, **Sun SZ**, Ma J, Ramanathan M. [The incidence of asthma attributable to temperature variability: an ecological study based on 1990-2019 GBD data](lib/1-s2.0-S0048969723053512-main.pdf). Science of the Total Environment 2023; 904:166726. https://doi.org/10.1016/j.scitotenv.2023.166726
 
