@@ -77,6 +77,7 @@ body{ /* Normal  */
 36. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature%20as%20a%20modifier%20of%20the%20effects%20o.pdf). Environmental Pollution 2015; 205: 357-364. <https://doi.org/10.1016/j.envpol.2015.06.007>
 
 ### **Co-author**
+48. Long-term exposure to ambient fine particulate matter and periodontitis: an observational study using nationally representative survey data. Journal of Clinical Periodontology. 2023
 48. Li JH, Wu HS, Li X, Xing WW, Han ZS, Ji RY, Deng ZY, Jung MJ, **Sun SZ**, Cardenas A, Chung BI, Langston ME. Air pollution mixture associated with oxidative stress exacerbation and symptoms deterioration in allergic rhinitis patients: evidence from a panel study. 2023.
 48. Zhao S, Guo ZH, Sun DY, Wang K, **Sun SZ**, Peng ZH, He DH, Chong MKC, Yeoh EK. modelSSE: An R package for characterizing infectious disease superspreading from contact tracing surveillance data. 2023.
 48. Shi HX, Zhou Q, Zhang HJ, **Sun SZ**, Zhao JF, Wang YS, Huang J, Jin YZ，Zheng ZJ, Wu RY, Zhang ZY. The combined effects of hourly multi-pollutant on the risk of ambulance emergency calls: A seven-year time series study. Toxics 2023.
