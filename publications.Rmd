@@ -28,7 +28,7 @@ body{ /* Normal  */
 
 ### **First or Corresponding Author**
 1. Cao WN, Zhao S, **Sun SZ**\*. Editorial: Mortality risks associated with floods: all cause, respiratory and cardiovascular deaths rise in the weeks after an event. The BMJ 2023.
-1. Zhang YC Shi WY, Zhang M, Xu LF, Wu LZ, Li CR, Zhang ZY, Cao WN, Zhang J, Zeng Q, **Sun SZ**\*. Exposure to PM~2.5~, seminal plasma metabolome, and semen quality among Chinese adult men: Association and potential mediation analyses. Journal of Hazardous Materials 2023.
+1. Zhang YC Shi WY, Zhang M, Xu LF, Wu LZ, Li CR, Zhang ZY, Cao WN, Zhang J, Zeng Q, **Sun SZ**\*. [Exposure to PM~2.5~, seminal plasma metabolome, and semen quality among Chinese adult men: Association and potential mediation analyses](lib/1-s2.0-S030438942301885X-main.pdf). Journal of Hazardous Materials 2024; 461: 132602. https://doi.org/10.1016/j.jhazmat.2023.132602 
 1. Sun YT, Milando CW, Spangler KR, Wei YG, Schwartz J, Dominici F, Nori-Sarma A, **Sun SZ**\*, Wellenius GA. Short-term exposure to low levels of ambient fine particulate matter and all-cause, cardiovascular and respiratory morbidity among US adults with health insurance. The BMJ 2023.
 
 1. Lv X, Shi WY, Yuan K, Zhang YC, Cao WN, Li CR, Xu LF, Wu LZ, **Sun SZ**\*, Hong F. Hourly air pollution exposure and emergency hospital admissions for stroke: a multicenter case-crossover study. Stroke 2023.
