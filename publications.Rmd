@@ -27,6 +27,7 @@ body{ /* Normal  */
 -   Ran JJ, Zhao S, Han LF, Ge Y, Chong MKC, Cao WN, **Sun SZ**\*. [Increase in Diabetes Mortality Associated with COVID-19 Pandemic in the United States](lib/dc21-0213.full.pdf). Diabetes Care 2021; 44(7): e146-e147. <https://doi.org/10.2337/dc21-0213>. <ins>[2020 IF=19.11]</ins> (ranked 4 out of 179 under the category of "Endocrinology & metabolism") (Corresponding author)
 
 ### **First or Corresponding Author**
+1. Yao XX Tong XN, Shen C, Song YC, **Sun SZ**\*, Chen K, Shen HY. Green space, genetic susceptibility, and risk of incident osteoporosis: a prospective cohort study from the UK Biobank. 2024;
 1. Zhao S, Cao WN, Liao GZ, Guo ZH, Xu LF, Shen C, Chang C, Liang X, Wang K, He DH, **Sun SZ**\*, Chen R, Dominici F. All-cause and cause-specific mortality associated with daylight saving time transition in the United States: A nationwide time series study based on weekly data. 2024;
 2. Zhang YC, Wei J, Zhao S, Zeng Q, **Sun SZ**\*, Cao WN. Ambient fine particulate matter constituents and semen quality among adult men in China. 2024;
 3. Yuan K, Zhang YC, Lv Xin, Cao WN, Zhang ZY, Wu LZ, **Sun SZ**\*. Hourly multiple ambient air pollutants exposure and risk of emergency department visits for asthma: a multicenter time-stratified case-crossover analysis. 2023;
@@ -80,6 +81,9 @@ body{ /* Normal  */
 36. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature%20as%20a%20modifier%20of%20the%20effects%20o.pdf). Environmental Pollution 2015; 205:357-364. <https://doi.org/10.1016/j.envpol.2015.06.007>
 
 ### **Co-author**
+
+52. Chen ZH, Jia PP, Xie D, Xie JY, Liu J, Cao WN, Han LF, Ran JJ, **Sun SZ**, Zhao S, Ge Yang, Martinez L, Chen X, Cao PH. Kidney failure-related excess mortality during the first three years of the COVID-19 pandemic in the United States: A nation-wide, population-based analysis. 2024;
+
 51. Zeng T, Wang KL, Guo ZH, **Sun SZ**, Zhai ZY, Lu YQ, Teng ZD, He DH, Wang K, Tian MZ, Zhao S. [Distinguishing the vaccine effectiveness of inactivated BBIBP-CorV vaccine booster against the susceptibility, infectiousness, and transmission of Omicron stains: A retrospective cohort study in Urumqi, China](lib/s40121-023-00873-3.pdf). Infectious Diseases Therapy 2023; https://doi.org/10.1007/s40121-023-00873-3.
 48. Long-term exposure to ambient fine particulate matter and periodontitis: an observational study using nationally representative survey data. Journal of Clinical Periodontology 2023
 48. Li JH, Wu HS, Li X, Xing WW, Han ZS, Ji RY, Deng ZY, Jung MJ, **Sun SZ**, Cardenas A, Chung BI, Langston ME. Air pollution mixture associated with oxidative stress exacerbation and symptoms deterioration in allergic rhinitis patients: evidence from a panel study. 2023.
