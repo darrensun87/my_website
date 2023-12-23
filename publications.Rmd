@@ -83,6 +83,7 @@ body{ /* Normal  */
 36. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature%20as%20a%20modifier%20of%20the%20effects%20o.pdf). Environmental Pollution 2015; 205:357-364. <https://doi.org/10.1016/j.envpol.2015.06.007>
 
 ### **Co-author**
+54. Yuan K, Shi WY, Lv X, Zhang YC, Liu RY, Zhang ZY, **Sun SZ**, Wu LZ, Cao WN. Exposure to hourly non-optimal ambient temperature and temperature change between neighboring days and risk of emergency department visits for cause-specific cardiovascular disease: a multicenter case-crossover study 2024.
 54. Ouyang YH, Yang J, Zhang JX, Yan Y, **Sun SZ**, Wang JJ, Li XB, Chen R, Zhang L. Airborne pollen exposure and the risk of hospital admission for allergic rhinitis in Beijing: a time-stratified case-crossover study. Clinical and Translational Allergy 2024;
 54. Shi HX, Sun MT, Shen P, Ma JX, Zhou QF, Yang ZM, Chai PF, **Sun SZ**, Lin HB, Shui LM, Liang ZS, Huang SY, Zhang N, Wang JB, Zhang ZY, Chen K. Diet modified the association of metals and nonmetals in drinking water with major adverse cardiovascular events (MACE) in a prospective cohort study. 2024;
 
