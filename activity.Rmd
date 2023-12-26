@@ -79,6 +79,7 @@ body{ /* Normal  */
 -   Molecular Psychiatry
 -   Neurology
 -   Nature Communications
+-   Nature Medicine
 -   PLOS One
 -   PLOS Medicine
 -   Paediatric and Perinatal Epidemiology
