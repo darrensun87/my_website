@@ -17,7 +17,7 @@ body{ /* Normal  */
 \*Corresponding author
 
 ### **Selected Publications**
-- Sun YT, Milando CW, Spangler KR, Wei YG, Schwartz J, Dominici F, Nori-Sarma A, **Sun SZ**\*, Wellenius GA. Short-term exposure to low level ambient fine particulate matter and natural cause, cardiovascular and respiratory morbidity among US adults with health insurance: case time series study. The BMJ 2024；
+- Sun YT, Milando CW, Spangler KR, Wei YG, Schwartz J, Dominici F, Nori-Sarma A, **Sun SZ**\*, Wellenius GA. Short-term exposure to low level ambient fine particulate matter and natural cause, cardiovascular and respiratory morbidity among US adults with health insurance: case time series study. The BMJ 2024；http://dx.doi.org/10.1136/bmj-2023-076322
 
 - Cao WN, Zhao S, **Sun SZ**\*. Editorial: [Mortality risks associated with floods: All cause, cardiovascular, and respiratory deaths rise in the weeks after an event](lib/bmj.p2101.full.pdf). The BMJ 2023; 383:p2101. http://dx.doi.org/10.1136/bmj.p2101
 
@@ -34,7 +34,7 @@ body{ /* Normal  */
 1. Zhao S, Cao WN, Liao GZ, Guo ZH, Xu LF, Shen C, Chang C, Liang X, Wang K, He DH, **Sun SZ**\*, Chen R, Dominici F. All-cause and cause-specific mortality associated with daylight saving time transition in the United States: A nationwide time series study based on weekly data. BMJ Medicine 2024; http://dx.doi.org/10.1136/bmjmed-2023-000771
 2. Zhang YC, Wei J, Zhao S, Zeng Q, **Sun SZ**\*, Cao WN. [Ambient fine particulate matter constituents and semen quality among adult men in China](lib/1-s2.0-S0304389423025979-main.pdf). Journal of Hazardous Materials 2024;465:133313. https://doi.org/10.1016/j.jhazmat.2023.133313
 3. Yuan K, Zhang YC, Lv Xin, Cao WN, Zhang ZY, Wu LZ, **Sun SZ**\*. [Exposure to hourly ambient air pollutants and risk of emergency department visits for asthma: a multicenter time-stratified case-crossover analysis](lib/1-s2.0-S1352231023007331-main.pdf). Atmospheric Environment 2024;319:120307. https://doi.org/10.1016/j.atmosenv.2023.120307
-1. Sun YT, Milando CW, Spangler KR, Wei YG, Schwartz J, Dominici F, Nori-Sarma A, **Sun SZ**\*, Wellenius GA. Short-term exposure to low level ambient fine particulate matter and natural cause, cardiovascular and respiratory morbidity among US adults with health insurance: case time series study. The BMJ 2024；
+1. Sun YT, Milando CW, Spangler KR, Wei YG, Schwartz J, Dominici F, Nori-Sarma A, **Sun SZ**\*, Wellenius GA. Short-term exposure to low level ambient fine particulate matter and natural cause, cardiovascular and respiratory morbidity among US adults with health insurance: case time series study. The BMJ 2024；http://dx.doi.org/10.1136/bmj-2023-076322
 
 1. Cao WN, Zhao S, **Sun SZ**\*. Editorial: [Mortality risks associated with floods: All cause, cardiovascular, and respiratory deaths rise in the weeks after an event](lib/bmj.p2101.full.pdf). The BMJ 2023;383:p2101. http://dx.doi.org/10.1136/bmj.p2101
 1. Zhang YC, Shi WY, Zhang M, Xu LF, Wu LZ, Li CR, Zhang ZY, Cao WN, Zhang J, Zeng Q, **Sun SZ**\*. [Exposure to PM~2.5~, seminal plasma metabolome, and semen quality among Chinese adult men: Association and potential mediation analyses](lib/1-s2.0-S030438942301885X-main.pdf). Journal of Hazardous Materials 2024; 461:132602. https://doi.org/10.1016/j.jhazmat.2023.132602 
