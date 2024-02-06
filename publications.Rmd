@@ -27,6 +27,8 @@ body{ /* Normal  */
 -   Nori-Sarma A, **Sun SZ**\*, Sun YT, Spangler KR, Oblath R, Galea S, Gradus JL, Wellenius GA. [Association between ambient heat and risk of emergency department visits for mental health among US, 2010-2019](lib/jamapsychiatry_norisarma_2022.pdf). JAMA Psychiatry 2022;79(4):341-349. <https://doi.org/10.1001/jamapsychiatry.2021.4369> (Corresponding author) (Editorial: Obradovich N, Ninor K. [Identifying and preparing for mental health burden of climate change](lib/jamapsychiatry_obradovich_2022_ed_210013_1645467162.82451.pdf). JAMA Psychiatry 2022). **Faculty Opinions Recommended** (ESI highly cited papers)
 
 ### **First or Corresponding Author**
+1. Shi YD, Zhang YC, Yuan K, Han Z, Zhao S, Zhang ZY, Cao WN, Li YF, Zeng Q, **Sun SZ**\*. Exposure to ambient ozone and sperm quality among adult men in China. 2024;
+
 1. Zhang YC, Zhao S, Cao WN, **Sun SZ**\*, Zeng Q, Luo P. Ambient ozone exposure, semen plasma metabolites, and sperm quality decline among Chinese adult men: Association and potential mediation analyses 2024;
 1. Wu HS, Liu JQ, Conway E, Zhan N, Chen ZS, **Sun SZ**\*, Li JH. Fine particulate matter components and depression among middle-aged and older adults in China. 2024;
 
@@ -88,7 +90,7 @@ body{ /* Normal  */
 36. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature%20as%20a%20modifier%20of%20the%20effects%20o.pdf). Environmental Pollution 2015; 205:357-364. <https://doi.org/10.1016/j.envpol.2015.06.007>
 
 ### **Co-author**
-56. Ge Y, Cao WN, **Sun SZ**, Ross M, Shen Y. The seasonal influenza vaccine cannot trigger a Titer increase among some elderly individuals. 2024;
+57. Ge Y, Cao WN, **Sun SZ**, Ross M, Shen Y. The seasonal influenza vaccine cannot trigger a Titer increase among some elderly individuals. 2024;
 54. Yuan K, Shi WY, Lv X, Zhang YC, Liu RY, Zhang ZY, **Sun SZ**, Wu LZ, Cao WN. Exposure to hourly non-optimal ambient temperature and temperature change between neighboring days and risk of emergency department visits for cause-specific cardiovascular disease: a multicenter case-crossover study 2024.
 54. Ouyang YH, Yang J, Zhang JX, Yan Y, **Sun SZ**, Wang JJ, Li XB, Chen R, Zhang L. Airborne pollen exposure and the risk of hospital admission for allergic rhinitis in Beijing: a time-stratified case-crossover study. Clinical and Translational Allergy 2024;
 54. Zhou SD, Su MT, Shen P, Yang ZM, Chai PF, **Sun SZ**, Lin HB, Shui LM, Zhang N, Xu M, Zheng ZJ, Wang JB, Zhang ZY, Chen K. [Association between drinking water quality and mental health and the modifying role of diet: a prospective cohort study](lib/s12916-024-03269-3.pdf). BMC Medicine 2024; 22: 53. https://doi.org/10.1186/s12916-024-03269-3
