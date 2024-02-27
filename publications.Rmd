@@ -91,6 +91,8 @@ body{ /* Normal  */
 36. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature%20as%20a%20modifier%20of%20the%20effects%20o.pdf). Environmental Pollution 2015; 205:357-364. <https://doi.org/10.1016/j.envpol.2015.06.007>
 
 ### **Co-author**
+
+57. Thompson R, Tong XN, Shen XY, Ran JJ, **Sun SZ**, Yao XX, Shen C. Longitudinal associations between air pollution, noise and greenspace exposure and incident dementia as mediated by MRI-measured brain volumes in the UK Biobank. 2024.
 57. Dong YQ, Cao WN, Wei J, Chen YJ, Zhang YH, **Sun SZ**, Hu F, Cai Y. Ambient air pollutant mixture exposure and sarcopenia among middle-aged and older adults in China. 2024.
 57. Ge Y, Cao WN, **Sun SZ**, Ross M, Shen Y. The seasonal influenza vaccine cannot trigger a Titer increase among some elderly individuals. 2024;
 54. Yuan K, Shi WY, Lv X, Zhang YC, Liu RY, Zhang ZY, **Sun SZ**, Wu LZ, Cao WN. Exposure to hourly non-optimal ambient temperature and temperature change between neighboring days and risk of emergency department visits for cause-specific cardiovascular disease: a multicenter case-crossover study 2024.
