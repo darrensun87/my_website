@@ -35,7 +35,7 @@ body{ /* Normal  */
 1. Cao WN, Li CR, Sun F, Shi YH, Ji Y, Lin H, Ni MJ, **Sun SZ**\*, Chang C. Maternal sexually transmitted infections and congenital anomalies among newborns in the United States. 2024; 
 
 1. Niu HX, Xu MJ, Tu PC, Xu YF, Li XQ, Xing ML, Chen ZJ, Wang XF, Lou XM, Wu LZ, **Sun SZ**\*. [Emerging contaminants: an emerging risk factor for diabetes mellitus](lib/toxics-12-00047.pdf). Toxics 2024; 12(1):47. https://doi.org/10.3390/toxics12010047
-1. Yao XX, Tong XN, Shen C, Song YC, **Sun SZ**\*, Chen K, Shen HY. Green space, genetic susceptibility, and risk of incident osteoporosis: a prospective cohort study from the UK Biobank. Chemosphere 2024;
+1. Yao XX, Tong XN, Shen C, Song YC, **Sun SZ**\*, Chen K, Shen HY. Green space, genetic susceptibility, and risk of incident osteoporosis: a prospective cohort study from the UK Biobank. Chemosphere 2024; 141632. https://doi.org/10.1016/j.chemosphere.2024.141632
 
 1. Zhao S, Cao WN, Liao GZ, Guo ZH, Xu LF, Shen C, Chang C, Liang X, Wang K, He DH, **Sun SZ**\*, Chen R, Dominici F. All cause and cause specific mortality associated with transition to daylight saving time in US: nationwide, time series, observational study. BMJ Medicine 2024;3:e000771. http://dx.doi.org/10.1136/bmjmed-2023-000771
 2. Zhang YC, Wei J, Zhao S, Zeng Q, **Sun SZ**\*, Cao WN. [Ambient fine particulate matter constituents and semen quality among adult men in China](lib/1-s2.0-S0304389423025979-main.pdf). Journal of Hazardous Materials 2024;465:133313. https://doi.org/10.1016/j.jhazmat.2023.133313
