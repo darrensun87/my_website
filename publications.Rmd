@@ -27,7 +27,7 @@ body{ /* Normal  */
 -   Nori-Sarma A, **Sun SZ**\*, Sun YT, Spangler KR, Oblath R, Galea S, Gradus JL, Wellenius GA. [Association between ambient heat and risk of emergency department visits for mental health among US, 2010-2019](lib/jamapsychiatry_norisarma_2022.pdf). JAMA Psychiatry 2022;79(4):341-349. <https://doi.org/10.1001/jamapsychiatry.2021.4369> (Corresponding author) (Editorial: Obradovich N, Ninor K. [Identifying and preparing for mental health burden of climate change](lib/jamapsychiatry_obradovich_2022_ed_210013_1645467162.82451.pdf). JAMA Psychiatry 2022). **Faculty Opinions Recommended** (ESI highly cited papers)
 
 ### **First or Corresponding Author**
-1. Shi YD, Zhang YC, Yuan K, Han Z, Zhao S, Zhang ZY, Cao WN, Li YF, Zeng Q, **Sun SZ**\*. Exposure to ambient ozone and sperm quality among adult men in China. 2024;
+1. Shi YD, Zhang YC, Yuan K, Han Z, Zhao S, Zhang ZY, Cao WN, Li YF, Zeng Q, **Sun SZ**\*. Exposure to ambient ozone and sperm quality among adult men in China. Ecotoxicology and Environmental Safety 2024;
 
 1. Zhang YC, Zhao S, Cao WN, **Sun SZ**\*, Zeng Q, Luo P. Ambient ozone exposure, semen plasma metabolites, and sperm quality decline among Chinese adult men: Association and potential mediation analyses 2024;
 1. Wu HS, Liu JQ, Conway E, Zhan N, Chen ZS, **Sun SZ**\*, Li JH. Fine particulate matter components and depression among middle-aged and older adults in China. 2024;
