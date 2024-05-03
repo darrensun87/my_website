@@ -107,7 +107,7 @@ body{ /* Normal  */
 51. Zeng T, Wang KL, Guo ZH, **Sun SZ**, Zhai ZY, Lu YQ, Teng ZD, He DH, Wang K, Tian MZ, Zhao S. [Distinguishing the vaccine effectiveness of inactivated BBIBP-CorV vaccine booster against the susceptibility, infectiousness, and transmission of Omicron stains: A retrospective cohort study in Urumqi, China](lib/s40121-023-00873-3.pdf). Infectious Diseases Therapy 2023; https://doi.org/10.1007/s40121-023-00873-3.
 48. Li WJ, Li N, Liang ZS, Hou XD, Si Y, Wang X, Feng XP, Tai BJ, Hu DY, Lin HC, Wang B, Wang CX, Zheng SG, Liu XN, Rong WS, Wang WJ, **Sun SZ**, Meng HX, Zhang ZY. [Long-term exposure to ambient fine particulate matter and periodontitis: An observational study using nationally representative survey data](lib/17902641.pdf). Journal of Clinical Periodontology 2024; https://doi.org/10.1111/jcpe.13950
 
-48. Li JH, Wu HS, Xing WW, Li X, Han ZS, Ji RY, Deng ZY, Jung MJ, **Sun SZ**, Chung BI, Cardenas A, Langston ME. Air pollution mixture associated with oxidative stress exacerbation and symptoms deterioration in allergic rhinitis patients: evidence from a panel study. Science of the Total Environment 2024.
+48. Li JH, Wu HS, Xing WW, Li X, Han ZS, Ji RY, Deng ZY, Jung MJ, **Sun SZ**, Chung BI, Cardenas A, Langston ME. [Air pollution mixture associated with oxidative stress exacerbation and symptoms deterioration in allergic rhinitis patients: evidence from a panel study](lib/1-s2.0-S0048969724028353-main.pdf). Science of the Total Environment 2024;930:172688.
 
 48. Zhao S, Guo ZH, Sun DY, Wang K, **Sun SZ**, Peng ZH, He DH, Chong MKC, Yeoh EK. modelSSE: An R package for characterizing infectious disease superspreading from contact tracing surveillance data. 2023.
 
