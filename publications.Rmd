@@ -27,6 +27,7 @@ body{ /* Normal  */
 -   Nori-Sarma A, **Sun SZ**\*, Sun YT, Spangler KR, Oblath R, Galea S, Gradus JL, Wellenius GA. [Association between ambient heat and risk of emergency department visits for mental health among US, 2010-2019](lib/jamapsychiatry_norisarma_2022.pdf). JAMA Psychiatry 2022;79(4):341-349. <https://doi.org/10.1001/jamapsychiatry.2021.4369> (Corresponding author) (Editorial: Obradovich N, Ninor K. [Identifying and preparing for mental health burden of climate change](lib/jamapsychiatry_obradovich_2022_ed_210013_1645467162.82451.pdf). JAMA Psychiatry 2022). **Faculty Opinions Recommended** (ESI highly cited papers)
 
 ### **First or Corresponding Author**
+1. Wang HT, Liu D, Meng XN, Sun WX, Li cc, Lu HM, Zheng DQ, Wu LJ, **Sun SZ**\*, Wang YX. [Immunoglobulin G N-Glycosylation and Senescence-Associated Secretory Phenotype](lib/ijms-25-06337.pdf). International Journal of Molecular Sciences 2024; 25: 6337. https://doi.org/10.3390/ijms25126337
 1. Shi YD, Zhang YC, Yuan K, Han Z, Zhao S, Zhang ZY, Cao WN, Li YF, Zeng Q, **Sun SZ**\*. Exposure to ambient ozone and sperm quality among adult men in China. Ecotoxicology and Environmental Safety 2024;
 
 1. Zhang YC, Zhao S, Cao WN, **Sun SZ**\*, Zeng Q, Luo P. Ambient ozone exposure, semen plasma metabolites, and sperm quality decline among Chinese adult men: Association and potential mediation analyses. Environment & Health  2024
@@ -91,7 +92,7 @@ body{ /* Normal  */
 36. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature%20as%20a%20modifier%20of%20the%20effects%20o.pdf). Environmental Pollution 2015; 205:357-364. <https://doi.org/10.1016/j.envpol.2015.06.007>
 
 ### **Co-author**
-57. Guo ZH, Zeng T, Lu YQ, **Sun SZ**, Liang X, Ran JJ, Wu YS, Chong MK, Wang K, Zhao S. [Transmission risks of Omicron BA.5 following inactivated COVID-19 vaccines among children and adolescents in China](lib/maincm.pdf). Communications Medicine 2024; 4:92. https://doi.org/10.1038/s43856-024-00521-y
+58. Guo ZH, Zeng T, Lu YQ, **Sun SZ**, Liang X, Ran JJ, Wu YS, Chong MK, Wang K, Zhao S. [Transmission risks of Omicron BA.5 following inactivated COVID-19 vaccines among children and adolescents in China](lib/maincm.pdf). Communications Medicine 2024; 4:92. https://doi.org/10.1038/s43856-024-00521-y
 57. Thompson R, Tong XN, Shen XY, Ran JJ, **Sun SZ**, Yao XX, Shen C. Longitudinal associations between air pollution, noise and green space exposure and incident dementia as mediated by MRI-measured brain volumes in the UK Biobank. 2024. 
 57. Dong YQ, Cao WN, Wei J, Chen YJ, Zhang YH, **Sun SZ**, Hu F, Cai Y. Ambient air pollutant mixture exposure and sarcopenia among middle-aged and older adults in China. 2024.
 57. Ge Y, Cao WN, **Sun SZ**, Ross M, Shen Y. The seasonal influenza vaccine cannot trigger a Titer increase among some elderly individuals. 2024;
