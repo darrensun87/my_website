@@ -31,7 +31,7 @@ body{ /* Normal  */
 1. Shi YD, Zhang YC, Yuan K, Han Z, Zhao S, Zhang ZY, Cao WN, Li YF, Zeng Q, **Sun SZ**\*. Exposure to ambient ozone and sperm quality among adult men in China. Ecotoxicology and Environmental Safety 2024;
 
 1. Zhang YC, Zhao S, Cao WN, **Sun SZ**\*, Zeng Q, Luo P. Ambient ozone exposure, semen plasma metabolites, and sperm quality decline among Chinese adult men: Association and potential mediation analyses. Environment & Health  2024
-1. Wu HS, Liu JQ, Conway E, Zhan N, Chen ZS, **Sun SZ**\*, Li JH. Fine particulate matter components and depression among middle-aged and older adults in China. 2024;
+1. Wu HS, Liu JQ, Conway E, Zhan N, Chen ZS, **Sun SZ**\*, Li JH. Fine particulate matter components and depression among middle-aged and older adults in China. Science of the Total Environment 2024;
 
 1. Cao WN, Li CR, Sun F, Shi YH, Ji Y, Lin H, Ni MJ, **Sun SZ**\*, Chang C. Maternal sexually transmitted infections and congenital anomalies among newborns in the United States. 2024; 
 
