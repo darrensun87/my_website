@@ -94,6 +94,10 @@ body{ /* Normal  */
 36. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature%20as%20a%20modifier%20of%20the%20effects%20o.pdf). Environmental Pollution 2015; 205:357-364. <https://doi.org/10.1016/j.envpol.2015.06.007>
 
 ### **Co-author**
+60. Relationship between global warming and autism spectrum disorder from 1990 to 2019. BJPsych Open 2024.
+60. Real-world evaluation of inactivated BBIBP-CorV COVID-19 vaccine safety on males fertility in Urumqi, China: A retrospective cohort study. 2024;
+60. Chen ZH, Wang X, Liu ML, Wu WH, Liu H, Sun Y, Jiang M, Tang XJ, Zou X, Li L, Ran JJ, **Sun SZ**, Zhao S, Fang SS, Cao PH. Resurgence of influenza following the exit of restrict non-pharmacological interventions in Shenzhen, China: A one-year observational study. 2024;
+60. Chen ZH, Tian Y, Liu J, Ran JJ, **Sun SZ**, Zhao S, Ge Y, Martinez L, Chen X, Cao PH. COVID-19 and sepsis-related excess mortality in the US during the first three years: A national-wide time series study. American Journal of Epidemiology 2024;
 60. Qiu H, **Sun SZ**, Wong TW, Qiu X, Ho KF, Wong ELY. Ambient cold temperature-related attributable risk for emergency asthma hospitalizations and length of stay in Hong Kong. 2024;
 59. Shen C, Tong XN, Ran JJ, **Sun SZ**, Yang Q, Shen HY, Yao XX. [Associations between residential environments and late-onset schizophrenia in UK Biobank: Interaction with genetic risk factor](lib/Associations between.pdf). Schizophrenia Research 2024;270:85-93. https://doi.org/10.1016/j.schres.2024.06.008
 58. Guo ZH, Zeng T, Lu YQ, **Sun SZ**, Liang X, Ran JJ, Wu YS, Chong MK, Wang K, Zhao S. [Transmission risks of Omicron BA.5 following inactivated COVID-19 vaccines among children and adolescents in China](lib/maincm.pdf). Communications Medicine 2024; 4:92. https://doi.org/10.1038/s43856-024-00521-y
