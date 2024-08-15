@@ -27,6 +27,8 @@ body{ /* Normal  */
 -   Nori-Sarma A, **Sun SZ**\*, Sun YT, Spangler KR, Oblath R, Galea S, Gradus JL, Wellenius GA. [Association between ambient heat and risk of emergency department visits for mental health among US, 2010-2019](lib/jamapsychiatry_norisarma_2022.pdf). JAMA Psychiatry 2022;79(4):341-349. <https://doi.org/10.1001/jamapsychiatry.2021.4369> (Corresponding author) (Editorial: Obradovich N, Ninor K. [Identifying and preparing for mental health burden of climate change](lib/jamapsychiatry_obradovich_2022_ed_210013_1645467162.82451.pdf). JAMA Psychiatry 2022). **Faculty Opinions Recommended** (ESI highly cited papers)
 
 ### **First or Corresponding Author**
+1. Lv X, Lin GY, Zhang YC, Yuan K, Liang T, Liu RY, Du Y, Yu HL,**Sun SZ**\*. Weekly-specific ambient PM~1~ before and during pregnancy and the risk of gestational diabetes mellitus. Ecotoxicology and Environmental Safety 2024;
+60. Han Z, Liu JY, Liang T, Yin J, Wei J, Zeng Q, **Sun SZ**, Liu CJ, Cao WN. Exposure to ambient particulate matter deletes ovarian reserve. 2024;
 1. Yuan K, Lv X, Zhang YC, Liu RY, Liang T, Zhang ZY, Cao WN, Wu LZ, **Sun SZ**\*. Exposure to hourly ambient temperature and temperature change between neighboring days and risk of emergency department visits for cause-specific cardiovascular disease. 2024;
 1. Li CC, Meng XN, Zhang J, Wang HT, Lu HM, Cao ML,  **Sun SZ**\*, Wang YX. [Associations of metabolic changes and polygenic risk scores with cardiovascular outcomes and all-cuase mortality across BMI categories: a prospective cohort study](lib/s12933-024-02332-w.pdf). Cardiovascular Diabetology 2024;23:231. https://doi.org/10.1186/s12933-024-02332-w
 1. Wang HT, Liu D, Meng XN, Sun WX, Li cc, Lu HM, Zheng DQ, Wu LJ, **Sun SZ**\*, Wang YX. [Immunoglobulin G N-Glycosylation and Senescence-Associated Secretory Phenotype](lib/ijms-25-06337.pdf). International Journal of Molecular Sciences 2024; 25: 6337. https://doi.org/10.3390/ijms25126337
@@ -95,8 +97,8 @@ https://doi.org/10.1016/j.ecoenv.2024.116753
 36. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature%20as%20a%20modifier%20of%20the%20effects%20o.pdf). Environmental Pollution 2015; 205:357-364. <https://doi.org/10.1016/j.envpol.2015.06.007>
 
 ### **Co-author**
-60. Liu RY, Li CR, Liang T, Zeng Q, **Sun SZ**, Zhao S, Cao WN. Within-week day and time of birth and risk of unexpected newborn complications in term singleton births: nationwide, population-based, observational study. 2024;
-60. Han Z, Liu JY, Liang T, Yin J, Wei J, Zeng Q, **Sun SZ**, Liu CJ, Cao WN. Exposure to ambient particulate matter deletes ovarian reserve. 2024;
+62. Liu RY, Li CR, Liang T, Zeng Q, **Sun SZ**, Zhao S, Cao WN. Within-week day and time of birth and risk of unexpected newborn complications in term singleton births: nationwide, population-based, observational study. 2024;
+
 60. Relationship between global warming and autism spectrum disorder from 1990 to 2019. BJPsych Open 2024.
 60. Real-world evaluation of inactivated BBIBP-CorV COVID-19 vaccine safety on males fertility in Urumqi, China: A retrospective cohort study. 2024;
 60. Chen ZH, Wang X, Liu ML, Wu WH, Liu H, Sun Y, Jiang M, Tang XJ, Zou X, Li L, Ran JJ, **Sun SZ**, Zhao S, Fang SS, Cao PH. Resurgence of influenza following the exit of restrict non-pharmacological interventions in Shenzhen, China: A one-year observational study. 2024;
