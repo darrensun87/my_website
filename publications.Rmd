@@ -31,8 +31,9 @@ body{ /* Normal  */
 
 
 ### **First or Corresponding Author**
+1. Liang T, Zhang YC, Cao WN, Li YF, Zeng Q, **Sun SZ**\*. Exposure to residential green space and semen quality among Chinese men. Ecotoxicology and Environmental Safety 2024; 
 1. Lv X, Lin GY, Zhang YC, Yuan K, Liang T, Liu RY, Du Y, Yu HL,**Sun SZ**\*. [Weekly-specific ambient PM~1~ before and during pregnancy and the risk of gestational diabetes mellitus](lib/1-s2.0-S0147651324010820-main.pdf). Ecotoxicology and Environmental Safety 2024;284:117006. https://doi.org/10.1016/j.ecoenv.2024.117006
-60. Han Z, Liu JY, Liang T, Yin J, Wei J, Zeng Q, **Sun SZ**, Liu CJ, Cao WN. Exposure to ambient particulate matter deletes ovarian reserve. 2024;
+60. Han Z, Liu JY, Liang T, Yin J, Wei J, Zeng Q, **Sun SZ**\*, Liu CJ, Cao WN. Exposure to ambient particulate matter deletes ovarian reserve. 2024;
 1. Yuan K, Lv X, Zhang YC, Liu RY, Liang T, Zhang ZY, Cao WN, Wu LZ, **Sun SZ**\*. Exposure to hourly ambient temperature and temperature change between neighboring days and risk of emergency department visits for cause-specific cardiovascular disease. Urban Climate 2024;
 1. Li CC, Meng XN, Zhang J, Wang HT, Lu HM, Cao ML,  **Sun SZ**\*, Wang YX. [Associations of metabolic changes and polygenic risk scores with cardiovascular outcomes and all-cuase mortality across BMI categories: a prospective cohort study](lib/s12933-024-02332-w.pdf). Cardiovascular Diabetology 2024;23:231. https://doi.org/10.1186/s12933-024-02332-w
 1. Wang HT, Liu D, Meng XN, Sun WX, Li cc, Lu HM, Zheng DQ, Wu LJ, **Sun SZ**\*, Wang YX. [Immunoglobulin G N-Glycosylation and Senescence-Associated Secretory Phenotype](lib/ijms-25-06337.pdf). International Journal of Molecular Sciences 2024; 25: 6337. https://doi.org/10.3390/ijms25126337
@@ -101,7 +102,7 @@ https://doi.org/10.1016/j.ecoenv.2024.116753
 36. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature%20as%20a%20modifier%20of%20the%20effects%20o.pdf). Environmental Pollution 2015; 205:357-364. <https://doi.org/10.1016/j.envpol.2015.06.007>
 
 ### **Co-author**
-62. Mi J, Wang JP, Chen LP, Guo ZH, Lei H, Chong MKC, Talifu JT, Yang SM, Luotebula K, Ablikemu M, Ma C, Lu WL, Luo ZH, Liu CF, **Sun SZ**, Dai JH, Wang KL, Zhao S. [Real-world effectiveness of influenza vaccine against medical-attended influenza infection during 2023/24 season in Ili Kazakh Autonomous Prefecture, China: A test-negative, case-control study](lib/Real-world effectiveness of influenza vaccine.pdf). Human Vaccines & Immunotherapeutics 2024; 20(1):2394255. https://doi.org/10.1080/21645515.2024.2394255
+63. Mi J, Wang JP, Chen LP, Guo ZH, Lei H, Chong MKC, Talifu JT, Yang SM, Luotebula K, Ablikemu M, Ma C, Lu WL, Luo ZH, Liu CF, **Sun SZ**, Dai JH, Wang KL, Zhao S. [Real-world effectiveness of influenza vaccine against medical-attended influenza infection during 2023/24 season in Ili Kazakh Autonomous Prefecture, China: A test-negative, case-control study](lib/Real-world effectiveness of influenza vaccine.pdf). Human Vaccines & Immunotherapeutics 2024; 20(1):2394255. https://doi.org/10.1080/21645515.2024.2394255
 62. Liu RY, Li CR, Liang T, Zeng Q, **Sun SZ**, Zhao S, Cao WN. Within-week day and time of birth and risk of unexpected newborn complications in term singleton births: nationwide, population-based, observational study. 2024;
 
 60. Relationship between global warming and autism spectrum disorder from 1990 to 2019. BJPsych Open 2024.
