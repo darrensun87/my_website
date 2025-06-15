@@ -31,7 +31,8 @@ body{ /* Normal  */
 
 
 ### **First or Corresponding Author**
-1. Zhang YD, Gao XG, Zhu HY, Zhou Q, Cai XX, Koch PA, **Sun SZ**\*, Yu HL. [Integrative development of a concise screening questionnaire for early detection of pregnant women at risk for dystrophy](lib/s12884-024-07051-4.pdf). BMC Pregnancy and Childbirth 2024;24:861. https://doi.org/10.1186/s12884-024-07051-4
+1. Han LF, Bao YJ, Gu JW, Li YX, Shen C, **Sun SZ**\*, Ran JJ. [Urban heat island and the risk of schizophrenia spectrum disorders in middle-aged and older adults](lib/1-s2.0-S2212095525001518-main.pdf). Urban Climate 2025;61:102435. https://doi.org/10.1016/j.uclim.2025.102435
+2. Zhang YD, Gao XG, Zhu HY, Zhou Q, Cai XX, Koch PA, **Sun SZ**\*, Yu HL. [Integrative development of a concise screening questionnaire for early detection of pregnant women at risk for dystrophy](lib/s12884-024-07051-4.pdf). BMC Pregnancy and Childbirth 2024;24:861. https://doi.org/10.1186/s12884-024-07051-4
 1. Liang T, Zhang YC, Cao WN, Li YF, Zeng Q, **Sun SZ**\*. [Exposure to residential green space and semen quality among Chinese men](lib/1-s2.0-S014765132401385X-main.pdf). Ecotoxicology and Environmental Safety 2024;287:117309. https://doi.org/10.1016/j.ecoenv.2024.117309
 62. Liu RY, Li CR, Liang T, Zeng Q, **Sun SZ**, Zhao S, Cao WN. Within-week day and time of birth and risk of unexpected newborn complications in term singleton births: nationwide, population-based, observational study. 2024;
 1. Lv X, Lin GY, Zhang YC, Yuan K, Liang T, Liu RY, Du Y, Yu HL,**Sun SZ**\*. [Weekly-specific ambient PM~1~ before and during pregnancy and the risk of gestational diabetes mellitus](lib/1-s2.0-S0147651324010820-main.pdf). Ecotoxicology and Environmental Safety 2024;284:117006. https://doi.org/10.1016/j.ecoenv.2024.117006
