@@ -144,7 +144,7 @@ https://doi.org/10.4168/aair.2025.17.2.149
 
 48. Li JH, Wu HS, Xing WW, Li X, Han ZS, Ji RY, Deng ZY, Jung MJ, **Sun SZ**, Chung BI, Cardenas A, Langston ME. [Air pollution mixture associated with oxidative stress exacerbation and symptoms deterioration in allergic rhinitis patients: evidence from a panel study](lib/1-s2.0-S0048969724028353-main.pdf). Science of the Total Environment 2024;930:172688. https://doi.org/10.1016/j.scitotenv.2024.172688
 
-48. Zhao S, Guo ZH, Sun DY, Wang K, **Sun SZ**, Peng ZH, He DH, Chong MKC, Yeoh EK. modelSSE: An R package for characterizing infectious disease superspreading from contact tracing surveillance data. 2023.
+48. Zhao S, Guo ZH, Sun DY, Wang K, **Sun SZ**, Peng ZH, He DH, Chong MKC, Yeoh EK. [modelSSE: An R package for characterizing infectious disease superspreading from contact tracing data](lib/s11538-025-01421-5.pdf). Bulletin of Mathematical Biology 2025;87:47. https://doi.org/10.1007/s11538-025-01421-5
 
 48. Shi HX, Zhou Q, Zhang HJ, **Sun SZ**, Zhao JF, Wang YS, Huang J, Jin YZ，Zheng ZJ, Wu RY, Zhang ZY. [The combined effects of hourly multi-pollutant on the risk of ambulance emergency calls: A seven-year time series study](lib/toxics-11-00895.pdf). Toxics 2023; 11(11):895. https://doi.org/10.3390/toxics11110895.
 47. Xu QS, Zhou QF, Chen JJ, Li T, Ma JX, Du RM, Su MT, Li J, Xu M, **Sun SZ**, Ma J, Ramanathan M. [The incidence of asthma attributable to temperature variability: an ecological study based on 1990-2019 GBD data](lib/1-s2.0-S0048969723053512-main.pdf). Science of the Total Environment 2023; 904:166726. https://doi.org/10.1016/j.scitotenv.2023.166726
