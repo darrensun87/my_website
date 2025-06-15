@@ -116,30 +116,33 @@ https://doi.org/10.4168/aair.2025.17.2.149
 65. Thompson R, Tong XN, Shen XY, Ran JJ, **Sun SZ**, Yao XX, Shen C. [Longitudinal associations between air pollution, noise and green space exposure and incident dementia as mediated by MRI-measured brain volumes in the UK Biobank](lib/1-s2.0-S0160412024008067-main.pdf). Environment International 2025;195:109219. https://doi.org/10.1016/j.envint.2024.109219
 65. Qiu H, **Sun SZ**, Wong TW, Qiu X, Ho KF, Wong ELY. [Ambient temperature-related attributable risk for emergency asthma hospitalizations and length of stay in Hong Kong](lib/1-s2.0-S2212095524004371-main.pdf). Urban Climate 2025;59:102240. https://doi.org/10.1016/j.uclim.2024.102240
 64. Wang K, Zeng T, Guo ZH, Liang J, **Sun SZ**, Ni YK, Yan CY, Yin L, Wang L, Li H, Wang KL, Chong MKC, Tang NJ, Dai JH, Luo ZH, Zhao S. [Comparing the protection of heterologous booster of inhaled Ad5-nCoV vaccine and hybrid immunity against Omicron BA.5 infection: A cohort study of hospital staff in China](lib/s12879-024-10250-1.pdf). BMC Infectious Diseases 2024;24:1401. https://doi.org/10.1186/s12879-024-10250-1
+
 64. Chen ZH, Tian Y, Liu J, Ran JJ, **Sun SZ**, Zhao S, Ge Y, Martinez L, Chen X, Cao PH. COVID-19 and sepsis-related excess mortality in the US during the first three years: A national-wide time series study. American Journal of Epidemiology 2024; https://doi.org/10.1093/aje/kwae411
-64. Zhang YD, Gao XG, Zhu HY, Zhou Q, Cai XX, Koch PA, **Sun SZ**, Yu HL. Integrative development of a concise screening questionnaire for early detection of pregnant women at risk for dystrophy. 2024;
+
 63. Mi J, Wang JP, Chen LP, Guo ZH, Lei H, Chong MKC, Talifu JT, Yang SM, Luotebula K, Ablikemu M, Ma C, Lu WL, Luo ZH, Liu CF, **Sun SZ**, Dai JH, Wang KL, Zhao S. [Real-world effectiveness of influenza vaccine against medical-attended influenza infection during 2023/24 season in Ili Kazakh Autonomous Prefecture, China: A test-negative, case-control study](lib/Real-world effectiveness of influenza vaccine.pdf). Human Vaccines & Immunotherapeutics 2024; 20(1):2394255. https://doi.org/10.1080/21645515.2024.2394255
 
 60. Zhou QF, Chen JJ, Ma JX, Jiao WT, Liang ZS, Du RM, Pan YH, Liu L, Qian QJ, **Sun SZ**, Ji YL, Zhang ZY. [Relationship between global warming and autism spectrum disorder from 1990 to 2019](lib/relationship-between-global-warming-and-autism-spectrum-disorder-from-1990-to-2019.pdf). BJPsych Open 2024; 10(6): e1-6. https://doi.org/10.1192/bjo.2024.790
+
 60. Real-world evaluation of inactivated BBIBP-CorV COVID-19 vaccine safety on males fertility in Urumqi, China: A retrospective cohort study. 2024;
+
 60. Chen ZH, Wang X, Liu ML, Wu WH, Liu H, Sun Y, Jiang M, Tang XJ, Zou X, Li L, Ran JJ, **Sun SZ**, Zhao S, Fang SS, Cao PH. Resurgence of influenza following the exit of restrict non-pharmacological interventions in Shenzhen, China: A one-year observational study. 2024;
-60. Chen ZH, Tian Y, Liu J, Ran JJ, **Sun SZ**, Zhao S, Ge Y, Martinez L, Chen X, Cao PH. COVID-19 and sepsis-related excess mortality in the US during the first three years: A national-wide time series study. American Journal of Epidemiology 2024;
-60. Qiu H, **Sun SZ**, Wong TW, Qiu X, Ho KF, Wong ELY. Ambient temperature-related attributable risk for emergency asthma hospitalizations and length of stay in Hong Kong. Urban Climate 2024;
+
 59. Shen C, Tong XN, Ran JJ, **Sun SZ**, Yang Q, Shen HY, Yao XX. [Associations between residential environments and late-onset schizophrenia in UK Biobank: Interaction with genetic risk factor](lib/Associations between.pdf). Schizophrenia Research 2024;270:85-93. https://doi.org/10.1016/j.schres.2024.06.008
 58. Guo ZH, Zeng T, Lu YQ, **Sun SZ**, Liang X, Ran JJ, Wu YS, Chong MK, Wang K, Zhao S. [Transmission risks of Omicron BA.5 following inactivated COVID-19 vaccines among children and adolescents in China](lib/maincm.pdf). Communications Medicine 2024; 4:92. https://doi.org/10.1038/s43856-024-00521-y
 
 57. Dong YQ, Cao WN, Wei J, Chen YJ, Zhang YH, **Sun SZ**, Hu F, Cai Y. [Health effect of multiple air pollutant mixture on sarcopenia among middle-aged and older adults in China](lib/1-s2.0-S0147651324007103-main.pdf). Ecotoxicology and Environmental Safety 2024; 281:116634.
 57. Ge Y, Cao WN, **Sun SZ**, Ross M, Shen Y. The seasonal influenza vaccine cannot trigger a Titer increase among some elderly individuals. 2024; e12380.
-54. Yuan K, Shi WY, Lv X, Zhang YC, Liu RY, Zhang ZY, **Sun SZ**, Wu LZ, Cao WN. Exposure to hourly non-optimal ambient temperature and temperature change between neighboring days and risk of emergency department visits for cause-specific cardiovascular disease: a multicenter case-crossover study 2024.
-54. Ouyang YH, Yang J, Zhang JX, Yan Y, **Sun SZ**, Wang JJ, Li XB, Chen R, Zhang L. [Airborne pollen exposure and the risk of hospital admission for allergic rhinitis in Beijing: a time-stratified case-crossover study](lib/ClinicalTranslationalAll.pdf). Clinical and Translational Allergy 2024; e12380. https://doi.org/10.1002/clt2.12380
-54. Zhou SD, Su MT, Shen P, Yang ZM, Chai PF, **Sun SZ**, Lin HB, Shui LM, Zhang N, Xu M, Zheng ZJ, Wang JB, Zhang ZY, Chen K. [Association between drinking water quality and mental health and the modifying role of diet: a prospective cohort study](lib/s12916-024-03269-3.pdf). BMC Medicine 2024; 22: 53. https://doi.org/10.1186/s12916-024-03269-3
-54. Shi HX, Sun MT, Shen P, Ma JX, Zhou QF, Yang ZM, Chai PF, **Sun SZ**, Lin HB, Shui LM, Liang ZS, Huang SY, Zhang N, Wang JB, Zhang ZY, Chen K. Diet modified the association of metals and nonmetals in drinking water with major adverse cardiovascular events (MACE) in a prospective cohort study. BMC Medicine 2024;
 
-52. Chen ZH, Jia PP, Xie D, Xie JY, Liu J, Cao WN, Han LF, Ran JJ, **Sun SZ**, Zhao S, Ge Yang, Martinez L, Chen X, Cao PH. Kidney failure-related excess mortality during the first three years of the COVID-19 pandemic in the United States: A nation-wide, population-based analysis. 2024;
+54. Ouyang YH, Yang J, Zhang JX, Yan Y, **Sun SZ**, Wang JJ, Li XB, Chen R, Zhang L. [Airborne pollen exposure and the risk of hospital admission for allergic rhinitis in Beijing: a time-stratified case-crossover study](lib/ClinicalTranslationalAll.pdf). Clinical and Translational Allergy 2024; e12380. https://doi.org/10.1002/clt2.12380
+
+54. Zhou SD, Su MT, Shen P, Yang ZM, Chai PF, **Sun SZ**, Lin HB, Shui LM, Zhang N, Xu M, Zheng ZJ, Wang JB, Zhang ZY, Chen K. [Association between drinking water quality and mental health and the modifying role of diet: a prospective cohort study](lib/s12916-024-03269-3.pdf). BMC Medicine 2024; 22: 53. https://doi.org/10.1186/s12916-024-03269-3
+
+54. Shi HX, Sun MT, Shen P, Ma JX, Zhou QF, Yang ZM, Chai PF, **Sun SZ**, Lin HB, Shui LM, Liang ZS, Huang SY, Zhang N, Wang JB, Zhang ZY, Chen K. Diet modified the association of metals and nonmetals in drinking water with major adverse cardiovascular events (MACE) in a prospective cohort study. BMC Medicine 2024;
 
 45. Ku PW, Steptoe A, Hamer M, Yu Bin, Hvidtfeldt UA, Lao XQ, Lin HH, Lo WC, Raaschou-Nielsen O, **Sun SZ**, Tian LW, Zeng YQ, Zhang YQ, Xia Y, Chen LJ. Are the associations of leisure-time physical activity with mortality modified by ambient PM~2.5~? A systematic review and harmonized meta-analysis involving 1.48 million participants.  2024;
 
 51. Zeng T, Wang KL, Guo ZH, **Sun SZ**, Zhai ZY, Lu YQ, Teng ZD, He DH, Wang K, Tian MZ, Zhao S. [Distinguishing the vaccine effectiveness of inactivated BBIBP-CorV vaccine booster against the susceptibility, infectiousness, and transmission of Omicron stains: A retrospective cohort study in Urumqi, China](lib/s40121-023-00873-3.pdf). Infectious Diseases Therapy 2023; https://doi.org/10.1007/s40121-023-00873-3.
+
 48. Li WJ, Li N, Liang ZS, Hou XD, Si Y, Wang X, Feng XP, Tai BJ, Hu DY, Lin HC, Wang B, Wang CX, Zheng SG, Liu XN, Rong WS, Wang WJ, **Sun SZ**, Meng HX, Zhang ZY. [Long-term exposure to ambient fine particulate matter and periodontitis: An observational study using nationally representative survey data](lib/17902641.pdf). Journal of Clinical Periodontology 2024; https://doi.org/10.1111/jcpe.13950
 
 48. Li JH, Wu HS, Xing WW, Li X, Han ZS, Ji RY, Deng ZY, Jung MJ, **Sun SZ**, Chung BI, Cardenas A, Langston ME. [Air pollution mixture associated with oxidative stress exacerbation and symptoms deterioration in allergic rhinitis patients: evidence from a panel study](lib/1-s2.0-S0048969724028353-main.pdf). Science of the Total Environment 2024;930:172688. https://doi.org/10.1016/j.scitotenv.2024.172688
@@ -147,17 +150,25 @@ https://doi.org/10.4168/aair.2025.17.2.149
 48. Zhao S, Guo ZH, Sun DY, Wang K, **Sun SZ**, Peng ZH, He DH, Chong MKC, Yeoh EK. [modelSSE: An R package for characterizing infectious disease superspreading from contact tracing data](lib/s11538-025-01421-5.pdf). Bulletin of Mathematical Biology 2025;87:47. https://doi.org/10.1007/s11538-025-01421-5
 
 48. Shi HX, Zhou Q, Zhang HJ, **Sun SZ**, Zhao JF, Wang YS, Huang J, Jin YZ，Zheng ZJ, Wu RY, Zhang ZY. [The combined effects of hourly multi-pollutant on the risk of ambulance emergency calls: A seven-year time series study](lib/toxics-11-00895.pdf). Toxics 2023; 11(11):895. https://doi.org/10.3390/toxics11110895.
+
 47. Xu QS, Zhou QF, Chen JJ, Li T, Ma JX, Du RM, Su MT, Li J, Xu M, **Sun SZ**, Ma J, Ramanathan M. [The incidence of asthma attributable to temperature variability: an ecological study based on 1990-2019 GBD data](lib/1-s2.0-S0048969723053512-main.pdf). Science of the Total Environment 2023; 904:166726. https://doi.org/10.1016/j.scitotenv.2023.166726
 
 45. Zhang YD, Gao XG, Zhu HY, **Sun SZ**, Contento IR, Koch PA, Yu HL. [Lipid-focused dietary education intervention in pregnant women: study protocol for an open-label, parallel, randomised, intervention study addressing adverse pregnancy outcomes in China](lib/e076911.full.pdf). BMJ Open 2024;14(1):e076911. https://doi.org/10.1136/bmjopen-2023-076911
+
 45. Luo ZH, Zeng T, Zhao S, Liang J, **Sun SZ**, Ni YK, Yan CY, Yin Liang, Wang L, Wang K, Guo ZH. Short-term change in IgG antibody elicited by Omicron BA.5 infection and inhaled Ad5-nCoV vaccine among healthcare workers. 2024.
+
 45. Zeng T, Lu YQ, Zhao YJ, Guo ZH, **Sun SZ**, Teng ZD, Tian MZ, Wang J, Li SL, Fan XC, Wang WM, Cai YL, Liao GZ, Liang X, He DH, Wang K, Zhao S. [Effectiveness of the booster dose of inactivated COVID-19 vaccine against Omicron BA.5 infection: A matched cohort study of adult close contacts](lib/s12931-023-02542-y.pdf). Respiratory Research 2023;24:246. https://doi.org/10.1186/s12931-023-02542-y
+
 46. Sun YX, Guo ZH, Gu X, **Sun SZ**, Wang K, Xie SS, Zhao S. [Influenza vaccine effectiveness against influenza A during the delayed 2022/23 epidemic in Shihezi, China](lib/1-s2.0-S0264410X23009714-main.pdf). Vaccine 2023; 41:5683-5685. https://doi.org/10.1016/j.vaccine.2023.08.039
+
 45. Lu ZH, Sun B, Wang YX, Wu YR, Chen YJ, **Sun SZ**, Liang SJ, Xu S, Chang H, Chen HG, Zhang J. [Ozone exposure associates with sperm quality indicators: Sperm telomere length as a potential mediating factor](lib/1-s2.0-S0304389423015753-main.pdf). Journal of Hazardous Materials 2023;459:132292. https://doi.org/10.1016/j.jhazmat.2023.132292
+
 45. Guo ZH, Zhao S, **Sun SZ**, Wang Kai, Ran JJ, He DH, Wei YC, Wang HW, Sun J, Chong KC, Yeoh EK. [Estimating the serial interval of Marburg virus human-to-human transmission from a case cluster seeded by a cross-border traveler](lib/taad100.pdf). Journal of Travel Medicine 2023; 30(5):taad100. https://doi.org/10.1093/jtm/taad100
 
 43. Zhao S, Guo ZH, **Sun SZ**, Hung CT, Leung EYM, Wei YC, Wang HW, Li KH, Yam CHK, Chow TY, Gao J, Jia KM, Chong KC, Yeoh EK. [Effectiveness of BNT162b2 and Sinovac vaccines against the transmission of SARS-CoV-2 during Omicron-predominance in Hong Kong: A retrospective cohort study of COVID-19 cases](lib/1-s2.0-S1386653223001701-main.pdf). Journal of Clinical Virology 2023; 166:105547. https://doi.org/10.1016/j.jcv.2023.105547
+
 43. Lu YQ, Guo ZH, Zeng T, **Sun SZ**, Lu YM, Teng ZD, Tian MZ, Wang J, Li SL, Fan XC, Luan ZM, Wang WM, Cai YL, Wang K, Zhao S. [Case clustering, contact stratification, and transmission heterogeneity of SARS-CoV-2 Omicron BA.5 variants in Urumqi, China: An observational study](lib/jogh-13-06018.pdf). Journal of Global Health; 2023(13):06018. https://doi.org/10.7189/jogh.13.06018
+
 43. Cheng J, Zheng H, Wei J, Huang CR, Ho HC, **Sun SZ**, Phung D, Wang XL, Bai ZL, Hossain MZ, Tong SL, Sun Hong, Xu ZW. [Short-term residential exposure to air pollution and risk of acute myocardial infarction deaths at home in China](lib/Short-term_residential_exposure_to_air_pollution_a.pdf). Environmental Science and Pollution Research 2023;30:76881-76890. https://doi.org/10.1007/s11356-023-27813-5
 43. Zhou SD, Chai PF, Dong XJ, Liang ZS, Yang ZM, Li JX, Teng GG, **Sun SZ**, Xu M, Zheng ZJ, Wang JB, Zhang ZY, Chen K. [Drinking water quality and inflammatory bowel disease: a prospective cohort study](lib/s11356-023-27460-w.pdf). Environmental Science and Pollution Research 2023; 30:71171-71183. https://doi.org/10.1007/s11356-023-27460-w
 43. Li P, Yang QQ, Wang XP, **Sun SZ**, Cao WN, Yu SW, Zhan SY, Sun F. [Dose-response relationship between physical activity and nonalcoholic fatty liver disease: A prospective cohort study](lib/Dose_response_relationship_between_physical.496.pdf). Chinese Medical Journal 2023;132(12): 1494-1496. https://doi.org/10.1097/CM9.0000000000002532
