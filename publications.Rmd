@@ -31,7 +31,8 @@ body{ /* Normal  */
 
 
 ### **First or Corresponding Author**
-1. Ma N, Yin J, Zhang YC, Cao WN, Li CR, **Sun SZ**\*. Combined effects of ambient temperature and ozone exposure before and during pregnancy on hypertensive disorders of pregnancy in 568 Chinese healthcare facilities. Environmental Research 2025;
+1. Han Z, Yin J, Cao WN, Zeng Q, **Sun SZ**\*. Association between PM2.5 and its components and antral follicle count: A multicity study in Chinese adults. 2025.
+1. Ma N, Yin J, Zhang YC, Cao WN, Li CR, **Sun SZ**\*. Combined effects of ambient temperature and ozone exposure before and during pregnancy on hypertensive disorders of pregnancy in 568 Chinese healthcare facilities. Environmental Research 2025; https://doi.org/10.1016/j.envres.2025.122668
 1. Shi YD, Yin J, Du YF, Cao WN, Gong Y, **Sun SZ**\*. Exposure to ambient ozone and ovarian reserve in Chinese women of reproductive age. International Journal of Hygience and Environmental Health 2025;
 1. Liu JY, Yin J, Cao WN, Zeng Q, **Sun SZ**\*, Chen R. [Fine particulate matter and its chemical constituents on oocyte quality in controlled ovarian hyperstimulation cycles: A prospective cohort study in China](lib/1-s2.0-S030438942502014X-main.pdf). Journal of Hazardous Materials 2025;495:139098. https://doi.org/10.1016/j.jhazmat.2025.139098
 
@@ -112,7 +113,7 @@ https://doi.org/10.1016/j.ecoenv.2024.116753
 36. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature%20as%20a%20modifier%20of%20the%20effects%20o.pdf). Environmental Pollution 2015; 205:357-364. <https://doi.org/10.1016/j.envpol.2015.06.007>
 
 ### **Co-author**
-71. Wang T, Shi HX, Liang ZS, Fan HJ, Meng TJ, Dai F, Huang W, Xu M, Yang HN, Biswal S, Ramanathan R, Liu GG, Ren MH, **Sun SZ**, Zhang ZY. [Causal link between humid heatwaves and ischemic heart disease: assessing hospitalizations and economic burden across 955 Chinese counties](lib/s12916-025-04133-8.pdf). BMC Medicine 2025;23:359. https://doi.org/10.1186/s12916-025-04133-8 
+72. Wang T, Shi HX, Liang ZS, Fan HJ, Meng TJ, Dai F, Huang W, Xu M, Yang HN, Biswal S, Ramanathan R, Liu GG, Ren MH, **Sun SZ**, Zhang ZY. [Causal link between humid heatwaves and ischemic heart disease: assessing hospitalizations and economic burden across 955 Chinese counties](lib/s12916-025-04133-8.pdf). BMC Medicine 2025;23:359. https://doi.org/10.1186/s12916-025-04133-8 
 69. Xu X, Zhang Y, Cheng L, Fan YP, Han YZ, Jie Y, Li HB, Li XB, Liu HH, Liu JF, Liu WW, Lv W, Ma YJ, Ouyang YH, Shan CG, Shi GG, Song XC, **Sun SZ**, Wang JJ, Wang XD, Wang XY, Wang ZL, Xu Y, Yang QT, Zhang YN, Zhang Yu, Zhu DD, Wang CS, Chen R, Zhang L. [Chinese expert consensus on the impact of ambient air pollution on allergic rhinitis and recommendations for mitigation strategies](lib/9999AAIR_aair-17-149.pdf). Allergy Asthma Immunol Res 2025;17(2):149-164.
 https://doi.org/10.4168/aair.2025.17.2.149
 
