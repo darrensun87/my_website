@@ -31,7 +31,7 @@ body{ /* Normal  */
 
 
 ### **First or Corresponding Author**
-1. Han Z, Yin J, Cao WN, Zeng Q, **Sun SZ**\*. Association between PM~2.5~ and its components and antral follicle count: A multicity study in Chinese adults. 2025.
+1. Han Z, Yin J, Cao WN, Zeng Q, **Sun SZ**\*. Association between PM~2.5~ and its components and antral follicle count: A multicity study in Chinese adults. Journal of Hazardous Materials 2025.
 1. Ma N, Yin J, Zhang YC, Cao WN, Li CR, **Sun SZ**\*. [Combined effects of ambient temperature and ozone exposure before and during pregnancy on hypertensive disorders of pregnancy in 568 Chinese healthcare facilities](lib/1-s2.0-S0013935125019206-main.pdf) Environmental Research 2025;285:122668. https://doi.org/10.1016/j.envres.2025.122668
 1. Shi YD, Yin J, Du YF, Cao WN, Gong Y, **Sun SZ**\*. Exposure to ambient ozone and ovarian reserve in Chinese women of reproductive age. International Journal of Hygience and Environmental Health 2025;
 1. Liu JY, Yin J, Cao WN, Zeng Q, **Sun SZ**\*, Chen R. [Fine particulate matter and its chemical constituents on oocyte quality in controlled ovarian hyperstimulation cycles: A prospective cohort study in China](lib/1-s2.0-S030438942502014X-main.pdf). Journal of Hazardous Materials 2025;495:139098. https://doi.org/10.1016/j.jhazmat.2025.139098
