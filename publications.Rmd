@@ -38,7 +38,7 @@ body{ /* Normal  */
 
 2. Liu JY, Han Z, Zhang YC, Yin J, Zhao S, Li CR, Gong Y, Cao WN, Zeng Q, **Sun SZ**\*. Exposure to ambient particulate matter and reproductive outcomes among women undergoing in Vitro Fertilization/Intracytoplasmic Sperm Injection: A prospective cohort study in China. Ecotoxicoloyg and Environmental Safety 2025.
 
-1. Cao WN, Li CR, Sun F, Shi YH, Ji Y, Lin H, Ni MJ, **Sun SZ**\*, Chang C. Maternal sexually transmitted infections and congenital anomalies among newborns in the United States. Annals of Epidemiology 2025; https://doi.org/10.1016/j.annepidem.2025.09.004
+1. Cao WN, Li CR, Sun F, Shi YH, Ji Y, Lin H, Ni MJ, **Sun SZ**\*, Chang C. [Association between maternal sexually transmitted diseases and birth defects in the United States: A nationwide population-based study](lib/1-s2.0-S1047279725002583-main.pdf). Annals of Epidemiology 2025; https://doi.org/10.1016/j.annepidem.2025.09.004
 
 1. Liu JY, Cao WN, **Sun SZ**\*. [Weathering delivery surges: how atmospheric pressure influences spontaneous labour timing in a climate-vulnerable era](lib/Paediatric Perinatal Epid - 2025 - Liu.pdf). Paediatric and Perinatal Epidemiology 2025;39(4):334-335. https://doi.org/10.1111/ppe.70030
 1. Han LF, Bao YJ, Gu JW, Li YX, Shen C, **Sun SZ**\*, Ran JJ. [Urban heat island and the risk of schizophrenia spectrum disorders in middle-aged and older adults](lib/1-s2.0-S2212095525001518-main.pdf). Urban Climate 2025;61:102435. https://doi.org/10.1016/j.uclim.2025.102435
