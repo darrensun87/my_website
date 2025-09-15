@@ -36,7 +36,7 @@ body{ /* Normal  */
 1. Shi YD, Yin J, Du YF, Cao WN, Gong Y, **Sun SZ**\*. Exposure to ambient ozone and ovarian reserve in Chinese women of reproductive age. International Journal of Hygience and Environmental Health 2025;
 1. Liu JY, Yin J, Cao WN, Zeng Q, **Sun SZ**\*, Chen R. [Fine particulate matter and its chemical constituents on oocyte quality in controlled ovarian hyperstimulation cycles: A prospective cohort study in China](lib/1-s2.0-S030438942502014X-main.pdf). Journal of Hazardous Materials 2025;495:139098. https://doi.org/10.1016/j.jhazmat.2025.139098
 
-2. Liu JY, Han Z, Zhang YC, Yin J, Zhao S, Li CR, Gong Y, Cao WN, Zeng Q, **Sun SZ**\*. Exposure to ambient particulate matter and reproductive outcomes among women undergoing in Vitro Fertilization/Intracytoplasmic Sperm Injection: A prospective cohort study in China. Ecotoxicoloyg and Environmental Safety 2025.
+2. Liu JY, Han Z, Zhang YC, Yin J, Zhao S, Li CR, Gong Y, Cao WN, Zeng Q, **Sun SZ**\*. [Exposure to ambient particulate matter and reproductive outcomes among women undergoing in Vitro Fertilization/Intracytoplasmic Sperm Injection: A prospective cohort study in China](lib/1-s2.0-S0147651325013946-main.pdf). Ecotoxicoloyg and Environmental Safety 2025;303:119049. https://doi.org/10.1016/j.ecoenv.2025.119049
 
 1. Cao WN, Li CR, Sun F, Shi YH, Ji Y, Lin H, Ni MJ, **Sun SZ**\*, Chang C. [Association between maternal sexually transmitted diseases and birth defects in the United States: A nationwide population-based study](lib/1-s2.0-S1047279725002583-main.pdf). Annals of Epidemiology 2025; https://doi.org/10.1016/j.annepidem.2025.09.004
 
