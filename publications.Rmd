@@ -17,6 +17,7 @@ body{ /* Normal  */
 \*Corresponding author
 
 ### **Selected Publications**
+- **Sun SZ**\*, Cao WN, Chen R. Editorial: Tropical cyclones and mortality risk: A global call for tropical cyclone preparedness. The BMJ 2025.
 - Sun YT, Milando CW, Spangler KR, Wei YG, Schwartz J, Dominici F, Nori-Sarma A, **Sun SZ**\*, Wellenius GA. [Short-term exposure to low level ambient fine particulate matter and natural cause, cardiovascular and respiratory morbidity among US adults with health insurance: case time series study](lib/bmj-2023-076322.full.pdf). The BMJ 2024;384:e076322. http://dx.doi.org/10.1136/bmj-2023-076322
 
 - Cao WN, Zhao S, **Sun SZ**\*. Editorial: [Mortality risks associated with floods: All cause, cardiovascular, and respiratory deaths rise in the weeks after an event](lib/bmj.p2101.full.pdf). The BMJ 2023;383:p2101. http://dx.doi.org/10.1136/bmj.p2101
@@ -31,6 +32,10 @@ body{ /* Normal  */
 
 
 ### **First or Corresponding Author**
+1. **Sun SZ**\*, Cao WN, Chen R. Editorial: Tropical cyclones and mortality risk: A global call for tropical cyclone preparedness. The BMJ 2025.
+1. Luo JS, Liu RY, Yin J, Cao WN, **Sun SZ**\*, Chen R. Mapping risks of real-world sleep patterns using accelerometer measurements. 2025;
+2. Zhang YC, Chen L, Ma N, Luo JS, Wang FR, Wu B, Liu G, Cao WN, **Sun SZ**\*, Chen R. Exposure to ambient benzene accelerates aging in adults. 2025;
+3. Wang FR, Luo JS, Zhang YC, Zhou NY, Cao WN, **Sun SZ**\*. Exposure to fine particulate matter and accelerated biological aging: a nationwide prospective, observational cohort study. 2025;
 1. Han Z, Yin J, Cao WN, Zeng Q, **Sun SZ**\*. Association between PM~2.5~ and its components and antral follicle count: A multicity study in Chinese adults. Journal of Hazardous Materials 2025.
 1. Ma N, Yin J, Zhang YC, Cao WN, Li CR, **Sun SZ**\*. [Combined effects of ambient temperature and ozone exposure before and during pregnancy on hypertensive disorders of pregnancy in 568 Chinese healthcare facilities](lib/1-s2.0-S0013935125019206-main.pdf) Environmental Research 2025;285:122668. https://doi.org/10.1016/j.envres.2025.122668
 1. Shi YD, Yin J, Du YF, Cao WN, Gong Y, **Sun SZ**\*. Exposure to ambient ozone and ovarian reserve in Chinese women of reproductive age. International Journal of Hygience and Environmental Health 2025;
@@ -114,7 +119,7 @@ https://doi.org/10.1016/j.ecoenv.2024.116753
 36. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature%20as%20a%20modifier%20of%20the%20effects%20o.pdf). Environmental Pollution 2015; 205:357-364. <https://doi.org/10.1016/j.envpol.2015.06.007>
 
 ### **Co-author**
-72. Zhang YD, Gao XG, Koch PA, Cai XX, Gao M, Yue JY, Sun Y, **Sun SZ**, Yu HL. [Exploring the determinants of unhealthy dietary behaviors among pregnant women in China using the Theory of Planned Behavior -- a cross-sectional study](lib/s12889-025-24357-w.pdf). BMC Public Health 2025;25:3009. https://doi.org/10.1186/s12889-025-24357-w
+76. Zhang YD, Gao XG, Koch PA, Cai XX, Gao M, Yue JY, Sun Y, **Sun SZ**, Yu HL. [Exploring the determinants of unhealthy dietary behaviors among pregnant women in China using the Theory of Planned Behavior -- a cross-sectional study](lib/s12889-025-24357-w.pdf). BMC Public Health 2025;25:3009. https://doi.org/10.1186/s12889-025-24357-w
 
 72. Ku PW, Steptoe A, Hamer M, Yu Bin, Hvidtfeldt UA, Lao XQ, Lin HH, Lo WC, Raaschou-Nielsen O, **Sun SZ**, Tian LW, Zeng YQ, Zhang YQ, Xia Y, Chen LJ. Does ambient PM~2.5~ reduce the protective association of leisure-time physical activity with mortality? A systematic review, meta-analysis, and individual-level pooled analysis of cohort studies involving 1.5 million adults. BMC Medicine 2025;
 
