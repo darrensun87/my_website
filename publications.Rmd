@@ -124,15 +124,22 @@ https://doi.org/10.1016/j.ecoenv.2024.116753
 72. Ku PW, Steptoe A, Hamer M, Yu Bin, Hvidtfeldt UA, Lao XQ, Lin HH, Lo WC, Raaschou-Nielsen O, **Sun SZ**, Tian LW, Zeng YQ, Zhang YQ, Xia Y, Chen LJ. Does ambient PM~2.5~ reduce the protective association of leisure-time physical activity with mortality? A systematic review, meta-analysis, and individual-level pooled analysis of cohort studies involving 1.5 million adults. BMC Medicine 2025;
 
 72. Wang T, Shi HX, Liang ZS, Fan HJ, Meng TJ, Dai F, Huang W, Xu M, Yang HN, Biswal S, Ramanathan R, Liu GG, Ren MH, **Sun SZ**, Zhang ZY. [Causal link between humid heatwaves and ischemic heart disease: assessing hospitalizations and economic burden across 955 Chinese counties](lib/s12916-025-04133-8.pdf). BMC Medicine 2025;23:359. https://doi.org/10.1186/s12916-025-04133-8 
+
 69. Xu X, Zhang Y, Cheng L, Fan YP, Han YZ, Jie Y, Li HB, Li XB, Liu HH, Liu JF, Liu WW, Lv W, Ma YJ, Ouyang YH, Shan CG, Shi GG, Song XC, **Sun SZ**, Wang JJ, Wang XD, Wang XY, Wang ZL, Xu Y, Yang QT, Zhang YN, Zhang Yu, Zhu DD, Wang CS, Chen R, Zhang L. [Chinese expert consensus on the impact of ambient air pollution on allergic rhinitis and recommendations for mitigation strategies](lib/9999AAIR_aair-17-149.pdf). Allergy Asthma Immunol Res 2025;17(2):149-164.
 https://doi.org/10.4168/aair.2025.17.2.149
 
 67. Li YL, Sun YX, Zhang YC, Guo ZH, Chen ZY, Li H, Zhang CY, Chi QG, Ge Y, Javanbakht M, Musa SS, **Sun SZ**, Tang NJ, Wang K, Wang KL, Zhao S. Association between inactivated COVID-19 vaccine and semen quality among males recovered from omicron infection: a retrospective cohort study. Expert Review of Clinical Immunology 2025; https://doi.org/10.1080/1744666X.2025.2507329
+
 67. Shi HX, Sun MT, Shen P, Ma JX, Zhou QF, Yang ZM, Chai PF, **Sun SZ**, Lin HB, Shui LM, Liang ZS, Huang SY, Zhang N, Wang JB, Chen K, Zhang ZY. [Associations between metals and nonmetals in drinking water, cardiovascular events, and diet](lib/1-s2.0-S2772963X25000869-main.pdf). JACC: Advances 2025; 4(4):101669. https://doi.org/10.1016/j.jacadv.2025.101669
+
 65. Yao XXI, **Sun SZ**, Yang Q, Tong XN, Shen C. [Associations between multiple ambient air pollutants, genetic risk, and incident mental disorders: An interaction study in the UK population](lib/1-s2.0-S0048969725007727-main.pdf). Science of the Total Environment 2025;973(2025):179137. https://doi.org/10.1016/j.scitotenv.2025.179137
+
 65. Chen ZH, Jia PP, Xie D, Xie JY, Liu J, Cao WN, Han LF, Ran JJ, **Sun SZ**, Zhao S, Ge Y, Martinez L, Chen X, Cao PH. [Kidney failure-related excess mortality during the first three years of the COVID-19 pandemic in the United States: a nation-wide, population-based analysis](lib/s12889-025-21422-2.pdf). BMC Public Health 2025;25:210. https://doi.org/10.1186/s12889-025-21422-2
+
 65. Thompson R, Tong XN, Shen XY, Ran JJ, **Sun SZ**, Yao XX, Shen C. [Longitudinal associations between air pollution, noise and green space exposure and incident dementia as mediated by MRI-measured brain volumes in the UK Biobank](lib/1-s2.0-S0160412024008067-main.pdf). Environment International 2025;195:109219. https://doi.org/10.1016/j.envint.2024.109219
+
 65. Qiu H, **Sun SZ**, Wong TW, Qiu X, Ho KF, Wong ELY. [Ambient temperature-related attributable risk for emergency asthma hospitalizations and length of stay in Hong Kong](lib/1-s2.0-S2212095524004371-main.pdf). Urban Climate 2025;59:102240. https://doi.org/10.1016/j.uclim.2024.102240
+
 64. Wang K, Zeng T, Guo ZH, Liang J, **Sun SZ**, Ni YK, Yan CY, Yin L, Wang L, Li H, Wang KL, Chong MKC, Tang NJ, Dai JH, Luo ZH, Zhao S. [Comparing the protection of heterologous booster of inhaled Ad5-nCoV vaccine and hybrid immunity against Omicron BA.5 infection: A cohort study of hospital staff in China](lib/s12879-024-10250-1.pdf). BMC Infectious Diseases 2024;24:1401. https://doi.org/10.1186/s12879-024-10250-1
 
 64. Chen ZH, Tian Y, Liu J, Ran JJ, **Sun SZ**, Zhao S, Ge Y, Martinez L, Chen X, Cao PH. [COVID-19 and sepsis-related excess mortality in the United States during the first 3 years: A national-wide time series study](lib/kwae411.pdf). American Journal of Epidemiology 2025;194:2219-2229. https://doi.org/10.1093/aje/kwae411
@@ -141,21 +148,16 @@ https://doi.org/10.4168/aair.2025.17.2.149
 
 60. Zhou QF, Chen JJ, Ma JX, Jiao WT, Liang ZS, Du RM, Pan YH, Liu L, Qian QJ, **Sun SZ**, Ji YL, Zhang ZY. [Relationship between global warming and autism spectrum disorder from 1990 to 2019](lib/relationship-between-global-warming-and-autism-spectrum-disorder-from-1990-to-2019.pdf). BJPsych Open 2024; 10(6): e1-6. https://doi.org/10.1192/bjo.2024.790
 
-60. Real-world evaluation of inactivated BBIBP-CorV COVID-19 vaccine safety on males fertility in Urumqi, China: A retrospective cohort study. 2024;
-
-60. Chen ZH, Wang X, Liu ML, Wu WH, Liu H, Sun Y, Jiang M, Tang XJ, Zou X, Li L, Ran JJ, **Sun SZ**, Zhao S, Fang SS, Cao PH. Resurgence of influenza following the exit of restrict non-pharmacological interventions in Shenzhen, China: A one-year observational study. 2024;
 
 59. Shen C, Tong XN, Ran JJ, **Sun SZ**, Yang Q, Shen HY, Yao XX. [Associations between residential environments and late-onset schizophrenia in UK Biobank: Interaction with genetic risk factor](lib/Associations between.pdf). Schizophrenia Research 2024;270:85-93. https://doi.org/10.1016/j.schres.2024.06.008
+
 58. Guo ZH, Zeng T, Lu YQ, **Sun SZ**, Liang X, Ran JJ, Wu YS, Chong MK, Wang K, Zhao S. [Transmission risks of Omicron BA.5 following inactivated COVID-19 vaccines among children and adolescents in China](lib/maincm.pdf). Communications Medicine 2024; 4:92. https://doi.org/10.1038/s43856-024-00521-y
 
 57. Dong YQ, Cao WN, Wei J, Chen YJ, Zhang YH, **Sun SZ**, Hu F, Cai Y. [Health effect of multiple air pollutant mixture on sarcopenia among middle-aged and older adults in China](lib/1-s2.0-S0147651324007103-main.pdf). Ecotoxicology and Environmental Safety 2024; 281:116634.
-57. Ge Y, Cao WN, **Sun SZ**, Ross M, Shen Y. The seasonal influenza vaccine cannot trigger a Titer increase among some elderly individuals. 2024; e12380.
 
 54. Ouyang YH, Yang J, Zhang JX, Yan Y, **Sun SZ**, Wang JJ, Li XB, Chen R, Zhang L. [Airborne pollen exposure and the risk of hospital admission for allergic rhinitis in Beijing: a time-stratified case-crossover study](lib/ClinicalTranslationalAll.pdf). Clinical and Translational Allergy 2024; e12380. https://doi.org/10.1002/clt2.12380
 
 54. Zhou SD, Su MT, Shen P, Yang ZM, Chai PF, **Sun SZ**, Lin HB, Shui LM, Zhang N, Xu M, Zheng ZJ, Wang JB, Zhang ZY, Chen K. [Association between drinking water quality and mental health and the modifying role of diet: a prospective cohort study](lib/s12916-024-03269-3.pdf). BMC Medicine 2024; 22: 53. https://doi.org/10.1186/s12916-024-03269-3
-
-54. Shi HX, Sun MT, Shen P, Ma JX, Zhou QF, Yang ZM, Chai PF, **Sun SZ**, Lin HB, Shui LM, Liang ZS, Huang SY, Zhang N, Wang JB, Zhang ZY, Chen K. Diet modified the association of metals and nonmetals in drinking water with major adverse cardiovascular events (MACE) in a prospective cohort study. BMC Medicine 2024;
 
 
 51. Zeng T, Wang KL, Guo ZH, **Sun SZ**, Zhai ZY, Lu YQ, Teng ZD, He DH, Wang K, Tian MZ, Zhao S. [Distinguishing the vaccine effectiveness of inactivated BBIBP-CorV vaccine booster against the susceptibility, infectiousness, and transmission of Omicron stains: A retrospective cohort study in Urumqi, China](lib/s40121-023-00873-3.pdf). Infectious Diseases Therapy 2023; https://doi.org/10.1007/s40121-023-00873-3.
@@ -172,8 +174,6 @@ https://doi.org/10.4168/aair.2025.17.2.149
 
 45. Zhang YD, Gao XG, Zhu HY, **Sun SZ**, Contento IR, Koch PA, Yu HL. [Lipid-focused dietary education intervention in pregnant women: study protocol for an open-label, parallel, randomised, intervention study addressing adverse pregnancy outcomes in China](lib/e076911.full.pdf). BMJ Open 2024;14(1):e076911. https://doi.org/10.1136/bmjopen-2023-076911
 
-45. Luo ZH, Zeng T, Zhao S, Liang J, **Sun SZ**, Ni YK, Yan CY, Yin Liang, Wang L, Wang K, Guo ZH. Short-term change in IgG antibody elicited by Omicron BA.5 infection and inhaled Ad5-nCoV vaccine among healthcare workers. 2024.
-
 45. Zeng T, Lu YQ, Zhao YJ, Guo ZH, **Sun SZ**, Teng ZD, Tian MZ, Wang J, Li SL, Fan XC, Wang WM, Cai YL, Liao GZ, Liang X, He DH, Wang K, Zhao S. [Effectiveness of the booster dose of inactivated COVID-19 vaccine against Omicron BA.5 infection: A matched cohort study of adult close contacts](lib/s12931-023-02542-y.pdf). Respiratory Research 2023;24:246. https://doi.org/10.1186/s12931-023-02542-y
 
 46. Sun YX, Guo ZH, Gu X, **Sun SZ**, Wang K, Xie SS, Zhao S. [Influenza vaccine effectiveness against influenza A during the delayed 2022/23 epidemic in Shihezi, China](lib/1-s2.0-S0264410X23009714-main.pdf). Vaccine 2023; 41:5683-5685. https://doi.org/10.1016/j.vaccine.2023.08.039
@@ -187,45 +187,84 @@ https://doi.org/10.4168/aair.2025.17.2.149
 43. Lu YQ, Guo ZH, Zeng T, **Sun SZ**, Lu YM, Teng ZD, Tian MZ, Wang J, Li SL, Fan XC, Luan ZM, Wang WM, Cai YL, Wang K, Zhao S. [Case clustering, contact stratification, and transmission heterogeneity of SARS-CoV-2 Omicron BA.5 variants in Urumqi, China: An observational study](lib/jogh-13-06018.pdf). Journal of Global Health; 2023(13):06018. https://doi.org/10.7189/jogh.13.06018
 
 43. Cheng J, Zheng H, Wei J, Huang CR, Ho HC, **Sun SZ**, Phung D, Wang XL, Bai ZL, Hossain MZ, Tong SL, Sun Hong, Xu ZW. [Short-term residential exposure to air pollution and risk of acute myocardial infarction deaths at home in China](lib/Short-term_residential_exposure_to_air_pollution_a.pdf). Environmental Science and Pollution Research 2023;30:76881-76890. https://doi.org/10.1007/s11356-023-27813-5
+
 43. Zhou SD, Chai PF, Dong XJ, Liang ZS, Yang ZM, Li JX, Teng GG, **Sun SZ**, Xu M, Zheng ZJ, Wang JB, Zhang ZY, Chen K. [Drinking water quality and inflammatory bowel disease: a prospective cohort study](lib/s11356-023-27460-w.pdf). Environmental Science and Pollution Research 2023; 30:71171-71183. https://doi.org/10.1007/s11356-023-27460-w
+
 43. Li P, Yang QQ, Wang XP, **Sun SZ**, Cao WN, Yu SW, Zhan SY, Sun F. [Dose-response relationship between physical activity and nonalcoholic fatty liver disease: A prospective cohort study](lib/Dose_response_relationship_between_physical.496.pdf). Chinese Medical Journal 2023;132(12): 1494-1496. https://doi.org/10.1097/CM9.0000000000002532
+
 43. Zhou Q, Shi HX, Wu NY, Zhu H, Liang ZS, **Sun SZ**, Zhao JF, Wang YS, Huang J, Jin YZ, Zheng ZJ, Qin CZ, Li JY, Zhang ZY. [Associations between hourly ambient particulate matter air pollution and ambulance emergency calls among 3,022,164 patients: time stratified case-crossover study](lib/JMIRPH.pdf). JMIR Public Health and Surveillance 2023;9:e47022. https://doi.org/10.2196/47022
+
 43. Sun YY, Wang ZH, **Sun SZ**, Cui L, Zhu XQ, Ho SY, Qi SG. Cognitive activities, lifestyle factors and risk of cognitive impairment, with an analysis of the apolipoprotein epsilon 4 genotype. Gerontology 2023; 69(9):1137-1146. https://doi.org/10.1159/000531109
+
 45. Du RM, Jiao WT, Ma JX, Zhou QF, Liang ZS, **Sun SZ**, Ahmed OG, Rowan NR, Pinto JM, Ramanathan M, Zhang ZY. [Association between ambient temperature and chronic rhinosinusitis](lib/Int Forum Allergy Rhinol - 2023 - Du - Association between ambient temperature and chronic rhinosinusitis.pdf). International Forum of Allergy and Rhinology 2023; 13(10):1906-1914. https://doi.org/10.1002/alr.23152
+
 43. Wang K, Guo ZH, Zeng Ting, **Sun SZ**, Lu YM, Wang J, Li SL, Fan XC, Luan ZM, Li HL, Zhang J, Wang YD, Lu YQ, Zhao S. [Transmission characteristics and inactivated vaccine effectiveness against the transmission of SARS-CoV-2 Omicron BA.5.2 variants in Urumqi, China](lib/wang_2023_oi_230194_1679406264.17489.pdf). JAMA Network Open 2023;6(3):e235755. https://doi.org/10.1001/jamanetworkopen.2023.5755
+
 43. Yang LP, Sun HF, Bai Y, **Sun SZ**, Wu XM, Gan ZH, Du JQ, Du JF. [Trends and projections of stomach cancer incidence in Hong Kong: A population-based study](lib/Trends and Projections of Stomach Cancer Incidence in Hong Kong A Population Based Study.pdf). Cancer Investigation 2023;41(4):319-329. https://doi.org/10.1080/07357907.2022.2126982
+
 41. Chen JJ, Jiao ZH, Liang ZS, Ma JX, Xu M, Biswal S, Ramanathan M, **Sun SZ**, Zhang ZY. [Association between temperature variability and global meningitis incidence](lib/1-s2.0-S0160412022005761-main.pdf). Environment International 2023; 171: 107649. https://doi.org/10.1016/j.envint.2022.107649
+
 40. Guo ZH, Zhao S, **Sun SZ**, He DH, Chong KC, Yeoh EK. [Estimation of the serial interval of monkeypox during the early outbreak in 2022](lib/proof.pdf). Journal of Medical Virology 2023; 95(1):e28248. https://doi.org/10.1002/jmv.28248
+
 40. IPOP study co-authors, [Changes in preterm birth and stillbirth during  COVID-19 lockdowns in 26 countries](lib/s41562-023-01522-y.pdf). Nature Human Behaviour 2023; 7:529-544. https://doi.org/10.1038/s41562-023-01522-y 
+
 41. Stowell JD, Sun YT, Spangler KR, Bernstein A, Weinberger KR, **Sun SZ**, Wellenius GA. [Warm-Season temperatures and emergency department visits among children with health insurance](lib/Stowell_2023_Environ._Res.__Health_1_015002.pdf). Environmental Research: Health 2023; 1:015002. https://doi.org/10.1088/2752-5309/ac78fa
+
 38. Adams Q, Sun YT, **Sun SZ**, Wellenius GA. [Internet searches and heat-related emergency department visits in the United States](lib/Adams_et_al-2022-Scientific_Reports.pdf).Scientific Report 2022; 12:9031. https://doi.org/10.1038/s41598-022-13168-3
+
 39. Ge Y, Martinez L, **Sun SZ**, Chen ZP, Zhang F, Li F, Sun WW, Chen EF, Pan JR, Li CW, Sun JM, Handel A, Ling F, Shen Y. [Covid-19 transmission dynamics among close contacts of Covid-19 index cases: a population-based cohort study in Zhejiang Province, China](lib/jamainternal_ge_2021_oi_210046_1628543955.60954.pdf). JAMA Internal Medicine 2021; 181(10): 1343-1350. <https://doi.org/10.1001/jamainternmed.2021.4686>.
+
 40. Weinberger KR, Wu X, **Sun SZ**, Spangler KR, Nori-Sarma A, Schwartz J, Requia W, Sabath BM, Braun D, Zanobetti A, Dominici F, Wellenius GA. [Heat warnings, mortality, and hospital admissions among older adults in the United States](lib/1-s2.0-S0160412021004591-main.pdf). Environment International 2021;157(2021): 106834. <https://doi.org/10.1016/j.envint.2021.106834>\
+
 41. Deng YL, Liao JQ, Zhou B, Zhang WX, Liu C, Yuan XQ, Chen PP, Miao Y, Luo Q, Cui FP, Zhang M, **Sun SZ**, Zheng TZ, Xia W, Li YY, Xu SQ, Zeng Q. [Early life exposure to air pollution and cell-mediated immune responses in preschoolers](lib/1-s2.0-S0045653521024358-main.pdf). Chemosphere 2022; 186(2022):131963. <https://doi.org/10.1016/j.chemosphere.2021.131963>
+
 42. Cao W, Li J, **Sun SZ**, Sturm C, Peng L, Gu J, Hao C, Hou F, Wei D, You X, Deng Y, Ekstrom AM. [HIV serostatus disclosure among men who have sex with men in China in the era of U=U and PrEP](lib/Cao_2021_AIDS%20and%20Behavior_ask%20and%20tell%20U=U.pdf). AIDS and Behavior 2022;26:1477–1488. <https://doi.org/10.1007/s10461-021-03502-7>
+
 43. Weinberger KR, Kulik ER, Boehme AK, **Sun SZ**, Dominici F, Wellenius GA. [Association between Hurricane Sandy and emergency department visits in New York City by age and cause](lib/kwab127.pdf). American Journal of Epidemiology 2021; 190(10):2138-2147. <https://doi.org/10.1093/aje/kwab127>
+
 44. Ran JJ, Zhang YM, Han LF, **Sun SZ**, Zhao S, Shen C, Zhang XH, Chan KP, Lee RSY, Qiu YL, Tian LW. [The joint association of physical activity and fine particulate matter exposure with incident dementia in Hong Kong older adults](lib/1-s2.0-S0160412021002701-main.pdf). Environment International 2021; 156(2021):106645. <https://doi.org/10.1016/j.envint.2021.106645>
+
 45. Zhang M, Liu C, Cui FP, Chen PP, Deng YL, Luo Q, Miao Y, **Sun SZ**, Li YF, Lu WQ, Zeng Q. [The role of oxidative stress in association between disinfection by-products exposure and semen quality: A mediation analysis among men from an infertility clinic](lib/1-s2.0-S004565352033054X-main.pdf). Chemosphere 268 (2021):128856. <https://doi.org/10.1016/j.chemosphere.2020.128856>
+
 46. Ran JJ, Schooling CM, Han LF, **Sun SZ**, Zhao S, Zhang XH, Chan KP, Guo F, Lee RSY, Qiu YL, Tian LW. [Long-term exposure to fine particulate matter and dementia incidence: A cohort study in Hong Kong](lib/1-s2.0-S026974912036992X-main.pdf). Environmental Pollution 2021; 271(2021):116303. <https://doi.org/10.1016/j.envpol.2020.116303>
+
 47. Yang P, Lin BG, Zhou B, Cao WC, Chen PP, Deng YL, Hou J, **Sun SZ**, Zheng TZ, Lu WQ, Cheng LM, Zeng WJ, Zeng Q. [Sex-specific associations of prenatal exposure to bisphenol A and its alternatives with fetal growth parameters and gestational age](lib/1-s2.0-S0160412020322601-main.pdf). Environment International 2021; 146(2021):106305. <https://doi.org/10.1016/j.envint.2020.106305>.
+
 48. Ran JJ, Kioumourtzoglou M, **Sun SZ**, Han LF, Zhao S, Zhu W, Li JH, Tian LW. [Source-specific Volatile Organic Compounds and Emergency Hospital Admissions for Cardiorespiratory Diseases](lib/ijerph-17-06210.pdf). International Journal of Environmental Research and Public Health. 2020; 17:6210. <https://doi.org/10.3390/ijerph17176210>
+
 49. Ran JJ, **Sun SZ**, Han LF, Zhao S, Chen DY, Guo F, Li JH, Qiu H, Lei YJ, Tian LW. [Fine particulate matter and cause-specific mortality in the Hong Kong elderly patients with chronic kidney disease](lib/Ran-2020.pdf). Chemosphere 2020; 247:125913. <https://doi.org/10.1016/j.chemosphere.2020.125913>
+
 50. Ran JJ, Yang AM, **Sun SZ**, Han LF, Qiu H, Mason TG, Li JH, Yang Y, Chan KP, Tian L. [Long-term exposure to ambient fine particulate matter and mortality of renal failure: A retrospective cohort study in Hong Kong](lib/Ran-AJE.pdf). American Journal of Epidemiology 2020; 189 (6):602-612. <https://doi.org/10.1093/aje/kwz282>
+
 51. Chen D, Mayvaneh F, Baaghideh M, Entezari A, Ho HC, Xiang Q, Jiao A, Zhang F, Hu K, Chen G, Zhao Q, **Sun SZ**, Ma L, Zhang Y. [Utilizing daily excess concentration hours to estimate cardiovascular mortality and years of life lost attributable to fine particulate matter in Tehran, Iran](lib/Chen-2019.pdf). Science of the Total Environment 2020; 703:134909. <https://doi.org/10.1016/j.scitotenv.2019.134909>
+
 52. Zhang YQ, Xiang QQ, Yu CH, Bao JZ, Ho HC, **Sun SZ**, Ding Z, Hu KJ, Zhang L. [Mortality risk and burden associated with temperature variability in China, United Kingdom and United States: Comparative analysis of daily and hourly exposure metrics](lib/zhang2019.pdf). Environmental Research 2019; 179:108771. <https://doi.org/10.1016/j.envres.2019.108771>
+
 53. Cao WN, Wong HG, Mo PKH, **Sun SZ**, Hu YHJ. [Mental health problems of female spouses of men living with HIV in Sichuan, China: A qualitative study](lib/Cao-2019.pdf) Journal of the Association of Nurses in AIDS Care 2020; 31(5):526-534. <https://doi.org/10.1097/JNC.0000000000000104>
+
 54. Lin HL, Guo YF, Ruan ZL, Yang Y, Chen YB, Zheng Y, Cummings-Vaughn LA, Rigdon SE, Vaughn MG, **Sun SZ**, Zhang LL, Wang XJ, Qian ZM, Wu F. [Ambient PM~2.5~ and O~3~ and their combined effects on prevalence of presbyopia among the elderly: A cross-sectional study in six low- and middle-income countries](lib/Lin-Ambient%20PM2.%205%20and%20O3%20and%20their%20combined%20e.pdf). Science of The Total Environment 2019; 655:168-173. <https://doi.org/10.1016/j.scitotenv.2018.11.239>
+
 55. Tonya GM, Chan KP, Schooling MC, **Sun SZ**, Yang AM, Yang Y, Benjamin B, Tian L. [Air quality changes after Hong Kong shipping emission policy: An accountability study](lib/Mason-Air%20quality%20changes%20after%20Hong%20Kong%20ship.pdf). Chemosphere 2019; 226:616-624. <https://doi.org/10.1016/j.chemosphere.2019.03.173>
+
 56. Ran JJ, **Sun SZ**, Yang AM, Yang L, Han LF, Mason TG, Chan KP, Li JH, Tian LW. [Effects of ambient benzene and toluene on emergency COPD hospitalizations: a time series study in Hong Kong](lib/Ran-Effects%20of%20ambient%20benzene%20and%20toluene%20on.pdf). Science of The Total Environment 2018; 657:28-35. <https://doi.org/10.1016/j.scitotenv.2018.12.015>
+
 57. Dai YR, Qiu H, **Sun SZ**, Yang Y, Lin HL, Tian L. [Age-dependent effect of ambient ozone on emergency asthma hospitalizations in Hong Kong](lib/Dai-Age-dependent%20effect%20of%20ambient%20ozone%20on%20e.pdf). The Journal of Allergy and Clinical Immunology 2018; 141(4):1532-1534. <https://doi.org/10.1016/j.jaci.2018.01.006>
+
 58. Qiu H, Schooling CM, **Sun SZ**, Tsang H, Tang R, Yang Y, Wong CM, Lee RSY, Tian L. [Long-term exposure to fine particulate matter air pollution and Type 2 diabetes mellitus in elderly: a cohort study in Hong Kong](lib/Qiu-Long-term%20exposure%20to%20fine%20particulate%20mat.pdf). Environment International 2018; 113: 350-356. <https://doi.org/10.1016/j.envint.2018.01.008>
-59. Yang Y, Pun V, **Sun SZ**, Lin HL, Mason TG, Qiu H. [Particulate matter components and Health: a literature review on exposure assessment](lib/Yang-Particulate%20matter%20components%20and%20health_.pdf). Journal of Public Health and Emergency 2018:2:14.10.21037/jphe.2018.03.03
+
+59. Yang Y, Pun V, **Sun SZ**, Lin HL, Mason TG, Qiu H. [Particulate matter components and Health: a literature review on exposure assessment](lib/Yang-Particulate%20matter%20components%20and%20health_.pdf). Journal of Public Health and Emergency 2018:2:14. https://doi.org/10.21037/jphe.2018.03.03
+
 60. Ran JJ, Qiu H, **Sun SZ**, Tian L. [Short-term effects of ambient TEX (toluene, ethylbenzene, and xylene combined) on cardiorespiratory mortality in Hong Kong](lib/Ran-Short-term%20effects%20of%20ambient%20benzene%20and.pdf). Environment International 2018; 117: 91-98. <https://doi.org/10.1016/j.envint.2018.04.049>
 61. Ran JJ, Qiu H, **Sun SZ**, Yang AM, Tian L. [Are ambient volatile organic compounds environmental stressors for heart failure?](lib/1-s2.0-S0269749118311564-main.pdf) Environmental Pollution 2018;242: 1810-1816. <https://doi.org/10.1016/j.envpol.2018.07.086>
+
 62. Qiu H, **Sun SZ**, Tsang, H, Wong CM, Lee RSY, Schooling CM, Tian L. [Fine particulate matter exposure and incidence of stroke: A cohort study in Hong Kong](lib/00006114-201705020-00007.pdf). Neurology 2017;88: 1-9. <https://doi.org/10.1212/WNL.0000000000003903>
+
 63. Tian L, Qiu H, **Sun SZ**, Tsang H, Chan KP, Leung WK. [Association between Emergency admission for peptic ulcer bleeding and air pollution: A case-crossover analysis in Hong Kong Elderly population](lib/Tian-Association%20between%20emergency%20admission%20f.pdf). The Lancet Planetary Health 2017;1:e74-81. [https://doi.org/10.1016/S2542-5196(17)30021-9](https://doi.org/10.1016/S2542-5196(17)30021-9){.uri}
+
 64. Tian L, **Sun SZ**. [Comparison of health impact of air pollution between China and other countries](lib/Tian-Comparison%20of%20Health%20Impact%20of%20Air%20Pollut.pdf). Advances in Experimental Medicine and Biology 2017; 1017:215-232. <https://doi.org/10.1007/978-981-10-5657-4_9>
+
 65. Li J, **Sun SZ**, Tang R, Qiu H, Huang Q, Mason GM, Tian L. [Major air pollutants and COPD: A Systematic review and Meta-analysis](lib/Li-Major%20air%20pollutants%20and%20risk%20of%20COPD%20exace.pdf). International Journal of Chronic Obstructive Pulmonary Disease 2016; 11(1):3079-3091. <https://doi.org/10.2147/COPD.S122282>
+
 66. Tian L, Qiu H, **Sun SZ**, Lin H. [Emergency cardiovascular hospitalizations risk attributable to cold temperatures in Hong Kong](lib/Tian-Emergency%20Cardiovascular%20Hospitalizations.pdf). Circulation: Cardiovascular Quality and Outcomes 2016; 9(2):135-142. <https://doi.org/10.1161/CIRCOUTCOMES.115.002410> \n
 
 For citation records, please refer to [my Google Scholar page](https://scholar.google.com.hk/citations?hl=en&user=R0S2h00AAAAJ&view_op=list_works&sortby=pubdate).
