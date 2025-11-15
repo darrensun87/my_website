@@ -41,7 +41,7 @@ body{ /* Normal  */
 1. Luo JS, Liu RY, Yin J, Cao WN, **Sun SZ**\*, Chen R. Mapping risks of real-world sleep patterns using accelerometer measurements. 2025;
 2. Zhang YC, Chen L, Ma N, Luo JS, Wang FR, Wu B, Liu G, Cao WN, **Sun SZ**\*, Chen R. Exposure to ambient benzene accelerates aging in adults. 2025;
 3. Wang FR, Luo JS, Zhang YC, Zhou NY, Cao WN, **Sun SZ**\*. Exposure to fine particulate matter and accelerated biological aging: a nationwide prospective, observational cohort study. 2025;
-1. Han Z, Yin J, Cao WN, Zeng Q, **Sun SZ**\*. Association between PM~2.5~ and its components and antral follicle count: A multicity study in Chinese adults. Journal of Hazardous Materials 2025; 140428. https://doi.org/10.1016/j.jhazmat.2025.140428
+1. Han Z, Yin J, Cao WN, Zeng Q, **Sun SZ**\*. [Association between PM~2.5~ and its components and antral follicle count: A multicity study in Chinese adults](lib/1-s2.0-S0304389425033485-main.pdf). Journal of Hazardous Materials 2025; 500:140428. https://doi.org/10.1016/j.jhazmat.2025.140428
 1. Ma N, Yin J, Zhang YC, Cao WN, Li CR, **Sun SZ**\*. [Combined effects of ambient temperature and ozone exposure before and during pregnancy on hypertensive disorders of pregnancy in 568 Chinese healthcare facilities](lib/1-s2.0-S0013935125019206-main.pdf) Environmental Research 2025;285:122668. https://doi.org/10.1016/j.envres.2025.122668
 1. Shi YD, Yin J, Du YF, Cao WN, Gong Y, **Sun SZ**\*. [Exposure to ambient ozone and ovarian reserve in Chinese women of reproductive age](lib/1-s2.0-S1438463925001750-main.pdf). International Journal of Hygiene and Environmental Health 2025; 271: 114693. https://doi.org/10.1016/j.ijheh.2025.114693
 
