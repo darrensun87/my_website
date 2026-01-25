@@ -126,6 +126,7 @@ https://doi.org/10.1016/j.ecoenv.2024.116753
 36. **Sun SZ**, Cao P, Chan KP, Tsang H, Wong CM, Thach TQ. [Temperature as a modifier of the effects of fine particulate matter on acute mortality in Hong Kong](lib/Sun-Temperature%20as%20a%20modifier%20of%20the%20effects%20o.pdf). Environmental Pollution 2015; 205:357-364. <https://doi.org/10.1016/j.envpol.2015.06.007>
 
 ### **Co-author**
+80. Jhang H, Lee WH, Lee JT, Kim YH, **Sun SZ**, Chang SS, Choe SA. [Extreme ambient temperature and differential risk of mental disorder-related emergency department visit by disorder, sex and age: A case-time series analysis in Korea](lib/0063JKMS_jkms-41-e25.pdf). J Korean Med Sci 2026;41(13):e25. https://doi.org/10.3346/jkms.2026.41.e25
 80. Luo ZH, Zeng T, Zhao S, Liang J, **Sun SZ**, Ni YK, Yan CY, Yin L, Wang L, Wang K, Guo ZH. [Short-term change in IgG antibody elicited by Omicron BA.5 infection and inhaled Ad5-nCoV vaccine among healthcare workers](lib/ImmunityInflamDisease2026.pdf). Immunity, Inflammation and disease 2026;14:e70332. https://doi.org/10.1002/iid3.70332
 
 80. Chen ZH, Tang XJ, Liu H, Wu WH, Sun Y, Jiang M, Wang X, Zou X, Li L, Ran JJ, **Sun SZ**, Zhao S, Fang SS, Cao PH. Resurgence of influenza following the lifting of non-pharmaceutical interventions in Shenzhen, China. Journal of Epidemiology 2026;
