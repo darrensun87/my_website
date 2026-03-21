@@ -33,10 +33,10 @@ body{ /* Normal  */
 
 ### **First or Corresponding Author**
 1. Yin J, Li CR, Li CL, Wu GH, Cao WN, Zhang Y, **Sun SZ**\*. Urban green space landscape patterns and preterm birth: a multicenter cohort study of over one million births in Chengdu, China. Environmental Research 2026;
-1. Yin J, Zhang Y, Du YF, Ouyang YH, Wang CS, Ma ZQ, Wang HT, Sun SZ, Zhang L, Chen R. [High-resolution mapping of allergenic pollen risk across China using ensemble machine learning](lib/1-s2.0-S0147651325020056-main.pdf). Ecotoxicology and Environmental Safety 2026;309:119659. https://doi.org/10.1016/j.ecoenv.2025.119659
+1. Yin J, Zhang Y, Du YF, Ouyang YH, Wang CS, Ma ZQ, Wang HT, **Sun SZ**\*, Zhang L, Chen R. [High-resolution mapping of allergenic pollen risk across China using ensemble machine learning](lib/1-s2.0-S0147651325020056-main.pdf). Ecotoxicology and Environmental Safety 2026;309:119659. https://doi.org/10.1016/j.ecoenv.2025.119659
 1. Liang T, Zhuang ZM, Cao WN, Wu LZ, Xing ML, **Sun SZ**\*. Thyroid hormones mediate the association between psychological stress and sleep quality among children and adolescents in Zhejiang, China. 2025.
 
-1. Liu PH, Zhang YC, Miao Y, Zhang M, Zhu JQ, Zeng JY, Liu AX, Li YJ, Ge L, Liu XY, Wu Y, li CR, Liu CJ, **Sun SZ**\*, Zeng Q. Exposure to drinking-water disinfection byproducts, seminal plasma metabolomic signatures, and semen quality: Findings from the TREE cohort. Environmental Chmistry and Ecotoxicology 2026; https://doi.org/10.1016/j.enceco.2026.02.019
+1. Liu PH, Zhang YC, Miao Y, Zhang M, Zhu JQ, Zeng JY, Liu AX, Li YJ, Ge L, Liu XY, Wu Y, li CR, Liu CJ, **Sun SZ**\*, Zeng Q. [Exposure to drinking-water disinfection byproducts, seminal plasma metabolomic signatures, and semen quality: Findings from the TREE cohort](lib/ECE文章.pdf). Environmental Chemistry and Ecotoxicology 2026;8:1592-1603. https://doi.org/10.1016/j.enceco.2026.02.019
 
 1. **Sun SZ**\*, Cao WN, Chen R. Editorial: [Tropical cyclones and mortality risk: A global call for preparedness](lib/bmj.r2208.full.pdf). The BMJ 2025;391:r2208. https://doi.org/10.1136/bmj.r2208 
 1. Han Z, Yin J, Zhang YC, Xu J, Choe SA, Cao WN, Zeng Q, **Sun SZ**\*. Exposure to PM~2.5~ and ovarian reserve in reproductive-aged women: A proteomic and metabolomic analysis of follicular fluid. 2025;
