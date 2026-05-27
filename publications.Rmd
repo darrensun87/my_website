@@ -32,7 +32,7 @@ body{ /* Normal  */
 
 
 ### **First or Corresponding Author**
-1. Yin J, Li CR, Li CL, Wu GH, Cao WN, Zhang Y, **Sun SZ**\*. Urban green space landscape patterns and preterm birth: a multicenter cohort study of over one million births in Chengdu, China. Environmental Research 2026;
+1. Yin J, Li CR, Li CL, Wu GH, Cao WN, Zhang Y, **Sun SZ**\*. [Urban green space landscape patterns and preterm birth: a multicenter cohort study of over one million births in Chengdu, China](lib/1-s2.0-S0013935126011424-main.pdf). Environmental Research 2026;303:124811. https://doi.org/10.1016/j.envres.2026.124811
 1. Yin J, Zhang Y, Du YF, Ouyang YH, Wang CS, Ma ZQ, Wang HT, **Sun SZ**\*, Zhang L, Chen R. [High-resolution mapping of allergenic pollen risk across China using ensemble machine learning](lib/1-s2.0-S0147651325020056-main.pdf). Ecotoxicology and Environmental Safety 2026;309:119659. https://doi.org/10.1016/j.ecoenv.2025.119659
 1. Liang T, Zhuang ZM, Cao WN, Wu LZ, Xing ML, **Sun SZ**\*. Thyroid hormones mediate the association between psychological stress and sleep quality among children and adolescents in Zhejiang, China. 2025.
 
