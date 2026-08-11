@@ -33,7 +33,7 @@ body{ /* Normal  */
 
 ### **First or Corresponding Author**
 1. Liu RY, Luo JS, Zhang YC, Wang FR, Xu J, Cao WN, **Sun SZ**\*. Associations between accelerometer-assessed sleep patterns, proteomic signatures, and hallmarks of aging in the UK Biobank. Aging Cell 2026;
-1. Zhuang ZM, Cao WN, Xing ML, Li XQ, Tu PC, Chen ZJ, Wu LZ, **Sun SZ**\*. [Ambient PM~2.5~ and thyroid health: A cross-sectional study of 24,771 participants in Zhejiang, China](lib/1-s2.0-S0304389426022119-main.pdf). Journal of Hazardous Materials 2026.515:143231. https://doi.org/10.1016/j.jhazmat.2026.143231
+1. Zhuang ZM, Cao WN, Xing ML, Li XQ, Tu PC, Chen ZJ, Wu LZ, **Sun SZ**\*. [Ambient PM~2.5~ and thyroid health: A cross-sectional study of 24,333 participants in Zhejiang, China](lib/1-s2.0-S0304389426022119-main.pdf). Journal of Hazardous Materials 2026.515:143231. https://doi.org/10.1016/j.jhazmat.2026.143231
 1. Yin J, Li CR, Li CL, Wu GH, Cao WN, Zhang Y, **Sun SZ**\*. [Urban green space landscape patterns and preterm birth: a multicenter cohort study of over one million births in Chengdu, China](lib/1-s2.0-S0013935126011424-main.pdf). Environmental Research 2026;303:124811. https://doi.org/10.1016/j.envres.2026.124811
 1. Yin J, Zhang Y, Du YF, Ouyang YH, Wang CS, Ma ZQ, Wang HT, **Sun SZ**\*, Zhang L, Chen R. [High-resolution mapping of allergenic pollen risk across China using ensemble machine learning](lib/1-s2.0-S0147651325020056-main.pdf). Ecotoxicology and Environmental Safety 2026;309:119659. https://doi.org/10.1016/j.ecoenv.2025.119659
 1. Liang T, Zhuang ZM, Cao WN, Wu LZ, Xing ML, **Sun SZ**\*. Thyroid hormones mediate the association between psychological stress and sleep quality among children and adolescents in Zhejiang, China. 2025.
