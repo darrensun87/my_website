@@ -34,17 +34,22 @@ body{ /* Normal  */
 
 
 ### **First or Corresponding Author**
+1. Wu GH, Yin J, Liu JY, Zhao S, **Sun SZ**\*. The emerging complexity of environmental health risks in the context of climate change. Research Connections 2026.
+
+1. Wang FR, Li YT, Li J, Ling X, Yang H, Pi YY, Li X, Zhang LW, Chen D, Chen GL, Cao J, Chen Q, **Sun SZ**\*, Zhou NY. Maternal-fetal distribution of synthetic phenolic antioxidants and their associations with gestational diabetes mellitus: A nested case-control study within the Chongqing PREBIC cohort. Ecotoxicology and Environmental Safety 2026;
+
 1. Liu RY, Luo JS, Zhang YC, Wang FR, Xu J, Cao WN, **Sun SZ**\*. [Associations between accelerometer-assessed sleep patterns, proteomic signatures, and hallmarks of aging in adulthood](lib/Aging Cell - 2026 - Liu.pdf). Aging Cell 2026;25:e70685. https://doi.org/10.1111/acel.70685.
 1. Zhuang ZM, Cao WN, Xing ML, Li XQ, Tu PC, Chen ZJ, Wu LZ, **Sun SZ**\*. [Ambient PM~2.5~ and thyroid health: A cross-sectional study of 24,333 participants in Zhejiang, China](lib/1-s2.0-S0304389426022119-main.pdf). Journal of Hazardous Materials 2026.515:143231. https://doi.org/10.1016/j.jhazmat.2026.143231
 1. Yin J, Li CR, Li CL, Wu GH, Cao WN, Zhang Y, **Sun SZ**\*. [Urban green space landscape patterns and preterm birth: a multicenter cohort study of over one million births in Chengdu, China](lib/1-s2.0-S0013935126011424-main.pdf). Environmental Research 2026;303:124811. https://doi.org/10.1016/j.envres.2026.124811
 1. Yin J, Zhang Y, Du YF, Ouyang YH, Wang CS, Ma ZQ, Wang HT, **Sun SZ**\*, Zhang L, Chen R. [High-resolution mapping of allergenic pollen risk across China using ensemble machine learning](lib/1-s2.0-S0147651325020056-main.pdf). Ecotoxicology and Environmental Safety 2026;309:119659. https://doi.org/10.1016/j.ecoenv.2025.119659
-1. Liang T, Zhuang ZM, Cao WN, Wu LZ, Xing ML, **Sun SZ**\*. Thyroid hormones mediate the association between psychological stress and sleep quality among children and adolescents in Zhejiang, China. 2025.
 
 1. Liu PH, Zhang YC, Miao Y, Zhang M, Zhu JQ, Zeng JY, Liu AX, Li YJ, Ge L, Liu XY, Wu Y, li CR, Liu CJ, **Sun SZ**\*, Zeng Q. [Exposure to drinking-water disinfection byproducts, seminal plasma metabolomic signatures, and semen quality: Findings from the TREE cohort](lib/ECE文章.pdf). Environmental Chemistry and Ecotoxicology 2026;8:1592-1603. https://doi.org/10.1016/j.enceco.2026.02.019
 
 1. **Sun SZ**\*, Cao WN, Chen R. Editorial: [Tropical cyclones and mortality risk: A global call for preparedness](lib/bmj.r2208.full.pdf). The BMJ 2025;391:r2208. https://doi.org/10.1136/bmj.r2208 
 1. Luo JS, Liu RY, Yin J, Cao WN, **Sun SZ**\*, Chen R. Accelerometer-derived real-world sleep stages and risk of incident diseases: a UK Biobank cohort study and phenome-wide analysis. PLOS Medicine 2026;23(9):e1005213. https://doi.org/10.1371/journal.pmed.1005213.
-2. Wang FR, Ling X, Jing Q, Zhang GH, Wang T, Cao J, Zhou NY, Chen Q, **Sun SZ**\*. Eearly-pregnancy urinary metal(loid) mixture and gestational dysglycemia subtypes: modification by circulating IGFBP1 in a prospective cohort study. BMC Medicine 2026;
+
+2. Wang FR, Ling X, Jing Q, Zhang GH, Wang T, Cao J, Zhou NY, Chen Q, **Sun SZ**\*. Early-pregnancy urinary metal(loid) mixture and gestational dysglycemia subtypes: modification by circulating IGFBP1 in a prospective cohort study. BMC Medicine 2026;
+
 3. Wang FR, Luo JS, Zhang YC, Zhou NY, Cao WN, **Sun SZ**\*. [Long-term exposure to PM~2.5~, aging hallmarks, and age-related diseases: a nationwide prospective cohort study](lib/1-s2.0-S1352231026005431-main.pdf). Atmospheric Environment 2026;383:122313.
 https://doi.org/10.1016/j.atmosenv.2026.122313
 1. Han Z, Yin J, Cao WN, Zeng Q, **Sun SZ**\*. [Association between PM~2.5~ and its components and antral follicle count: A multicity study in Chinese adults](lib/1-s2.0-S0304389425033485-main.pdf). Journal of Hazardous Materials 2025; 500:140428. https://doi.org/10.1016/j.jhazmat.2025.140428
@@ -68,8 +73,7 @@ https://doi.org/10.1016/j.atmosenv.2026.122313
 1. Yuan K, Lv X, Zhang YC, Liu RY, Liang T, Zhang ZY, Cao WN, Wu LZ, **Sun SZ**\*. [Exposure to hourly ambient temperature and temperature change between neighboring days and risk of emergency department visits for cause-specific cardiovascular disease](lib/1-s2.0-S2212095524003948-main.pdf). Urban Climate 2024;58:102197. https://doi.org/10.1016/j.uclim.2024.102197
 1. Li CC, Meng XN, Zhang J, Wang HT, Lu HM, Cao ML,  **Sun SZ**\*, Wang YX. [Associations of metabolic changes and polygenic risk scores with cardiovascular outcomes and all-cuase mortality across BMI categories: a prospective cohort study](lib/s12933-024-02332-w.pdf). Cardiovascular Diabetology 2024;23:231. https://doi.org/10.1186/s12933-024-02332-w
 1. Wang HT, Liu D, Meng XN, Sun WX, Li cc, Lu HM, Zheng DQ, Wu LJ, **Sun SZ**\*, Wang YX. [Immunoglobulin G N-Glycosylation and Senescence-Associated Secretory Phenotype](lib/ijms-25-06337.pdf). International Journal of Molecular Sciences 2024; 25: 6337. https://doi.org/10.3390/ijms25126337
-1. Shi YD, Zhang YC, Yuan K, Han Z, Zhao S, Zhang ZY, Cao WN, Li YF, Zeng Q, **Sun SZ**\*. [Exposure to ambient ozone and sperm quality among adult men in China](lib/1-s2.0-S0147651324008297-main.pdf). Ecotoxicology and Environmental Safety 2024; 283: 116753. 	
-https://doi.org/10.1016/j.ecoenv.2024.116753
+1. Shi YD, Zhang YC, Yuan K, Han Z, Zhao S, Zhang ZY, Cao WN, Li YF, Zeng Q, **Sun SZ**\*. [Exposure to ambient ozone and sperm quality among adult men in China](lib/1-s2.0-S0147651324008297-main.pdf). Ecotoxicology and Environmental Safety 2024; 283: 116753. https://doi.org/10.1016/j.ecoenv.2024.116753
 
 1. Zhang YC, Zhao S, Cao WN, **Sun SZ**\*, Zeng Q, Luo P. [Ambient ozone exposure, semen plasma metabolites, and sperm quality decline among adult men in Wuhan China](lib/zhang-et-al-2024-ambient-ozone-exposure-semen.pdf). Environment & Health  2024;2(10): 729-738. https://doi.org/10.1021/envhealth.4c00066 
 1. Wu HS, Liu JQ, Conway E, Zhan N, Chen ZS, **Sun SZ**\*, Li JH. [Fine particulate matter components and depression among middle-aged and older adults in China](lib/1-s2.0-S0048969724043766-main.pdf). Science of the Total Environment 2024;946:174228. https://doi.org/10.1016/j.scitotenv.2024.174228
