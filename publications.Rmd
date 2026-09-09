@@ -36,7 +36,7 @@ body{ /* Normal  */
 ### **First or Corresponding Author**
 1. Wu GH, Yin J, Liu JY, Zhao S, **Sun SZ**\*. The emerging complexity of environmental health risks in the context of climate change. Research Connections 2026.
 
-1. Wang FR, Li YT, Li J, Ling X, Yang H, Pi YY, Li X, Zhang LW, Chen D, Chen GL, Cao J, Chen Q, **Sun SZ**\*, Zhou NY. Maternal-fetal distribution of synthetic phenolic antioxidants and their associations with gestational diabetes mellitus: A nested case-control study within the Chongqing PREBIC cohort. Ecotoxicology and Environmental Safety 2026;
+1. Wang FR, Li YT, Li J, Ling X, Yang H, Pi YY, Li X, Zhang LW, Chen D, Chen GL, Cao J, Chen Q, **Sun SZ**\*, Zhou NY. [Maternal-fetal distribution of synthetic phenolic antioxidants and their associations with gestational diabetes mellitus: A cross-sectional analysis nested within the Chongqing PREBIC cohort](lib/1-s2.0-S0147651326011097-main.pdf). Ecotoxicology and Environmental Safety 2026;323:120779. https://doi.org/10.1016/j.ecoenv.2026.120779
 
 1. Liu RY, Luo JS, Zhang YC, Wang FR, Xu J, Cao WN, **Sun SZ**\*. [Associations between accelerometer-assessed sleep patterns, proteomic signatures, and hallmarks of aging in adulthood](lib/Aging Cell - 2026 - Liu.pdf). Aging Cell 2026;25:e70685. https://doi.org/10.1111/acel.70685.
 1. Zhuang ZM, Cao WN, Xing ML, Li XQ, Tu PC, Chen ZJ, Wu LZ, **Sun SZ**\*. [Ambient PM~2.5~ and thyroid health: A cross-sectional study of 24,333 participants in Zhejiang, China](lib/1-s2.0-S0304389426022119-main.pdf). Journal of Hazardous Materials 2026.515:143231. https://doi.org/10.1016/j.jhazmat.2026.143231
