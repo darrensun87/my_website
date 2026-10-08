@@ -34,6 +34,7 @@ body{ /* Normal  */
 
 
 ### **First or Corresponding Author**
+1. Du YF, Abuduwayiti R, Sun F, Lin H, Chang C, **Sun SZ**\*, Cao WN. Prevalence and associated factors of COPD awareness and screening intention among community-dwelling older adults in China. International Journal of Chronic Obstructive Pulmonary Disease 2026;21. https://doi.org/10.2147/COPD.S601417
 1. Ma N, Cao WN, Yin J, Wang FR, Li CR, **Sun SZ**\*. Ambient air pollution exposure before and during pregnancy and risk of hypertensive disorders of pregnancy: a large multi-center cohort study. Journal of Hazardous Materials 2026.
 
 1. Liang T, Zhao S, Cao WN, Zeng Q, **Sun SZ**\*. Exposure to non-optimum ambient temperature and semen quality among reproductive-aged men in China. Ecotoxicology and Environmental Safety 2026.
@@ -140,12 +141,9 @@ https://doi.org/10.1016/j.atmosenv.2026.122313
 
 ### **Co-author**
 
-85. Wang HT, Wang JY, Meng XN, **Sun SZ**, Li JL, Wang YX. [Mendelian Randomization and Mediation Examination of the IgG N-Glycome Link Between Lifestyles and Age-Related Diseases](lib/Mediators of Inflammation - 2026.pdf). Mediators of Inflammation 2026;2146565.
+86. Wang HT, Wang JY, Meng XN, **Sun SZ**, Li JL, Wang YX. [Mendelian Randomization and Mediation Examination of the IgG N-Glycome Link Between Lifestyles and Age-Related Diseases](lib/Mediators of Inflammation - 2026.pdf). Mediators of Inflammation 2026;2146565.
 https://doi.org/10.1155/mi/2146565 
 
-=======
-85. Wang HT, Wang JY, Meng XN, **Sun SZ**, Li JL, Wang YX. Mendelian Randomization and Mediation Examination of the IgG N-Glycome Link Between Lifestyles and Age-Related Diseases. Mediators of Inflammation 2026;
->>>>>>> 7f34f29f609f4299e0813dc8747adc8efd7e8c70
 83. Sun YN, Qiao BY, Meng X, Wang MH, Zhang H, Wang ZF, **Sun SZ**, Zheng DQ, Yan YX, Wu LJ, Zhao YN, Dong WH, Liu K. [Nonlinear associations between exposure to natural environments and biological aging: A cohort study of middle-aged and older adults in China](lib/1-s2.0-S0531556526002627-main.pdf). Experimental Gerontology 2026;224:113283. https://doi.org/10.1016/j.exger.2026.113283
 83. Wu QC, Guo ZH, Yuan ZH, Ali ST, Wang K, Ryu S, Cao LR, **Sun SZ**, Chong MKC, Musa SS, He DH, Zhao S, Feng ZJ, Habib AG, Hao YT. [Rapid assessment of local disease control measures against the Marburg virus outbreak in Ethiopia in late 2025](lib/1-s2.0-S2468042726000606-main.pdf). Infectious Disease Modelling 2026; 11:1579-1582. https://doi.org/10.1016/j.idm.2026.06.003
 81. Pan KL, Guo ZH, Yuan ZH, Ali ST, Wang K, Ryu S, Cao LR, **Sun SZ**, Chong MKC, Mandal S, He DH, Zhao S, Feng ZJ, Hao YT. [Superspreading potential of Nipah virus disease despite self-limited human-to-human transmission in community](lib/PIIS1201971226003188.pdf). International Journal of Infectious Diseases 2026; 168:108683. https://doi.org/10.1016/j.ijid.2026.108683
