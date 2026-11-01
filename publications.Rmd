@@ -34,7 +34,7 @@ body{ /* Normal  */
 
 
 ### **First or Corresponding Author**
-1. Du YF, Abuduwayiti R, Sun F, Lin H, Chang C, **Sun SZ**\*, Cao WN. Prevalence and associated factors of COPD awareness and screening intention among community-dwelling older adults in China. International Journal of Chronic Obstructive Pulmonary Disease 2026;21. https://doi.org/10.2147/COPD.S601417
+1. Du YF, Abuduwayiti R, Sun F, Lin H, Chang C, **Sun SZ**\*, Cao WN. [Prevalence and associated factors of COPD awareness and screening intention among community-dwelling older adults in China](lib/COPD-601417.pdf). International Journal of Chronic Obstructive Pulmonary Disease 2026;21. https://doi.org/10.2147/COPD.S601417
 1. Ma N, Cao WN, Yin J, Wang FR, Li CR, **Sun SZ**\*. Ambient air pollution exposure before and during pregnancy and risk of hypertensive disorders of pregnancy: a large multi-center cohort study. Journal of Hazardous Materials 2026.
 
 1. Liang T, Zhao S, Cao WN, Zeng Q, **Sun SZ**\*. Exposure to non-optimum ambient temperature and semen quality among reproductive-aged men in China. Ecotoxicology and Environmental Safety 2026.
